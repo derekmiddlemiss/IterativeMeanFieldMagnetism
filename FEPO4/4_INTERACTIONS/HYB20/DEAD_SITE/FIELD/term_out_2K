@@ -1,0 +1,79 @@
+
+ TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT
+ TTTT Temperature   2.0000000000000000      Kelvin TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT
+ TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT
+ Starting moments
+ Site           1 =   0.0000000000000000     
+ Site           2 =   5.0000000000000000     
+ Site           3 =   5.0000000000000000     
+ Site           4 =   5.0000000000000000     
+ Site           5 =   5.0000000000000000     
+ Site           6 =   5.0000000000000000     
+ Site           7 =   5.0000000000000000     
+ Site           8 =   5.0000000000000000     
+
+ ****************************************************************************************************
+ ****Iteration number           1 *******************************************************************
+ ****************************************************************************************************
+ Non-simult. update. Site           1 moment=   0.0000000000000000      , exchange field=  -0.0000000000000000      Tesla
+ Non-simult. update. Site           2 moment=  -5.0000000000000000      , exchange field=  -213.34942466766609      Tesla
+ Non-simult. update. Site           3 moment=   4.9999999927039394      , exchange field=   24.224634462124346      Tesla
+ Non-simult. update. Site           4 moment=   4.9999999927039402      , exchange field=   24.224634504394320      Tesla
+ Non-simult. update. Site           5 moment=  -5.0000000000000000      , exchange field=  -221.10282658452320      Tesla
+ Non-simult. update. Site           6 moment=  -5.0000000000000000      , exchange field=  -163.16748403427505      Tesla
+ Non-simult. update. Site           7 moment=   5.0000000000000000      , exchange field=   145.34001522077494      Tesla
+ Non-simult. update. Site           8 moment=   5.0000000000000000      , exchange field=   145.34001522077494      Tesla
+ (Max_diff/damping)=   10.000000000000000     
+
+ ****************************************************************************************************
+ ****Iteration number           2 *******************************************************************
+ ****************************************************************************************************
+ Non-simult. update. Site           1 moment=   0.0000000000000000      , exchange field=  -0.0000000000000000      Tesla
+ Non-simult. update. Site           2 moment=  -5.0000000000000000      , exchange field=  -185.06373197253717      Tesla
+ Non-simult. update. Site           3 moment=   5.0000000000000000      , exchange field=   67.248817530672099      Tesla
+ Non-simult. update. Site           4 moment=   5.0000000000000000      , exchange field=   67.248817488402139      Tesla
+ Non-simult. update. Site           5 moment=  -5.0000000000000000      , exchange field=  -163.16748406566575      Tesla
+ Non-simult. update. Site           6 moment=  -5.0000000000000000      , exchange field=  -163.16748406566575      Tesla
+ Non-simult. update. Site           7 moment=   5.0000000000000000      , exchange field=   145.34001520013754      Tesla
+ Non-simult. update. Site           8 moment=   5.0000000000000000      , exchange field=   145.34001520013754      Tesla
+ (Max_diff/damping)=  7.29606064453491854E-009
+
+ ****************************************************************************************************
+ ****Iteration number           3 *******************************************************************
+ ****************************************************************************************************
+ Non-simult. update. Site           1 moment=   0.0000000000000000      , exchange field=  -0.0000000000000000      Tesla
+ Non-simult. update. Site           2 moment=  -5.0000000000000000      , exchange field=  -185.06373223183107      Tesla
+ Non-simult. update. Site           3 moment=   5.0000000000000000      , exchange field=   67.248817488402139      Tesla
+ Non-simult. update. Site           4 moment=   5.0000000000000000      , exchange field=   67.248817488402139      Tesla
+ Non-simult. update. Site           5 moment=  -5.0000000000000000      , exchange field=  -163.16748406566575      Tesla
+ Non-simult. update. Site           6 moment=  -5.0000000000000000      , exchange field=  -163.16748406566575      Tesla
+ Non-simult. update. Site           7 moment=   5.0000000000000000      , exchange field=   145.34001520013754      Tesla
+ Non-simult. update. Site           8 moment=   5.0000000000000000      , exchange field=   145.34001520013754      Tesla
+ (Max_diff/damping)=   0.0000000000000000     
+
+ ****************************************************************************************************
+ ****Iteration number           4 *******************************************************************
+ ****************************************************************************************************
+ Non-simult. update. Site           1 moment=   0.0000000000000000      , exchange field=  -0.0000000000000000      Tesla
+ Non-simult. update. Site           2 moment=  -5.0000000000000000      , exchange field=  -185.06373223183107      Tesla
+ Non-simult. update. Site           3 moment=   5.0000000000000000      , exchange field=   67.248817488402139      Tesla
+ Non-simult. update. Site           4 moment=   5.0000000000000000      , exchange field=   67.248817488402139      Tesla
+ Non-simult. update. Site           5 moment=  -5.0000000000000000      , exchange field=  -163.16748406566575      Tesla
+ Non-simult. update. Site           6 moment=  -5.0000000000000000      , exchange field=  -163.16748406566575      Tesla
+ Non-simult. update. Site           7 moment=   5.0000000000000000      , exchange field=   145.34001520013754      Tesla
+ Non-simult. update. Site           8 moment=   5.0000000000000000      , exchange field=   145.34001520013754      Tesla
+ (Max_diff/damping)=   0.0000000000000000     
+
+ ****************************************************************************************************
+ ****Iteration number           5 *******************************************************************
+ ****************************************************************************************************
+ Non-simult. update. Site           1 moment=   0.0000000000000000      , exchange field=  -0.0000000000000000      Tesla
+ Non-simult. update. Site           2 moment=  -5.0000000000000000      , exchange field=  -185.06373223183107      Tesla
+ Non-simult. update. Site           3 moment=   5.0000000000000000      , exchange field=   67.248817488402139      Tesla
+ Non-simult. update. Site           4 moment=   5.0000000000000000      , exchange field=   67.248817488402139      Tesla
+ Non-simult. update. Site           5 moment=  -5.0000000000000000      , exchange field=  -163.16748406566575      Tesla
+ Non-simult. update. Site           6 moment=  -5.0000000000000000      , exchange field=  -163.16748406566575      Tesla
+ Non-simult. update. Site           7 moment=   5.0000000000000000      , exchange field=   145.34001520013754      Tesla
+ Non-simult. update. Site           8 moment=   5.0000000000000000      , exchange field=   145.34001520013754      Tesla
+ (Max_diff/damping)=   0.0000000000000000     
+ (Max_diff/damping) converged to within tolerance  9.99999999999999939E-012

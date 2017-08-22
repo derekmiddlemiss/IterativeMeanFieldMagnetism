@@ -1,0 +1,13 @@
+ Temperature=   320.00000000000000      External field=   4.7000000000000002      Iterations=          87
+ Moment at site           1 =  5.25187275401538395E-002 Weight=   1.0000000000000000     
+ Moment at site           2 =  5.25187275401538395E-002 Weight=   1.0000000000000000     
+ Moment at site           3 =  5.25187275401538395E-002 Weight=   1.0000000000000000     
+ Moment at site           4 =  5.25187275401538395E-002 Weight=   1.0000000000000000     
+ Moment at site           5 =  5.25187275401538395E-002 Weight=   1.0000000000000000     
+ Moment at site           6 =  5.25187275401538395E-002 Weight=   1.0000000000000000     
+ Moment at site           7 =  5.25187275401538395E-002 Weight=   1.0000000000000000     
+ Moment at site           8 =  5.25187275401538395E-002 Weight=   1.0000000000000000     
+ Total moment     M=  0.42014982032123077      mu_B
+ Helmholtz energy A= -0.39529486400911207      eV
+ Internal energy  U= -5.21574223567729709E-005 eV
+ Entropy          S=  1.23513345808361034E-003 eV/K

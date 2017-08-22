@@ -1,0 +1,871 @@
+ Site weight at site           1 =   1.0000000000000000      Exch. weight=   1.0000000000000000     
+ Site weight at site           2 =   1.0000000000000000      Exch. weight=   1.0000000000000000     
+ Site weight at site           3 =   1.0000000000000000      Exch. weight=   1.0000000000000000     
+ Site weight at site           4 =   1.0000000000000000      Exch. weight=   1.0000000000000000     
+ Site weight at site           5 =   1.0000000000000000      Exch. weight=   1.0000000000000000     
+ Site weight at site           6 =   1.0000000000000000      Exch. weight=   1.0000000000000000     
+ Site weight at site           7 =   1.0000000000000000      Exch. weight=   1.0000000000000000     
+ Site weight at site           8 =   1.0000000000000000      Exch. weight=   1.0000000000000000     
+
+ Temperature=   2.0000000000000000      External field=   0.0000000000000000      Max SCF iterations=          10
+ Lowest energy configuration found at random iteration           9 of        1000 with A diff (eV)  -2.6996378895605788E-003
+ T=   2.0000000000000000      Moment at site           1 =   1.0000000000000000      Mom/sat_mom=   1.0000000000000000      Exch. field=   123.84439561464856     
+ T=   2.0000000000000000      Moment at site           2 =   1.0000000000000000      Mom/sat_mom=   1.0000000000000000      Exch. field=   123.84439561464856     
+ T=   2.0000000000000000      Moment at site           3 =  -1.0000000000000000      Mom/sat_mom=  -1.0000000000000000      Exch. field=  -123.84439561464856     
+ T=   2.0000000000000000      Moment at site           4 =  -1.0000000000000000      Mom/sat_mom=  -1.0000000000000000      Exch. field=  -123.84439561464856     
+ T=   2.0000000000000000      Moment at site           5 =   1.0000000000000000      Mom/sat_mom=   1.0000000000000000      Exch. field=   123.84439561464856     
+ T=   2.0000000000000000      Moment at site           6 =   1.0000000000000000      Mom/sat_mom=   1.0000000000000000      Exch. field=   123.84439561464856     
+ T=   2.0000000000000000      Moment at site           7 =  -1.0000000000000000      Mom/sat_mom=  -1.0000000000000000      Exch. field=  -123.84439561464856     
+ T=   2.0000000000000000      Moment at site           8 =  -1.0000000000000000      Mom/sat_mom=  -1.0000000000000000      Exch. field=  -123.84439561464856     
+ T=   2.0000000000000000      Total moment          M=   0.0000000000000000      mu_B
+ T=   2.0000000000000000      Helmholtz energy      A=  -2.8674345857605282E-002 eV
+ T=   2.0000000000000000      Internal energy  U_exch=  -2.8674345857605282E-002 eV
+ T=   2.0000000000000000      Internal energy U_field=   0.0000000000000000      eV
+ T=   2.0000000000000000      Total internal energy U=  -2.8674345857605282E-002 eV
+ T=   2.0000000000000000      Entropy               S=   0.0000000000000000      eV/K
+
+ Temperature=   3.0000000000000000      External field=   0.0000000000000000      Max SCF iterations=          17
+ Lowest energy configuration found at random iteration           1 of        1000 with A diff (eV)  -2.8674345857607156E-002
+ T=   3.0000000000000000      Moment at site           1 =  0.99999999999909361      Mom/sat_mom=  0.99999999999909361      Exch. field=   123.84439561453630     
+ T=   3.0000000000000000      Moment at site           2 =  0.99999999999909361      Mom/sat_mom=  0.99999999999909361      Exch. field=   123.84439561453630     
+ T=   3.0000000000000000      Moment at site           3 = -0.99999999999909361      Mom/sat_mom= -0.99999999999909361      Exch. field=  -123.84439561453630     
+ T=   3.0000000000000000      Moment at site           4 = -0.99999999999909361      Mom/sat_mom= -0.99999999999909361      Exch. field=  -123.84439561453630     
+ T=   3.0000000000000000      Moment at site           5 =  0.99999999999909361      Mom/sat_mom=  0.99999999999909361      Exch. field=   123.84439561453630     
+ T=   3.0000000000000000      Moment at site           6 =  0.99999999999909361      Mom/sat_mom=  0.99999999999909361      Exch. field=   123.84439561453630     
+ T=   3.0000000000000000      Moment at site           7 = -0.99999999999909361      Mom/sat_mom= -0.99999999999909361      Exch. field=  -123.84439561453630     
+ T=   3.0000000000000000      Moment at site           8 = -0.99999999999909361      Mom/sat_mom= -0.99999999999909361      Exch. field=  -123.84439561453630     
+ T=   3.0000000000000000      Total moment          M=   0.0000000000000000      mu_B
+ T=   3.0000000000000000      Helmholtz energy      A=  -2.8674345857607156E-002 eV
+ T=   3.0000000000000000      Internal energy  U_exch=  -2.8674345857553296E-002 eV
+ T=   3.0000000000000000      Internal energy U_field=   0.0000000000000000      eV
+ T=   3.0000000000000000      Total internal energy U=  -2.8674345857553296E-002 eV
+ T=   3.0000000000000000      Entropy               S=   1.7952804784484427E-014 eV/K
+
+ Temperature=   4.0000000000000000      External field=   0.0000000000000000      Max SCF iterations=          14
+ Lowest energy configuration found at random iteration           1 of        1000 with A diff (eV)  -2.8674345860166820E-002
+ T=   4.0000000000000000      Moment at site           1 =  0.99999999907108139      Mom/sat_mom=  0.99999999907108139      Exch. field=   123.84439549960717     
+ T=   4.0000000000000000      Moment at site           2 =  0.99999999907108139      Mom/sat_mom=  0.99999999907108139      Exch. field=   123.84439549960717     
+ T=   4.0000000000000000      Moment at site           3 = -0.99999999907108139      Mom/sat_mom= -0.99999999907108139      Exch. field=  -123.84439549960717     
+ T=   4.0000000000000000      Moment at site           4 = -0.99999999907108139      Mom/sat_mom= -0.99999999907108139      Exch. field=  -123.84439549960717     
+ T=   4.0000000000000000      Moment at site           5 =  0.99999999907108139      Mom/sat_mom=  0.99999999907108139      Exch. field=   123.84439549960717     
+ T=   4.0000000000000000      Moment at site           6 =  0.99999999907108139      Mom/sat_mom=  0.99999999907108139      Exch. field=   123.84439549960717     
+ T=   4.0000000000000000      Moment at site           7 = -0.99999999907108139      Mom/sat_mom= -0.99999999907108139      Exch. field=  -123.84439549960717     
+ T=   4.0000000000000000      Moment at site           8 = -0.99999999907108139      Mom/sat_mom= -0.99999999907108139      Exch. field=  -123.84439549960717     
+ T=   4.0000000000000000      Total moment          M=   0.0000000000000000      mu_B
+ T=   4.0000000000000000      Helmholtz energy      A=  -2.8674345860166820E-002 eV
+ T=   4.0000000000000000      Internal energy  U_exch=  -2.8674345804333017E-002 eV
+ T=   4.0000000000000000      Internal energy U_field=   0.0000000000000000      eV
+ T=   4.0000000000000000      Total internal energy U=  -2.8674345804333017E-002 eV
+ T=   4.0000000000000000      Entropy               S=   1.3958450500620389E-011 eV/K
+
+ Temperature=   5.0000000000000000      External field=   0.0000000000000000      Max SCF iterations=          59
+ Lowest energy configuration found at random iteration           1 of        1000 with A diff (eV)  -2.8674346062634221E-002
+ T=   5.0000000000000000      Moment at site           1 =  0.99999994051840801      Mom/sat_mom=  0.99999994051840801      Exch. field=   123.84438824818675     
+ T=   5.0000000000000000      Moment at site           2 =  0.99999994051840801      Mom/sat_mom=  0.99999994051840801      Exch. field=   123.84438824818675     
+ T=   5.0000000000000000      Moment at site           3 = -0.99999994051840801      Mom/sat_mom= -0.99999994051840801      Exch. field=  -123.84438824818675     
+ T=   5.0000000000000000      Moment at site           4 = -0.99999994051840801      Mom/sat_mom= -0.99999994051840801      Exch. field=  -123.84438824818675     
+ T=   5.0000000000000000      Moment at site           5 =  0.99999994051840801      Mom/sat_mom=  0.99999994051840801      Exch. field=   123.84438824818675     
+ T=   5.0000000000000000      Moment at site           6 =  0.99999994051840801      Mom/sat_mom=  0.99999994051840801      Exch. field=   123.84438824818675     
+ T=   5.0000000000000000      Moment at site           7 = -0.99999994051840801      Mom/sat_mom= -0.99999994051840801      Exch. field=  -123.84438824818675     
+ T=   5.0000000000000000      Moment at site           8 = -0.99999994051840801      Mom/sat_mom= -0.99999994051840801      Exch. field=  -123.84438824818675     
+ T=   5.0000000000000000      Total moment          M=   0.0000000000000000      mu_B
+ T=   5.0000000000000000      Helmholtz energy      A=  -2.8674346062634221E-002 eV
+ T=   5.0000000000000000      Internal energy  U_exch=  -2.8674342446413908E-002 eV
+ T=   5.0000000000000000      Internal energy U_field=   0.0000000000000000      eV
+ T=   5.0000000000000000      Total internal energy U=  -2.8674342446413908E-002 eV
+ T=   5.0000000000000000      Entropy               S=   7.2324406276532628E-010 eV/K
+
+ Temperature=   6.0000000000000000      External field=   0.0000000000000000      Max SCF iterations=          10
+ Lowest energy configuration found at random iteration           1 of        1000 with A diff (eV)  -2.8674349795543772E-002
+ T=   6.0000000000000000      Moment at site           1 =  0.99999904795402939      Mom/sat_mom=  0.99999904795402939      Exch. field=   123.84427770909075     
+ T=   6.0000000000000000      Moment at site           2 =  0.99999904795402939      Mom/sat_mom=  0.99999904795402939      Exch. field=   123.84427770909075     
+ T=   6.0000000000000000      Moment at site           3 = -0.99999904795402939      Mom/sat_mom= -0.99999904795402939      Exch. field=  -123.84427770909075     
+ T=   6.0000000000000000      Moment at site           4 = -0.99999904795402939      Mom/sat_mom= -0.99999904795402939      Exch. field=  -123.84427770909075     
+ T=   6.0000000000000000      Moment at site           5 =  0.99999904795402939      Mom/sat_mom=  0.99999904795402939      Exch. field=   123.84427770909075     
+ T=   6.0000000000000000      Moment at site           6 =  0.99999904795402939      Mom/sat_mom=  0.99999904795402939      Exch. field=   123.84427770909075     
+ T=   6.0000000000000000      Moment at site           7 = -0.99999904795402939      Mom/sat_mom= -0.99999904795402939      Exch. field=  -123.84427770909075     
+ T=   6.0000000000000000      Moment at site           8 = -0.99999904795402939      Mom/sat_mom= -0.99999904795402939      Exch. field=  -123.84427770909075     
+ T=   6.0000000000000000      Total moment          M=   0.0000000000000000      mu_B
+ T=   6.0000000000000000      Helmholtz energy      A=  -2.8674349795543772E-002 eV
+ T=   6.0000000000000000      Internal energy  U_exch=  -2.8674291259040412E-002 eV
+ T=   6.0000000000000000      Internal energy U_field=   0.0000000000000000      eV
+ T=   6.0000000000000000      Total internal energy U=  -2.8674291259040412E-002 eV
+ T=   6.0000000000000000      Entropy               S=   9.7560838935408180E-009 eV/K
+
+ Temperature=   7.0000000000000000      External field=   0.0000000000000000      Max SCF iterations=          10
+ Lowest energy configuration found at random iteration           1 of        1000 with A diff (eV)  -2.8674379156096368E-002
+ T=   7.0000000000000000      Moment at site           1 =  0.99999309946141501      Mom/sat_mom=  0.99999309946141501      Exch. field=   123.84354102161807     
+ T=   7.0000000000000000      Moment at site           2 =  0.99999309946141501      Mom/sat_mom=  0.99999309946141501      Exch. field=   123.84354102161807     
+ T=   7.0000000000000000      Moment at site           3 = -0.99999309946141501      Mom/sat_mom= -0.99999309946141501      Exch. field=  -123.84354102161807     
+ T=   7.0000000000000000      Moment at site           4 = -0.99999309946141501      Mom/sat_mom= -0.99999309946141501      Exch. field=  -123.84354102161807     
+ T=   7.0000000000000000      Moment at site           5 =  0.99999309946141501      Mom/sat_mom=  0.99999309946141501      Exch. field=   123.84354102161807     
+ T=   7.0000000000000000      Moment at site           6 =  0.99999309946141501      Mom/sat_mom=  0.99999309946141501      Exch. field=   123.84354102161807     
+ T=   7.0000000000000000      Moment at site           7 = -0.99999309946141501      Mom/sat_mom= -0.99999309946141501      Exch. field=  -123.84354102161807     
+ T=   7.0000000000000000      Moment at site           8 = -0.99999309946141501      Mom/sat_mom= -0.99999309946141501      Exch. field=  -123.84354102161807     
+ T=   7.0000000000000000      Total moment          M=   0.0000000000000000      mu_B
+ T=   7.0000000000000000      Helmholtz energy      A=  -2.8674379156096368E-002 eV
+ T=   7.0000000000000000      Internal energy  U_exch=  -2.8673950122110697E-002 eV
+ T=   7.0000000000000000      Internal energy U_field=   0.0000000000000000      eV
+ T=   7.0000000000000000      Total internal energy U=  -2.8673950122110697E-002 eV
+ T=   7.0000000000000000      Entropy               S=   6.1290569381778582E-008 eV/K
+
+ Temperature=   8.0000000000000000      External field=   0.0000000000000000      Max SCF iterations=          10
+ Lowest energy configuration found at random iteration           1 of        1000 with A diff (eV)  -2.8674513976724464E-002
+ T=   8.0000000000000000      Moment at site           1 =  0.99996951124031275      Mom/sat_mom=  0.99996951124031275      Exch. field=   123.84061975263205     
+ T=   8.0000000000000000      Moment at site           2 =  0.99996951124031275      Mom/sat_mom=  0.99996951124031275      Exch. field=   123.84061975263205     
+ T=   8.0000000000000000      Moment at site           3 = -0.99996951124031275      Mom/sat_mom= -0.99996951124031275      Exch. field=  -123.84061975263205     
+ T=   8.0000000000000000      Moment at site           4 = -0.99996951124031275      Mom/sat_mom= -0.99996951124031275      Exch. field=  -123.84061975263205     
+ T=   8.0000000000000000      Moment at site           5 =  0.99996951124031275      Mom/sat_mom=  0.99996951124031275      Exch. field=   123.84061975263205     
+ T=   8.0000000000000000      Moment at site           6 =  0.99996951124031275      Mom/sat_mom=  0.99996951124031275      Exch. field=   123.84061975263205     
+ T=   8.0000000000000000      Moment at site           7 = -0.99996951124031275      Mom/sat_mom= -0.99996951124031275      Exch. field=  -123.84061975263205     
+ T=   8.0000000000000000      Moment at site           8 = -0.99996951124031275      Mom/sat_mom= -0.99996951124031275      Exch. field=  -123.84061975263205     
+ T=   8.0000000000000000      Total moment          M=   0.0000000000000000      mu_B
+ T=   8.0000000000000000      Helmholtz energy      A=  -2.8674513976724464E-002 eV
+ T=   8.0000000000000000      Internal energy  U_exch=  -2.8672597393779847E-002 eV
+ T=   8.0000000000000000      Internal energy U_field=   0.0000000000000000      eV
+ T=   8.0000000000000000      Total internal energy U=  -2.8672597393779847E-002 eV
+ T=   8.0000000000000000      Entropy               S=   2.3957286807694187E-007 eV/K
+
+ Temperature=   9.0000000000000000      External field=   0.0000000000000000      Max SCF iterations=          10
+ Lowest energy configuration found at random iteration           1 of        1000 with A diff (eV)  -2.8674946600441852E-002
+ T=   9.0000000000000000      Moment at site           1 =  0.99990312788701008      Mom/sat_mom=  0.99990312788701008      Exch. field=   123.83239854636338     
+ T=   9.0000000000000000      Moment at site           2 =  0.99990312788701008      Mom/sat_mom=  0.99990312788701008      Exch. field=   123.83239854636338     
+ T=   9.0000000000000000      Moment at site           3 = -0.99990312788701008      Mom/sat_mom= -0.99990312788701008      Exch. field=  -123.83239854636338     
+ T=   9.0000000000000000      Moment at site           4 = -0.99990312788701008      Mom/sat_mom= -0.99990312788701008      Exch. field=  -123.83239854636338     
+ T=   9.0000000000000000      Moment at site           5 =  0.99990312788701008      Mom/sat_mom=  0.99990312788701008      Exch. field=   123.83239854636338     
+ T=   9.0000000000000000      Moment at site           6 =  0.99990312788701008      Mom/sat_mom=  0.99990312788701008      Exch. field=   123.83239854636338     
+ T=   9.0000000000000000      Moment at site           7 = -0.99990312788701008      Mom/sat_mom= -0.99990312788701008      Exch. field=  -123.83239854636338     
+ T=   9.0000000000000000      Moment at site           8 = -0.99990312788701008      Mom/sat_mom= -0.99990312788701008      Exch. field=  -123.83239854636338     
+ T=   9.0000000000000000      Total moment          M=   0.0000000000000000      mu_B
+ T=   9.0000000000000000      Helmholtz energy      A=  -2.8674946600441852E-002 eV
+ T=   9.0000000000000000      Internal energy  U_exch=  -2.8668790637747597E-002 eV
+ T=   9.0000000000000000      Internal energy U_field=   0.0000000000000000      eV
+ T=   9.0000000000000000      Total internal energy U=  -2.8668790637747597E-002 eV
+ T=   9.0000000000000000      Entropy               S=   6.8399585491725021E-007 eV/K
+
+ Temperature=   10.000000000000000      External field=   0.0000000000000000      Max SCF iterations=          10
+ Lowest energy configuration found at random iteration           1 of        1000 with A diff (eV)  -2.8676029106080199E-002
+ T=   10.000000000000000      Moment at site           1 =  0.99975555550266271      Mom/sat_mom=  0.99975555550266271      Exch. field=   123.81412253361445     
+ T=   10.000000000000000      Moment at site           2 =  0.99975555550266271      Mom/sat_mom=  0.99975555550266271      Exch. field=   123.81412253361445     
+ T=   10.000000000000000      Moment at site           3 = -0.99975555550266271      Mom/sat_mom= -0.99975555550266271      Exch. field=  -123.81412253361445     
+ T=   10.000000000000000      Moment at site           4 = -0.99975555550266271      Mom/sat_mom= -0.99975555550266271      Exch. field=  -123.81412253361445     
+ T=   10.000000000000000      Moment at site           5 =  0.99975555550266271      Mom/sat_mom=  0.99975555550266271      Exch. field=   123.81412253361445     
+ T=   10.000000000000000      Moment at site           6 =  0.99975555550266271      Mom/sat_mom=  0.99975555550266271      Exch. field=   123.81412253361445     
+ T=   10.000000000000000      Moment at site           7 = -0.99975555550266271      Mom/sat_mom= -0.99975555550266271      Exch. field=  -123.81412253361445     
+ T=   10.000000000000000      Moment at site           8 = -0.99975555550266271      Mom/sat_mom= -0.99975555550266271      Exch. field=  -123.81412253361445     
+ T=   10.000000000000000      Total moment          M=   0.0000000000000000      mu_B
+ T=   10.000000000000000      Helmholtz energy      A=  -2.8676029106080199E-002 eV
+ T=   10.000000000000000      Internal energy  U_exch=  -2.8660328998867404E-002 eV
+ T=   10.000000000000000      Internal energy U_field=   0.0000000000000000      eV
+ T=   10.000000000000000      Total internal energy U=  -2.8660328998867404E-002 eV
+ T=   10.000000000000000      Entropy               S=   1.5700107212794889E-006 eV/K
+
+ Temperature=   11.000000000000000      External field=   0.0000000000000000      Max SCF iterations=          10
+ Lowest energy configuration found at random iteration           1 of        1000 with A diff (eV)  -2.8678294546133253E-002
+ T=   11.000000000000000      Moment at site           1 =  0.99947812257039026      Mom/sat_mom=  0.99947812257039026      Exch. field=   123.77976401979357     
+ T=   11.000000000000000      Moment at site           2 =  0.99947812257039026      Mom/sat_mom=  0.99947812257039026      Exch. field=   123.77976401979357     
+ T=   11.000000000000000      Moment at site           3 = -0.99947812257038982      Mom/sat_mom= -0.99947812257038982      Exch. field=  -123.77976401979360     
+ T=   11.000000000000000      Moment at site           4 = -0.99947812257038982      Mom/sat_mom= -0.99947812257038982      Exch. field=  -123.77976401979363     
+ T=   11.000000000000000      Moment at site           5 =  0.99947812257039026      Mom/sat_mom=  0.99947812257039026      Exch. field=   123.77976401979357     
+ T=   11.000000000000000      Moment at site           6 =  0.99947812257039026      Mom/sat_mom=  0.99947812257039026      Exch. field=   123.77976401979357     
+ T=   11.000000000000000      Moment at site           7 = -0.99947812257038982      Mom/sat_mom= -0.99947812257038982      Exch. field=  -123.77976401979360     
+ T=   11.000000000000000      Moment at site           8 = -0.99947812257038982      Mom/sat_mom= -0.99947812257038982      Exch. field=  -123.77976401979363     
+ T=   11.000000000000000      Total moment          M=   1.7763568394002505E-015 mu_B
+ T=   11.000000000000000      Helmholtz energy      A=  -2.8678294546133253E-002 eV
+ T=   11.000000000000000      Internal energy  U_exch=  -2.8644424679413080E-002 eV
+ T=   11.000000000000000      Internal energy U_field=   0.0000000000000000      eV
+ T=   11.000000000000000      Total internal energy U=  -2.8644424679413080E-002 eV
+ T=   11.000000000000000      Entropy               S=   3.0790787927431503E-006 eV/K
+
+ Temperature=   12.000000000000000      External field=   0.0000000000000000      Max SCF iterations=          10
+ Lowest energy configuration found at random iteration           1 of        1000 with A diff (eV)  -2.8682449121603591E-002
+ T=   12.000000000000000      Moment at site           1 =  0.99901664107811572      Mom/sat_mom=  0.99901664107811572      Exch. field=   123.72261212329548     
+ T=   12.000000000000000      Moment at site           2 =  0.99901664107811528      Mom/sat_mom=  0.99901664107811528      Exch. field=   123.72261212329545     
+ T=   12.000000000000000      Moment at site           3 = -0.99901664107811528      Mom/sat_mom= -0.99901664107811528      Exch. field=  -123.72261212329551     
+ T=   12.000000000000000      Moment at site           4 = -0.99901664107811528      Mom/sat_mom= -0.99901664107811528      Exch. field=  -123.72261212329551     
+ T=   12.000000000000000      Moment at site           5 =  0.99901664107811528      Mom/sat_mom=  0.99901664107811528      Exch. field=   123.72261212329545     
+ T=   12.000000000000000      Moment at site           6 =  0.99901664107811572      Mom/sat_mom=  0.99901664107811572      Exch. field=   123.72261212329548     
+ T=   12.000000000000000      Moment at site           7 = -0.99901664107811528      Mom/sat_mom= -0.99901664107811528      Exch. field=  -123.72261212329551     
+ T=   12.000000000000000      Moment at site           8 = -0.99901664107811528      Mom/sat_mom= -0.99901664107811528      Exch. field=  -123.72261212329551     
+ T=   12.000000000000000      Total moment          M=   8.8817841970012523E-016 mu_B
+ T=   12.000000000000000      Helmholtz energy      A=  -2.8682449121603591E-002 eV
+ T=   12.000000000000000      Internal energy  U_exch=  -2.8617979237891170E-002 eV
+ T=   12.000000000000000      Internal energy U_field=   0.0000000000000000      eV
+ T=   12.000000000000000      Total internal energy U=  -2.8617979237891170E-002 eV
+ T=   12.000000000000000      Entropy               S=   5.3724903093683832E-006 eV/K
+
+ Temperature=   13.000000000000000      External field=   0.0000000000000000      Max SCF iterations=          10
+ Lowest energy configuration found at random iteration           1 of        1000 with A diff (eV)  -2.8689343329530735E-002
+ T=   13.000000000000000      Moment at site           1 =  0.99831607397289401      Mom/sat_mom=  0.99831607397289401      Exch. field=   123.63585081356186     
+ T=   13.000000000000000      Moment at site           2 =  0.99831607397289401      Mom/sat_mom=  0.99831607397289401      Exch. field=   123.63585081356186     
+ T=   13.000000000000000      Moment at site           3 = -0.99831607397289401      Mom/sat_mom= -0.99831607397289401      Exch. field=  -123.63585081356186     
+ T=   13.000000000000000      Moment at site           4 = -0.99831607397289401      Mom/sat_mom= -0.99831607397289401      Exch. field=  -123.63585081356186     
+ T=   13.000000000000000      Moment at site           5 =  0.99831607397289401      Mom/sat_mom=  0.99831607397289401      Exch. field=   123.63585081356186     
+ T=   13.000000000000000      Moment at site           6 =  0.99831607397289401      Mom/sat_mom=  0.99831607397289401      Exch. field=   123.63585081356186     
+ T=   13.000000000000000      Moment at site           7 = -0.99831607397289401      Mom/sat_mom= -0.99831607397289401      Exch. field=  -123.63585081356186     
+ T=   13.000000000000000      Moment at site           8 = -0.99831607397289401      Mom/sat_mom= -0.99831607397289401      Exch. field=  -123.63585081356186     
+ T=   13.000000000000000      Total moment          M=   0.0000000000000000      mu_B
+ T=   13.000000000000000      Helmholtz energy      A=  -2.8689343329530735E-002 eV
+ T=   13.000000000000000      Internal energy  U_exch=  -2.8577856212177517E-002 eV
+ T=   13.000000000000000      Internal energy U_field=   0.0000000000000000      eV
+ T=   13.000000000000000      Total internal energy U=  -2.8577856212177517E-002 eV
+ T=   13.000000000000000      Entropy               S=   8.5759321040938740E-006 eV/K
+
+ Temperature=   14.000000000000000      External field=   0.0000000000000000      Max SCF iterations=          10
+ Lowest energy configuration found at random iteration           1 of        1000 with A diff (eV)  -2.8699933160121181E-002
+ T=   14.000000000000000      Moment at site           1 =  0.99732404335404290      Mom/sat_mom=  0.99732404335404290      Exch. field=   123.51299338113898     
+ T=   14.000000000000000      Moment at site           2 =  0.99732404335404290      Mom/sat_mom=  0.99732404335404290      Exch. field=   123.51299338113898     
+ T=   14.000000000000000      Moment at site           3 = -0.99732404335404290      Mom/sat_mom= -0.99732404335404290      Exch. field=  -123.51299338113898     
+ T=   14.000000000000000      Moment at site           4 = -0.99732404335404290      Mom/sat_mom= -0.99732404335404290      Exch. field=  -123.51299338113898     
+ T=   14.000000000000000      Moment at site           5 =  0.99732404335404290      Mom/sat_mom=  0.99732404335404290      Exch. field=   123.51299338113898     
+ T=   14.000000000000000      Moment at site           6 =  0.99732404335404290      Mom/sat_mom=  0.99732404335404290      Exch. field=   123.51299338113898     
+ T=   14.000000000000000      Moment at site           7 = -0.99732404335404290      Mom/sat_mom= -0.99732404335404290      Exch. field=  -123.51299338113898     
+ T=   14.000000000000000      Moment at site           8 = -0.99732404335404290      Mom/sat_mom= -0.99732404335404290      Exch. field=  -123.51299338113898     
+ T=   14.000000000000000      Total moment          M=   0.0000000000000000      mu_B
+ T=   14.000000000000000      Helmholtz energy      A=  -2.8699933160121181E-002 eV
+ T=   14.000000000000000      Internal energy  U_exch=  -2.8521088574522239E-002 eV
+ T=   14.000000000000000      Internal energy U_field=   0.0000000000000000      eV
+ T=   14.000000000000000      Total internal energy U=  -2.8521088574522239E-002 eV
+ T=   14.000000000000000      Entropy               S=   1.2774613257067356E-005 eV/K
+
+ Temperature=   15.000000000000000      External field=   0.0000000000000000      Max SCF iterations=          11
+ Lowest energy configuration found at random iteration           1 of        1000 with A diff (eV)  -2.8715240368202131E-002
+ T=   15.000000000000000      Moment at site           1 =  0.99599291914018862      Mom/sat_mom=  0.99599291914018862      Exch. field=   123.34814110738617     
+ T=   15.000000000000000      Moment at site           2 =  0.99599291914018862      Mom/sat_mom=  0.99599291914018862      Exch. field=   123.34814110738617     
+ T=   15.000000000000000      Moment at site           3 = -0.99599291914018862      Mom/sat_mom= -0.99599291914018862      Exch. field=  -123.34814110738617     
+ T=   15.000000000000000      Moment at site           4 = -0.99599291914018862      Mom/sat_mom= -0.99599291914018862      Exch. field=  -123.34814110738617     
+ T=   15.000000000000000      Moment at site           5 =  0.99599291914018862      Mom/sat_mom=  0.99599291914018862      Exch. field=   123.34814110738617     
+ T=   15.000000000000000      Moment at site           6 =  0.99599291914018862      Mom/sat_mom=  0.99599291914018862      Exch. field=   123.34814110738617     
+ T=   15.000000000000000      Moment at site           7 = -0.99599291914018862      Mom/sat_mom= -0.99599291914018862      Exch. field=  -123.34814110738617     
+ T=   15.000000000000000      Moment at site           8 = -0.99599291914018862      Mom/sat_mom= -0.99599291914018862      Exch. field=  -123.34814110738617     
+ T=   15.000000000000000      Total moment          M=   0.0000000000000000      mu_B
+ T=   15.000000000000000      Helmholtz energy      A=  -2.8715240368202131E-002 eV
+ T=   15.000000000000000      Internal energy  U_exch=  -2.8445005427981632E-002 eV
+ T=   15.000000000000000      Internal energy U_field=   0.0000000000000000      eV
+ T=   15.000000000000000      Total internal energy U=  -2.8445005427981632E-002 eV
+ T=   15.000000000000000      Entropy               S=   1.8015662681366598E-005 eV/K
+
+ Temperature=   16.000000000000000      External field=   0.0000000000000000      Max SCF iterations=          10
+ Lowest energy configuration found at random iteration           1 of        1000 with A diff (eV)  -2.8736317281691515E-002
+ T=   16.000000000000000      Moment at site           1 =  0.99428068817208404      Mom/sat_mom=  0.99428068817208404      Exch. field=   123.13609089798862     
+ T=   16.000000000000000      Moment at site           2 =  0.99428068817208404      Mom/sat_mom=  0.99428068817208404      Exch. field=   123.13609089798862     
+ T=   16.000000000000000      Moment at site           3 = -0.99428068817208404      Mom/sat_mom= -0.99428068817208404      Exch. field=  -123.13609089798862     
+ T=   16.000000000000000      Moment at site           4 = -0.99428068817208404      Mom/sat_mom= -0.99428068817208404      Exch. field=  -123.13609089798862     
+ T=   16.000000000000000      Moment at site           5 =  0.99428068817208404      Mom/sat_mom=  0.99428068817208404      Exch. field=   123.13609089798862     
+ T=   16.000000000000000      Moment at site           6 =  0.99428068817208404      Mom/sat_mom=  0.99428068817208404      Exch. field=   123.13609089798862     
+ T=   16.000000000000000      Moment at site           7 = -0.99428068817208404      Mom/sat_mom= -0.99428068817208404      Exch. field=  -123.13609089798862     
+ T=   16.000000000000000      Moment at site           8 = -0.99428068817208404      Mom/sat_mom= -0.99428068817208404      Exch. field=  -123.13609089798862     
+ T=   16.000000000000000      Total moment          M=   0.0000000000000000      mu_B
+ T=   16.000000000000000      Helmholtz energy      A=  -2.8736317281691515E-002 eV
+ T=   16.000000000000000      Internal energy  U_exch=  -2.8347288759749872E-002 eV
+ T=   16.000000000000000      Internal energy U_field=   0.0000000000000000      eV
+ T=   16.000000000000000      Total internal energy U=  -2.8347288759749872E-002 eV
+ T=   16.000000000000000      Entropy               S=   2.4314282621352683E-005 eV/K
+
+ Temperature=   17.000000000000000      External field=   0.0000000000000000      Max SCF iterations=          11
+ Lowest energy configuration found at random iteration           1 of        1000 with A diff (eV)  -2.8764218519089890E-002
+ T=   17.000000000000000      Moment at site           1 =  0.99215095956914445      Mom/sat_mom=  0.99215095956914445      Exch. field=   122.87233594633435     
+ T=   17.000000000000000      Moment at site           2 =  0.99215095956914445      Mom/sat_mom=  0.99215095956914445      Exch. field=   122.87233594633435     
+ T=   17.000000000000000      Moment at site           3 = -0.99215095956914445      Mom/sat_mom= -0.99215095956914445      Exch. field=  -122.87233594633435     
+ T=   17.000000000000000      Moment at site           4 = -0.99215095956914445      Mom/sat_mom= -0.99215095956914445      Exch. field=  -122.87233594633435     
+ T=   17.000000000000000      Moment at site           5 =  0.99215095956914445      Mom/sat_mom=  0.99215095956914445      Exch. field=   122.87233594633435     
+ T=   17.000000000000000      Moment at site           6 =  0.99215095956914445      Mom/sat_mom=  0.99215095956914445      Exch. field=   122.87233594633435     
+ T=   17.000000000000000      Moment at site           7 = -0.99215095956914445      Mom/sat_mom= -0.99215095956914445      Exch. field=  -122.87233594633435     
+ T=   17.000000000000000      Moment at site           8 = -0.99215095956914445      Mom/sat_mom= -0.99215095956914445      Exch. field=  -122.87233594633435     
+ T=   17.000000000000000      Total moment          M=   0.0000000000000000      mu_B
+ T=   17.000000000000000      Helmholtz energy      A=  -2.8764218519089890E-002 eV
+ T=   17.000000000000000      Internal energy  U_exch=  -2.8225980210594175E-002 eV
+ T=   17.000000000000000      Internal energy U_field=   0.0000000000000000      eV
+ T=   17.000000000000000      Total internal energy U=  -2.8225980210594175E-002 eV
+ T=   17.000000000000000      Entropy               S=   3.1661076970336348E-005 eV/K
+
+ Temperature=   18.000000000000000      External field=   0.0000000000000000      Max SCF iterations=          12
+ Lowest energy configuration found at random iteration           1 of        1000 with A diff (eV)  -2.8799979953347671E-002
+ T=   18.000000000000000      Moment at site           1 =  0.98957244719148751      Mom/sat_mom=  0.98957244719148751      Exch. field=   122.55300163933850     
+ T=   18.000000000000000      Moment at site           2 =  0.98957244719148751      Mom/sat_mom=  0.98957244719148751      Exch. field=   122.55300163933850     
+ T=   18.000000000000000      Moment at site           3 = -0.98957244719148751      Mom/sat_mom= -0.98957244719148751      Exch. field=  -122.55300163933850     
+ T=   18.000000000000000      Moment at site           4 = -0.98957244719148751      Mom/sat_mom= -0.98957244719148751      Exch. field=  -122.55300163933850     
+ T=   18.000000000000000      Moment at site           5 =  0.98957244719148751      Mom/sat_mom=  0.98957244719148751      Exch. field=   122.55300163933850     
+ T=   18.000000000000000      Moment at site           6 =  0.98957244719148751      Mom/sat_mom=  0.98957244719148751      Exch. field=   122.55300163933850     
+ T=   18.000000000000000      Moment at site           7 = -0.98957244719148751      Mom/sat_mom= -0.98957244719148751      Exch. field=  -122.55300163933850     
+ T=   18.000000000000000      Moment at site           8 = -0.98957244719148751      Mom/sat_mom= -0.98957244719148751      Exch. field=  -122.55300163933850     
+ T=   18.000000000000000      Total moment          M=   0.0000000000000000      mu_B
+ T=   18.000000000000000      Helmholtz energy      A=  -2.8799979953347671E-002 eV
+ T=   18.000000000000000      Internal energy  U_exch=  -2.8079457218484337E-002 eV
+ T=   18.000000000000000      Internal energy U_field=   0.0000000000000000      eV
+ T=   18.000000000000000      Total internal energy U=  -2.8079457218484337E-002 eV
+ T=   18.000000000000000      Entropy               S=   4.0029040825740879E-005 eV/K
+
+ Temperature=   19.000000000000000      External field=   0.0000000000000000      Max SCF iterations=          12
+ Lowest energy configuration found at random iteration           1 of        1000 with A diff (eV)  -2.8844604177381793E-002
+ T=   19.000000000000000      Moment at site           1 =  0.98651819033815846      Mom/sat_mom=  0.98651819033815846      Exch. field=   122.17474904528609     
+ T=   19.000000000000000      Moment at site           2 =  0.98651819033815846      Mom/sat_mom=  0.98651819033815846      Exch. field=   122.17474904528609     
+ T=   19.000000000000000      Moment at site           3 = -0.98651819033815846      Mom/sat_mom= -0.98651819033815846      Exch. field=  -122.17474904528609     
+ T=   19.000000000000000      Moment at site           4 = -0.98651819033815846      Mom/sat_mom= -0.98651819033815846      Exch. field=  -122.17474904528609     
+ T=   19.000000000000000      Moment at site           5 =  0.98651819033815846      Mom/sat_mom=  0.98651819033815846      Exch. field=   122.17474904528609     
+ T=   19.000000000000000      Moment at site           6 =  0.98651819033815846      Mom/sat_mom=  0.98651819033815846      Exch. field=   122.17474904528609     
+ T=   19.000000000000000      Moment at site           7 = -0.98651819033815846      Mom/sat_mom= -0.98651819033815846      Exch. field=  -122.17474904528609     
+ T=   19.000000000000000      Moment at site           8 = -0.98651819033815846      Mom/sat_mom= -0.98651819033815846      Exch. field=  -122.17474904528609     
+ T=   19.000000000000000      Total moment          M=   0.0000000000000000      mu_B
+ T=   19.000000000000000      Helmholtz energy      A=  -2.8844604177381793E-002 eV
+ T=   19.000000000000000      Internal energy  U_exch=  -2.7906393537472460E-002 eV
+ T=   19.000000000000000      Internal energy U_field=   0.0000000000000000      eV
+ T=   19.000000000000000      Total internal energy U=  -2.7906393537472460E-002 eV
+ T=   19.000000000000000      Entropy               S=   4.9379507363649116E-005 eV/K
+
+ Temperature=   20.000000000000000      External field=   0.0000000000000000      Max SCF iterations=          12
+ Lowest energy configuration found at random iteration           1 of        1000 with A diff (eV)  -2.8899051296995083E-002
+ T=   20.000000000000000      Moment at site           1 =  0.98296468705924189      Mom/sat_mom=  0.98296468705924189      Exch. field=   121.73466757939394     
+ T=   20.000000000000000      Moment at site           2 =  0.98296468705924189      Mom/sat_mom=  0.98296468705924189      Exch. field=   121.73466757939394     
+ T=   20.000000000000000      Moment at site           3 = -0.98296468705924189      Mom/sat_mom= -0.98296468705924189      Exch. field=  -121.73466757939394     
+ T=   20.000000000000000      Moment at site           4 = -0.98296468705924189      Mom/sat_mom= -0.98296468705924189      Exch. field=  -121.73466757939394     
+ T=   20.000000000000000      Moment at site           5 =  0.98296468705924189      Mom/sat_mom=  0.98296468705924189      Exch. field=   121.73466757939394     
+ T=   20.000000000000000      Moment at site           6 =  0.98296468705924189      Mom/sat_mom=  0.98296468705924189      Exch. field=   121.73466757939394     
+ T=   20.000000000000000      Moment at site           7 = -0.98296468705924189      Mom/sat_mom= -0.98296468705924189      Exch. field=  -121.73466757939394     
+ T=   20.000000000000000      Moment at site           8 = -0.98296468705924189      Mom/sat_mom= -0.98296468705924189      Exch. field=  -121.73466757939394     
+ T=   20.000000000000000      Total moment          M=   0.0000000000000000      mu_B
+ T=   20.000000000000000      Helmholtz energy      A=  -2.8899051296995083E-002 eV
+ T=   20.000000000000000      Internal energy  U_exch=  -2.7705714296769671E-002 eV
+ T=   20.000000000000000      Internal energy U_field=   0.0000000000000000      eV
+ T=   20.000000000000000      Total internal energy U=  -2.7705714296769671E-002 eV
+ T=   20.000000000000000      Entropy               S=   5.9666850011270532E-005 eV/K
+
+ Temperature=   21.000000000000000      External field=   0.0000000000000000      Max SCF iterations=          14
+ Lowest energy configuration found at random iteration           1 of        1000 with A diff (eV)  -2.8964233823246473E-002
+ T=   21.000000000000000      Moment at site           1 =  0.97889104361304002      Mom/sat_mom=  0.97889104361304002      Exch. field=   121.23016966884950     
+ T=   21.000000000000000      Moment at site           2 =  0.97889104361304002      Mom/sat_mom=  0.97889104361304002      Exch. field=   121.23016966884950     
+ T=   21.000000000000000      Moment at site           3 = -0.97889104361304002      Mom/sat_mom= -0.97889104361304002      Exch. field=  -121.23016966884950     
+ T=   21.000000000000000      Moment at site           4 = -0.97889104361304002      Mom/sat_mom= -0.97889104361304002      Exch. field=  -121.23016966884950     
+ T=   21.000000000000000      Moment at site           5 =  0.97889104361304002      Mom/sat_mom=  0.97889104361304002      Exch. field=   121.23016966884950     
+ T=   21.000000000000000      Moment at site           6 =  0.97889104361304002      Mom/sat_mom=  0.97889104361304002      Exch. field=   121.23016966884950     
+ T=   21.000000000000000      Moment at site           7 = -0.97889104361304002      Mom/sat_mom= -0.97889104361304002      Exch. field=  -121.23016966884950     
+ T=   21.000000000000000      Moment at site           8 = -0.97889104361304002      Mom/sat_mom= -0.97889104361304002      Exch. field=  -121.23016966884950     
+ T=   21.000000000000000      Total moment          M=   0.0000000000000000      mu_B
+ T=   21.000000000000000      Helmholtz energy      A=  -2.8964233823246473E-002 eV
+ T=   21.000000000000000      Internal energy  U_exch=  -2.7476551770901386E-002 eV
+ T=   21.000000000000000      Internal energy U_field=   0.0000000000000000      eV
+ T=   21.000000000000000      Total internal energy U=  -2.7476551770901386E-002 eV
+ T=   21.000000000000000      Entropy               S=   7.0842002492623211E-005 eV/K
+
+ Temperature=   22.000000000000000      External field=   0.0000000000000000      Max SCF iterations=          13
+ Lowest energy configuration found at random iteration           1 of        1000 with A diff (eV)  -2.9041014564992345E-002
+ T=   22.000000000000000      Moment at site           1 =  0.97427819330398679      Mom/sat_mom=  0.97427819330398679      Exch. field=   120.65889401026398     
+ T=   22.000000000000000      Moment at site           2 =  0.97427819330398679      Mom/sat_mom=  0.97427819330398679      Exch. field=   120.65889401026398     
+ T=   22.000000000000000      Moment at site           3 = -0.97427819330398679      Mom/sat_mom= -0.97427819330398679      Exch. field=  -120.65889401026398     
+ T=   22.000000000000000      Moment at site           4 = -0.97427819330398679      Mom/sat_mom= -0.97427819330398679      Exch. field=  -120.65889401026398     
+ T=   22.000000000000000      Moment at site           5 =  0.97427819330398679      Mom/sat_mom=  0.97427819330398679      Exch. field=   120.65889401026398     
+ T=   22.000000000000000      Moment at site           6 =  0.97427819330398679      Mom/sat_mom=  0.97427819330398679      Exch. field=   120.65889401026398     
+ T=   22.000000000000000      Moment at site           7 = -0.97427819330398679      Mom/sat_mom= -0.97427819330398679      Exch. field=  -120.65889401026398     
+ T=   22.000000000000000      Moment at site           8 = -0.97427819330398679      Mom/sat_mom= -0.97427819330398679      Exch. field=  -120.65889401026398     
+ T=   22.000000000000000      Total moment          M=   0.0000000000000000      mu_B
+ T=   22.000000000000000      Helmholtz energy      A=  -2.9041014564992345E-002 eV
+ T=   22.000000000000000      Internal energy  U_exch=  -2.7218205167415448E-002 eV
+ T=   22.000000000000000      Internal energy U_field=   0.0000000000000000      eV
+ T=   22.000000000000000      Total internal energy U=  -2.7218205167415448E-002 eV
+ T=   22.000000000000000      Entropy               S=   8.2854972617131789E-005 eV/K
+
+ Temperature=   23.000000000000000      External field=   0.0000000000000000      Max SCF iterations=          13
+ Lowest energy configuration found at random iteration           1 of        1000 with A diff (eV)  -2.9130206617457740E-002
+ T=   23.000000000000000      Moment at site           1 =  0.96910820541421816      Mom/sat_mom=  0.96910820541421816      Exch. field=   120.01861998472047     
+ T=   23.000000000000000      Moment at site           2 =  0.96910820541421816      Mom/sat_mom=  0.96910820541421816      Exch. field=   120.01861998472047     
+ T=   23.000000000000000      Moment at site           3 = -0.96910820541421816      Mom/sat_mom= -0.96910820541421816      Exch. field=  -120.01861998472047     
+ T=   23.000000000000000      Moment at site           4 = -0.96910820541421816      Mom/sat_mom= -0.96910820541421816      Exch. field=  -120.01861998472047     
+ T=   23.000000000000000      Moment at site           5 =  0.96910820541421816      Mom/sat_mom=  0.96910820541421816      Exch. field=   120.01861998472047     
+ T=   23.000000000000000      Moment at site           6 =  0.96910820541421816      Mom/sat_mom=  0.96910820541421816      Exch. field=   120.01861998472047     
+ T=   23.000000000000000      Moment at site           7 = -0.96910820541421816      Mom/sat_mom= -0.96910820541421816      Exch. field=  -120.01861998472047     
+ T=   23.000000000000000      Moment at site           8 = -0.96910820541421816      Mom/sat_mom= -0.96910820541421816      Exch. field=  -120.01861998472047     
+ T=   23.000000000000000      Total moment          M=   0.0000000000000000      mu_B
+ T=   23.000000000000000      Helmholtz energy      A=  -2.9130206617457740E-002 eV
+ T=   23.000000000000000      Internal energy  U_exch=  -2.6930105866868660E-002 eV
+ T=   23.000000000000000      Internal energy U_field=   0.0000000000000000      eV
+ T=   23.000000000000000      Total internal energy U=  -2.6930105866868660E-002 eV
+ T=   23.000000000000000      Entropy               S=   9.5656554373438262E-005 eV/K
+
+ Temperature=   24.000000000000000      External field=   0.0000000000000000      Max SCF iterations=          14
+ Lowest energy configuration found at random iteration           1 of        1000 with A diff (eV)  -2.9232574743066744E-002
+ T=   24.000000000000000      Moment at site           1 =  0.96336368551728491      Mom/sat_mom=  0.96336368551728491      Exch. field=   119.30719338998853     
+ T=   24.000000000000000      Moment at site           2 =  0.96336368551728491      Mom/sat_mom=  0.96336368551728491      Exch. field=   119.30719338998853     
+ T=   24.000000000000000      Moment at site           3 = -0.96336368551728491      Mom/sat_mom= -0.96336368551728491      Exch. field=  -119.30719338998853     
+ T=   24.000000000000000      Moment at site           4 = -0.96336368551728491      Mom/sat_mom= -0.96336368551728491      Exch. field=  -119.30719338998853     
+ T=   24.000000000000000      Moment at site           5 =  0.96336368551728491      Mom/sat_mom=  0.96336368551728491      Exch. field=   119.30719338998853     
+ T=   24.000000000000000      Moment at site           6 =  0.96336368551728491      Mom/sat_mom=  0.96336368551728491      Exch. field=   119.30719338998853     
+ T=   24.000000000000000      Moment at site           7 = -0.96336368551728491      Mom/sat_mom= -0.96336368551728491      Exch. field=  -119.30719338998853     
+ T=   24.000000000000000      Moment at site           8 = -0.96336368551728491      Mom/sat_mom= -0.96336368551728491      Exch. field=  -119.30719338998853     
+ T=   24.000000000000000      Total moment          M=   0.0000000000000000      mu_B
+ T=   24.000000000000000      Helmholtz energy      A=  -2.9232574743066744E-002 eV
+ T=   24.000000000000000      Internal energy  U_exch=  -2.6611788420029127E-002 eV
+ T=   24.000000000000000      Internal energy U_field=   0.0000000000000000      eV
+ T=   24.000000000000000      Total internal energy U=  -2.6611788420029127E-002 eV
+ T=   24.000000000000000      Entropy               S=   1.0919943012656746E-004 eV/K
+
+ Temperature=   25.000000000000000      External field=   0.0000000000000000      Max SCF iterations=          14
+ Lowest energy configuration found at random iteration           1 of        1000 with A diff (eV)  -2.9348837618598661E-002
+ T=   25.000000000000000      Moment at site           1 =  0.95702725782457621      Mom/sat_mom=  0.95702725782457621      Exch. field=   118.52246233202902     
+ T=   25.000000000000000      Moment at site           2 =  0.95702725782457621      Mom/sat_mom=  0.95702725782457621      Exch. field=   118.52246233202902     
+ T=   25.000000000000000      Moment at site           3 = -0.95702725782457621      Mom/sat_mom= -0.95702725782457621      Exch. field=  -118.52246233202902     
+ T=   25.000000000000000      Moment at site           4 = -0.95702725782457621      Mom/sat_mom= -0.95702725782457621      Exch. field=  -118.52246233202902     
+ T=   25.000000000000000      Moment at site           5 =  0.95702725782457621      Mom/sat_mom=  0.95702725782457621      Exch. field=   118.52246233202902     
+ T=   25.000000000000000      Moment at site           6 =  0.95702725782457621      Mom/sat_mom=  0.95702725782457621      Exch. field=   118.52246233202902     
+ T=   25.000000000000000      Moment at site           7 = -0.95702725782457632      Mom/sat_mom= -0.95702725782457632      Exch. field=  -118.52246233202899     
+ T=   25.000000000000000      Moment at site           8 = -0.95702725782457632      Mom/sat_mom= -0.95702725782457632      Exch. field=  -118.52246233202899     
+ T=   25.000000000000000      Total moment          M=  -2.2204460492503131E-016 mu_B
+ T=   25.000000000000000      Helmholtz energy      A=  -2.9348837618598661E-002 eV
+ T=   25.000000000000000      Internal energy  U_exch=  -2.6262866983600225E-002 eV
+ T=   25.000000000000000      Internal energy U_field=   0.0000000000000000      eV
+ T=   25.000000000000000      Total internal energy U=  -2.6262866983600225E-002 eV
+ T=   25.000000000000000      Entropy               S=   1.2343882539993749E-004 eV/K
+
+ Temperature=   26.000000000000000      External field=   0.0000000000000000      Max SCF iterations=          15
+ Lowest energy configuration found at random iteration           1 of        1000 with A diff (eV)  -2.9479670568764476E-002
+ T=   26.000000000000000      Moment at site           1 =  0.95008111506200721      Mom/sat_mom=  0.95008111506200721      Exch. field=   117.66222147974543     
+ T=   26.000000000000000      Moment at site           2 =  0.95008111506200732      Mom/sat_mom=  0.95008111506200732      Exch. field=   117.66222147974554     
+ T=   26.000000000000000      Moment at site           3 = -0.95008111506200743      Mom/sat_mom= -0.95008111506200743      Exch. field=  -117.66222147974565     
+ T=   26.000000000000000      Moment at site           4 = -0.95008111506200743      Mom/sat_mom= -0.95008111506200743      Exch. field=  -117.66222147974565     
+ T=   26.000000000000000      Moment at site           5 =  0.95008111506200743      Mom/sat_mom=  0.95008111506200743      Exch. field=   117.66222147974563     
+ T=   26.000000000000000      Moment at site           6 =  0.95008111506200743      Mom/sat_mom=  0.95008111506200743      Exch. field=   117.66222147974563     
+ T=   26.000000000000000      Moment at site           7 = -0.95008111506200743      Mom/sat_mom= -0.95008111506200743      Exch. field=  -117.66222147974563     
+ T=   26.000000000000000      Moment at site           8 = -0.95008111506200743      Mom/sat_mom= -0.95008111506200743      Exch. field=  -117.66222147974563     
+ T=   26.000000000000000      Total moment          M=  -4.4408920985006262E-016 mu_B
+ T=   26.000000000000000      Helmholtz energy      A=  -2.9479670568764476E-002 eV
+ T=   26.000000000000000      Internal energy  U_exch=  -2.5883016575706300E-002 eV
+ T=   26.000000000000000      Internal energy U_field=   0.0000000000000000      eV
+ T=   26.000000000000000      Total internal energy U=  -2.5883016575706300E-002 eV
+ T=   26.000000000000000      Entropy               S=   1.3833284588685282E-004 eV/K
+
+ Temperature=   27.000000000000000      External field=   0.0000000000000000      Max SCF iterations=          16
+ Lowest energy configuration found at random iteration           1 of        1000 with A diff (eV)  -2.9625708520444341E-002
+ T=   27.000000000000000      Moment at site           1 =  0.94250661940350433      Mom/sat_mom=  0.94250661940350433      Exch. field=   116.72416264283217     
+ T=   27.000000000000000      Moment at site           2 =  0.94250661940350522      Mom/sat_mom=  0.94250661940350522      Exch. field=   116.72416264283268     
+ T=   27.000000000000000      Moment at site           3 = -0.94250661940350522      Mom/sat_mom= -0.94250661940350522      Exch. field=  -116.72416264283268     
+ T=   27.000000000000000      Moment at site           4 = -0.94250661940350522      Mom/sat_mom= -0.94250661940350522      Exch. field=  -116.72416264283271     
+ T=   27.000000000000000      Moment at site           5 =  0.94250661940350522      Mom/sat_mom=  0.94250661940350522      Exch. field=   116.72416264283268     
+ T=   27.000000000000000      Moment at site           6 =  0.94250661940350522      Mom/sat_mom=  0.94250661940350522      Exch. field=   116.72416264283279     
+ T=   27.000000000000000      Moment at site           7 = -0.94250661940350522      Mom/sat_mom= -0.94250661940350522      Exch. field=  -116.72416264283268     
+ T=   27.000000000000000      Moment at site           8 = -0.94250661940350522      Mom/sat_mom= -0.94250661940350522      Exch. field=  -116.72416264283268     
+ T=   27.000000000000000      Total moment          M=  -8.8817841970012523E-016 mu_B
+ T=   27.000000000000000      Helmholtz energy      A=  -2.9625708520444341E-002 eV
+ T=   27.000000000000000      Internal energy  U_exch=  -2.5471958427547205E-002 eV
+ T=   27.000000000000000      Internal energy U_field=   0.0000000000000000      eV
+ T=   27.000000000000000      Total internal energy U=  -2.5471958427547205E-002 eV
+ T=   27.000000000000000      Entropy               S=   1.5384259603322723E-004 eV/K
+
+ Temperature=   28.000000000000000      External field=   0.0000000000000000      Max SCF iterations=          18
+ Lowest energy configuration found at random iteration           1 of        1000 with A diff (eV)  -2.9787548997983672E-002
+ T=   28.000000000000000      Moment at site           1 =  0.93428393767910134      Mom/sat_mom=  0.93428393767910134      Exch. field=   115.70582959434137     
+ T=   28.000000000000000      Moment at site           2 =  0.93428393767910400      Mom/sat_mom=  0.93428393767910400      Exch. field=   115.70582959434319     
+ T=   28.000000000000000      Moment at site           3 = -0.93428393767910267      Mom/sat_mom= -0.93428393767910267      Exch. field=  -115.70582959434230     
+ T=   28.000000000000000      Moment at site           4 = -0.93428393767910300      Mom/sat_mom= -0.93428393767910300      Exch. field=  -115.70582959434253     
+ T=   28.000000000000000      Moment at site           5 =  0.93428393767910356      Mom/sat_mom=  0.93428393767910356      Exch. field=   115.70582959434290     
+ T=   28.000000000000000      Moment at site           6 =  0.93428393767910378      Mom/sat_mom=  0.93428393767910378      Exch. field=   115.70582959434299     
+ T=   28.000000000000000      Moment at site           7 = -0.93428393767910289      Mom/sat_mom= -0.93428393767910289      Exch. field=  -115.70582959434248     
+ T=   28.000000000000000      Moment at site           8 = -0.93428393767910300      Mom/sat_mom= -0.93428393767910300      Exch. field=  -115.70582959434256     
+ T=   28.000000000000000      Total moment          M=   9.9920072216264089E-016 mu_B
+ T=   28.000000000000000      Helmholtz energy      A=  -2.9787548997983672E-002 eV
+ T=   28.000000000000000      Internal energy  U_exch=  -2.5029448713133399E-002 eV
+ T=   28.000000000000000      Internal energy U_field=   0.0000000000000000      eV
+ T=   28.000000000000000      Total internal energy U=  -2.5029448713133399E-002 eV
+ T=   28.000000000000000      Entropy               S=   1.6993215303036686E-004 eV/K
+
+ Temperature=   29.000000000000000      External field=   0.0000000000000000      Max SCF iterations=          16
+ Lowest energy configuration found at random iteration           1 of        1000 with A diff (eV)  -2.9965755043199545E-002
+ T=   29.000000000000000      Moment at site           1 =  0.92539169445926539      Mom/sat_mom=  0.92539169445926539      Exch. field=   114.60457510712320     
+ T=   29.000000000000000      Moment at site           2 =  0.92539169445927338      Mom/sat_mom=  0.92539169445927338      Exch. field=   114.60457510712763     
+ T=   29.000000000000000      Moment at site           3 = -0.92539169445926484      Mom/sat_mom= -0.92539169445926484      Exch. field=  -114.60457510712288     
+ T=   29.000000000000000      Moment at site           4 = -0.92539169445926661      Mom/sat_mom= -0.92539169445926661      Exch. field=  -114.60457510712379     
+ T=   29.000000000000000      Moment at site           5 =  0.92539169445926828      Mom/sat_mom=  0.92539169445926828      Exch. field=   114.60457510712476     
+ T=   29.000000000000000      Moment at site           6 =  0.92539169445926783      Mom/sat_mom=  0.92539169445926783      Exch. field=   114.60457510712448     
+ T=   29.000000000000000      Moment at site           7 = -0.92539169445926595      Mom/sat_mom= -0.92539169445926595      Exch. field=  -114.60457510712348     
+ T=   29.000000000000000      Moment at site           8 = -0.92539169445926617      Mom/sat_mom= -0.92539169445926617      Exch. field=  -114.60457510712362     
+ T=   29.000000000000000      Total moment          M=   1.1324274851176597E-014 mu_B
+ T=   29.000000000000000      Helmholtz energy      A=  -2.9965755043199545E-002 eV
+ T=   29.000000000000000      Internal energy  U_exch=  -2.4555270001194018E-002 eV
+ T=   29.000000000000000      Internal energy U_field=   0.0000000000000000      eV
+ T=   29.000000000000000      Total internal energy U=  -2.4555270001194018E-002 eV
+ T=   29.000000000000000      Entropy               S=   1.8656844972432857E-004 eV/K
+
+ Temperature=   30.000000000000000      External field=   0.0000000000000000      Max SCF iterations=          18
+ Lowest energy configuration found at random iteration           1 of        1000 with A diff (eV)  -3.0160857989075345E-002
+ T=   30.000000000000000      Moment at site           1 =  0.91580662708192806      Mom/sat_mom=  0.91580662708192806      Exch. field=   113.41751823085784     
+ T=   30.000000000000000      Moment at site           2 =  0.91580662708193850      Mom/sat_mom=  0.91580662708193850      Exch. field=   113.41751823086307     
+ T=   30.000000000000000      Moment at site           3 = -0.91580662708191152      Mom/sat_mom= -0.91580662708191152      Exch. field=  -113.41751823084942     
+ T=   30.000000000000000      Moment at site           4 = -0.91580662708191485      Mom/sat_mom= -0.91580662708191485      Exch. field=  -113.41751823085124     
+ T=   30.000000000000000      Moment at site           5 =  0.91580662708191829      Mom/sat_mom=  0.91580662708191829      Exch. field=   113.41751823085292     
+ T=   30.000000000000000      Moment at site           6 =  0.91580662708191307      Mom/sat_mom=  0.91580662708191307      Exch. field=   113.41751823085045     
+ T=   30.000000000000000      Moment at site           7 = -0.91580662708191307      Mom/sat_mom= -0.91580662708191307      Exch. field=  -113.41751823085022     
+ T=   30.000000000000000      Moment at site           8 = -0.91580662708191296      Mom/sat_mom= -0.91580662708191296      Exch. field=  -113.41751823085013     
+ T=   30.000000000000000      Total moment          M=   4.5630166312093934E-014 mu_B
+ T=   30.000000000000000      Helmholtz energy      A=  -3.0160857989075345E-002 eV
+ T=   30.000000000000000      Internal energy  U_exch=  -2.4049224859701332E-002 eV
+ T=   30.000000000000000      Internal energy U_field=   0.0000000000000000      eV
+ T=   30.000000000000000      Total internal energy U=  -2.4049224859701332E-002 eV
+ T=   30.000000000000000      Entropy               S=   2.0372110431246705E-004 eV/K
+
+ Temperature=   31.000000000000000      External field=   0.0000000000000000      Max SCF iterations=          19
+ Lowest energy configuration found at random iteration           1 of        1000 with A diff (eV)  -3.0373360047845549E-002
+ T=   31.000000000000000      Moment at site           1 =  0.90550322683906947      Mom/sat_mom=  0.90550322683906947      Exch. field=   112.14149985502695     
+ T=   31.000000000000000      Moment at site           2 =  0.90550322683904150      Mom/sat_mom=  0.90550322683904150      Exch. field=   112.14149985501399     
+ T=   31.000000000000000      Moment at site           3 = -0.90550322683899620      Mom/sat_mom= -0.90550322683899620      Exch. field=  -112.14149985499310     
+ T=   31.000000000000000      Moment at site           4 = -0.90550322683899631      Mom/sat_mom= -0.90550322683899631      Exch. field=  -112.14149985499313     
+ T=   31.000000000000000      Moment at site           5 =  0.90550322683899842      Mom/sat_mom=  0.90550322683899842      Exch. field=   112.14149985499407     
+ T=   31.000000000000000      Moment at site           6 =  0.90550322683897622      Mom/sat_mom=  0.90550322683897622      Exch. field=   112.14149985498381     
+ T=   31.000000000000000      Moment at site           7 = -0.90550322683899209      Mom/sat_mom= -0.90550322683899209      Exch. field=  -112.14149985499128     
+ T=   31.000000000000000      Moment at site           8 = -0.90550322683898843      Mom/sat_mom= -0.90550322683898843      Exch. field=  -112.14149985498929     
+ T=   31.000000000000000      Total moment          M=   1.1268763699945339E-013 mu_B
+ T=   31.000000000000000      Helmholtz energy      A=  -3.0373360047845549E-002 eV
+ T=   31.000000000000000      Internal energy  U_exch=  -2.3511131135211246E-002 eV
+ T=   31.000000000000000      Internal energy U_field=   0.0000000000000000      eV
+ T=   31.000000000000000      Total internal energy U=  -2.3511131135211246E-002 eV
+ T=   31.000000000000000      Entropy               S=   2.2136222298820338E-004 eV/K
+
+ Temperature=   32.000000000000000      External field=   0.0000000000000000      Max SCF iterations=          24
+ Lowest energy configuration found at random iteration           1 of        1000 with A diff (eV)  -3.0603736695810860E-002
+ T=   32.000000000000000      Moment at site           1 =  0.89445335009414573      Mom/sat_mom=  0.89445335009414573      Exch. field=   110.77303454797701     
+ T=   32.000000000000000      Moment at site           2 =  0.89445335009390081      Mom/sat_mom=  0.89445335009390081      Exch. field=   110.77303454787226     
+ T=   32.000000000000000      Moment at site           3 = -0.89445335009395555      Mom/sat_mom= -0.89445335009395555      Exch. field=  -110.77303454789575     
+ T=   32.000000000000000      Moment at site           4 = -0.89445335009391214      Mom/sat_mom= -0.89445335009391214      Exch. field=  -110.77303454787730     
+ T=   32.000000000000000      Moment at site           5 =  0.89445335009390781      Mom/sat_mom=  0.89445335009390781      Exch. field=   110.77303454787530     
+ T=   32.000000000000000      Moment at site           6 =  0.89445335009383142      Mom/sat_mom=  0.89445335009383142      Exch. field=   110.77303454784281     
+ T=   32.000000000000000      Moment at site           7 = -0.89445335009392668      Mom/sat_mom= -0.89445335009392668      Exch. field=  -110.77303454788333     
+ T=   32.000000000000000      Moment at site           8 = -0.89445335009390325      Mom/sat_mom= -0.89445335009390325      Exch. field=  -110.77303454787346     
+ T=   32.000000000000000      Total moment          M=   8.8262730457699945E-014 mu_B
+ T=   32.000000000000000      Helmholtz energy      A=  -3.0603736695810860E-002 eV
+ T=   32.000000000000000      Internal energy  U_exch=  -2.2940818516272592E-002 eV
+ T=   32.000000000000000      Internal energy U_field=   0.0000000000000000      eV
+ T=   32.000000000000000      Total internal energy U=  -2.2940818516272592E-002 eV
+ T=   32.000000000000000      Entropy               S=   2.3946619311057088E-004 eV/K
+
+ Temperature=   33.000000000000000      External field=   0.0000000000000000      Max SCF iterations=          22
+ Lowest energy configuration found at random iteration           1 of        1000 with A diff (eV)  -3.0852438851538627E-002
+ T=   33.000000000000000      Moment at site           1 =  0.88262578181701956      Mom/sat_mom=  0.88262578181701956      Exch. field=   109.30825650312528     
+ T=   33.000000000000000      Moment at site           2 =  0.88262578181606488      Mom/sat_mom=  0.88262578181606488      Exch. field=   109.30825650274855     
+ T=   33.000000000000000      Moment at site           3 = -0.88262578181675699      Mom/sat_mom= -0.88262578181675699      Exch. field=  -109.30825650302155     
+ T=   33.000000000000000      Moment at site           4 = -0.88262578181653006      Mom/sat_mom= -0.88262578181653006      Exch. field=  -109.30825650293205     
+ T=   33.000000000000000      Moment at site           5 =  0.88262578181653095      Mom/sat_mom=  0.88262578181653095      Exch. field=   109.30825650293237     
+ T=   33.000000000000000      Moment at site           6 =  0.88262578181633000      Mom/sat_mom=  0.88262578181633000      Exch. field=   109.30825650285318     
+ T=   33.000000000000000      Moment at site           7 = -0.88262578181667362      Mom/sat_mom= -0.88262578181667362      Exch. field=  -109.30825650298878     
+ T=   33.000000000000000      Moment at site           8 = -0.88262578181659090      Mom/sat_mom= -0.88262578181659090      Exch. field=  -109.30825650295613     
+ T=   33.000000000000000      Total moment          M=  -6.0629279374779799E-013 mu_B
+ T=   33.000000000000000      Helmholtz energy      A=  -3.0852438851538627E-002 eV
+ T=   33.000000000000000      Internal energy  U_exch=  -2.2338126067679730E-002 eV
+ T=   33.000000000000000      Internal energy U_field=   0.0000000000000000      eV
+ T=   33.000000000000000      Total internal energy U=  -2.2338126067679730E-002 eV
+ T=   33.000000000000000      Entropy               S=   2.5800947829875446E-004 eV/K
+
+ Temperature=   34.000000000000000      External field=   0.0000000000000000      Max SCF iterations=          22
+ Lowest energy configuration found at random iteration           1 of        1000 with A diff (eV)  -3.1119894853198160E-002
+ T=   34.000000000000000      Moment at site           1 =  0.86998573163349791      Mom/sat_mom=  0.86998573163349791      Exch. field=   107.74285712745353     
+ T=   34.000000000000000      Moment at site           2 =  0.86998573163118464      Mom/sat_mom=  0.86998573163118464      Exch. field=   107.74285712660557     
+ T=   34.000000000000000      Moment at site           3 = -0.86998573163369430      Mom/sat_mom= -0.86998573163369430      Exch. field=  -107.74285712752550     
+ T=   34.000000000000000      Moment at site           4 = -0.86998573163303694      Mom/sat_mom= -0.86998573163303694      Exch. field=  -107.74285712728465     
+ T=   34.000000000000000      Moment at site           5 =  0.86998573163308002      Mom/sat_mom=  0.86998573163308002      Exch. field=   107.74285712730034     
+ T=   34.000000000000000      Moment at site           6 =  0.86998573163277804      Mom/sat_mom=  0.86998573163277804      Exch. field=   107.74285712718964     
+ T=   34.000000000000000      Moment at site           7 = -0.86998573163358939      Mom/sat_mom= -0.86998573163358939      Exch. field=  -107.74285712748700     
+ T=   34.000000000000000      Moment at site           8 = -0.86998573163339821      Mom/sat_mom= -0.86998573163339821      Exch. field=  -107.74285712741697     
+ T=   34.000000000000000      Total moment          M=  -3.1783464748968981E-012 mu_B
+ T=   34.000000000000000      Helmholtz energy      A=  -3.1119894853198160E-002 eV
+ T=   34.000000000000000      Internal energy  U_exch=  -2.1702900488628021E-002 eV
+ T=   34.000000000000000      Internal energy U_field=   0.0000000000000000      eV
+ T=   34.000000000000000      Total internal energy U=  -2.1702900488628021E-002 eV
+ T=   34.000000000000000      Entropy               S=   2.7697042248735708E-004 eV/K
+
+ Temperature=   35.000000000000000      External field=   0.0000000000000000      Max SCF iterations=          26
+ Lowest energy configuration found at random iteration           1 of        1000 with A diff (eV)  -3.1406512246242371E-002
+ T=   35.000000000000000      Moment at site           1 =  0.85649423864392860      Mom/sat_mom=  0.85649423864392860      Exch. field=   106.07201133178393     
+ T=   35.000000000000000      Moment at site           2 =  0.85649423864231267      Mom/sat_mom=  0.85649423864231267      Exch. field=   106.07201133123206     
+ T=   35.000000000000000      Moment at site           3 = -0.85649423864566454      Mom/sat_mom= -0.85649423864566454      Exch. field=  -106.07201133237642     
+ T=   35.000000000000000      Moment at site           4 = -0.85649423864512864      Mom/sat_mom= -0.85649423864512864      Exch. field=  -106.07201133219353     
+ T=   35.000000000000000      Moment at site           5 =  0.85649423864461316      Mom/sat_mom=  0.85649423864461316      Exch. field=   106.07201133201755     
+ T=   35.000000000000000      Moment at site           6 =  0.85649423864535490      Mom/sat_mom=  0.85649423864535490      Exch. field=   106.07201133227088     
+ T=   35.000000000000000      Moment at site           7 = -0.85649423864563157      Mom/sat_mom= -0.85649423864563157      Exch. field=  -106.07201133236526     
+ T=   35.000000000000000      Moment at site           8 = -0.85649423864562846      Mom/sat_mom= -0.85649423864562846      Exch. field=  -106.07201133236424     
+ T=   35.000000000000000      Total moment          M=  -5.8437699124169740E-012 mu_B
+ T=   35.000000000000000      Helmholtz energy      A=  -3.1406512246242371E-002 eV
+ T=   35.000000000000000      Internal energy  U_exch=  -2.1034994902951146E-002 eV
+ T=   35.000000000000000      Internal energy U_field=   0.0000000000000000      eV
+ T=   35.000000000000000      Total internal energy U=  -2.1034994902951146E-002 eV
+ T=   35.000000000000000      Entropy               S=   2.9632906695117774E-004 eV/K
+
+ Temperature=   36.000000000000000      External field=   0.0000000000000000      Max SCF iterations=          29
+ Lowest energy configuration found at random iteration           1 of        1000 with A diff (eV)  -3.1712679395491453E-002
+ T=   36.000000000000000      Moment at site           1 =  0.84210745546872356      Mom/sat_mom=  0.84210745546872356      Exch. field=   104.29028886522858     
+ T=   36.000000000000000      Moment at site           2 =  0.84210745547029542      Mom/sat_mom=  0.84210745547029542      Exch. field=   104.29028886572979     
+ T=   36.000000000000000      Moment at site           3 = -0.84210745546835086      Mom/sat_mom= -0.84210745546835086      Exch. field=  -104.29028886510974     
+ T=   36.000000000000000      Moment at site           4 = -0.84210745546898769      Mom/sat_mom= -0.84210745546898769      Exch. field=  -104.29028886531289     
+ T=   36.000000000000000      Moment at site           5 =  0.84210745546798671      Mom/sat_mom=  0.84210745546798671      Exch. field=   104.29028886499356     
+ T=   36.000000000000000      Moment at site           6 =  0.84210745546878529      Mom/sat_mom=  0.84210745546878529      Exch. field=   104.29028886524830     
+ T=   36.000000000000000      Moment at site           7 = -0.84210745546807453      Mom/sat_mom= -0.84210745546807453      Exch. field=  -104.29028886502167     
+ T=   36.000000000000000      Moment at site           8 = -0.84210745546830601      Mom/sat_mom= -0.84210745546830601      Exch. field=  -104.29028886509545     
+ T=   36.000000000000000      Total moment          M=   2.0720092308579297E-012 mu_B
+ T=   36.000000000000000      Helmholtz energy      A=  -3.1712679395491453E-002 eV
+ T=   36.000000000000000      Internal energy  U_exch=  -2.0334268034226319E-002 eV
+ T=   36.000000000000000      Internal energy U_field=   0.0000000000000000      eV
+ T=   36.000000000000000      Total internal energy U=  -2.0334268034226319E-002 eV
+ T=   36.000000000000000      Entropy               S=   3.1606698225736485E-004 eV/K
+
+ Temperature=   37.000000000000000      External field=   0.0000000000000000      Max SCF iterations=          28
+ Lowest energy configuration found at random iteration           1 of        1000 with A diff (eV)  -3.2038766936509956E-002
+ T=   37.000000000000000      Moment at site           1 =  0.82677577342129127      Mom/sat_mom=  0.82677577342129127      Exch. field=   102.39154596847830     
+ T=   37.000000000000000      Moment at site           2 =  0.82677577342347330      Mom/sat_mom=  0.82677577342347330      Exch. field=   102.39154596913026     
+ T=   37.000000000000000      Moment at site           3 = -0.82677577342031860      Mom/sat_mom= -0.82677577342031860      Exch. field=  -102.39154596818790     
+ T=   37.000000000000000      Moment at site           4 = -0.82677577342123432      Mom/sat_mom= -0.82677577342123432      Exch. field=  -102.39154596846149     
+ T=   37.000000000000000      Moment at site           5 =  0.82677577342014308      Mom/sat_mom=  0.82677577342014308      Exch. field=   102.39154596813539     
+ T=   37.000000000000000      Moment at site           6 =  0.82677577342101327      Mom/sat_mom=  0.82677577342101327      Exch. field=   102.39154596839539     
+ T=   37.000000000000000      Moment at site           7 = -0.82677577341985864      Mom/sat_mom= -0.82677577341985864      Exch. field=  -102.39154596805042     
+ T=   37.000000000000000      Moment at site           8 = -0.82677577342019604      Mom/sat_mom= -0.82677577342019604      Exch. field=  -102.39154596815121     
+ T=   37.000000000000000      Total moment          M=   4.3133274729711957E-012 mu_B
+ T=   37.000000000000000      Helmholtz energy      A=  -3.2038766936509956E-002 eV
+ T=   37.000000000000000      Internal energy  U_exch=  -1.9600583653273780E-002 eV
+ T=   37.000000000000000      Internal energy U_field=   0.0000000000000000      eV
+ T=   37.000000000000000      Total internal energy U=  -1.9600583653273780E-002 eV
+ T=   37.000000000000000      Entropy               S=   3.3616711576313991E-004 eV/K
+
+ Temperature=   38.000000000000000      External field=   0.0000000000000000      Max SCF iterations=          32
+ Lowest energy configuration found at random iteration           1 of        1000 with A diff (eV)  -3.2385129083026584E-002
+ T=   38.000000000000000      Moment at site           1 =  0.81044273841321057      Mom/sat_mom=  0.81044273841321057      Exch. field=   100.36879111946355     
+ T=   38.000000000000000      Moment at site           2 =  0.81044273841568093      Mom/sat_mom=  0.81044273841568093      Exch. field=   100.36879112015650     
+ T=   38.000000000000000      Moment at site           3 = -0.81044273841179337      Mom/sat_mom= -0.81044273841179337      Exch. field=  -100.36879111906588     
+ T=   38.000000000000000      Moment at site           4 = -0.81044273841289971      Mom/sat_mom= -0.81044273841289971      Exch. field=  -100.36879111937630     
+ T=   38.000000000000000      Moment at site           5 =  0.81044273841164605      Mom/sat_mom=  0.81044273841164605      Exch. field=   100.36879111902454     
+ T=   38.000000000000000      Moment at site           6 =  0.81044273841265857      Mom/sat_mom=  0.81044273841265857      Exch. field=   100.36879111930864     
+ T=   38.000000000000000      Moment at site           7 = -0.81044273841110104      Mom/sat_mom= -0.81044273841110104      Exch. field=  -100.36879111887173     
+ T=   38.000000000000000      Moment at site           8 = -0.81044273841154491      Mom/sat_mom= -0.81044273841154491      Exch. field=  -100.36879111899624     
+ T=   38.000000000000000      Total moment          M=   5.8568705441075508E-012 mu_B
+ T=   38.000000000000000      Helmholtz energy      A=  -3.2385129083026584E-002 eV
+ T=   38.000000000000000      Internal energy  U_exch=  -1.8833810217572178E-002 eV
+ T=   38.000000000000000      Internal energy U_field=   0.0000000000000000      eV
+ T=   38.000000000000000      Total internal energy U=  -1.8833810217572178E-002 eV
+ T=   38.000000000000000      Entropy               S=   3.5661365435406327E-004 eV/K
+
+ Temperature=   39.000000000000000      External field=   0.0000000000000000      Max SCF iterations=          36
+ Lowest energy configuration found at random iteration           1 of        1000 with A diff (eV)  -3.2752104803660684E-002
+ T=   39.000000000000000      Moment at site           1 =  0.79304368894463073      Mom/sat_mom=  0.79304368894463073      Exch. field=   98.214016353914815     
+ T=   39.000000000000000      Moment at site           2 =  0.79304368894762844      Mom/sat_mom=  0.79304368894762844      Exch. field=   98.214016354706615     
+ T=   39.000000000000000      Moment at site           3 = -0.79304368894256150      Mom/sat_mom= -0.79304368894256150      Exch. field=  -98.214016353368393     
+ T=   39.000000000000000      Moment at site           4 = -0.79304368894399835      Mom/sat_mom= -0.79304368894399835      Exch. field=  -98.214016353747851     
+ T=   39.000000000000000      Moment at site           5 =  0.79304368894237631      Mom/sat_mom=  0.79304368894237631      Exch. field=   98.214016353319508     
+ T=   39.000000000000000      Moment at site           6 =  0.79304368894368904      Mom/sat_mom=  0.79304368894368904      Exch. field=   98.214016353666153     
+ T=   39.000000000000000      Moment at site           7 = -0.79304368894148414      Mom/sat_mom= -0.79304368894148414      Exch. field=  -98.214016353083849     
+ T=   39.000000000000000      Moment at site           8 = -0.79304368894210908      Mom/sat_mom= -0.79304368894210908      Exch. field=  -98.214016353248923     
+ T=   39.000000000000000      Total moment          M=   8.1715745281485397E-012 mu_B
+ T=   39.000000000000000      Helmholtz energy      A=  -3.2752104803660684E-002 eV
+ T=   39.000000000000000      Internal energy  U_exch=  -1.8033820637493255E-002 eV
+ T=   39.000000000000000      Internal energy U_field=   0.0000000000000000      eV
+ T=   39.000000000000000      Total internal energy U=  -1.8033820637493255E-002 eV
+ T=   39.000000000000000      Entropy               S=   3.7739190169660077E-004 eV/K
+
+ Temperature=   40.000000000000000      External field=   0.0000000000000000      Max SCF iterations=          42
+ Lowest energy configuration found at random iteration           1 of        1000 with A diff (eV)  -3.3140018883001228E-002
+ T=   40.000000000000000      Moment at site           1 =  0.77450402091295489      Mom/sat_mom=  0.77450402091295489      Exch. field=   95.917982371921852     
+ T=   40.000000000000000      Moment at site           2 =  0.77450402091707948      Mom/sat_mom=  0.77450402091707948      Exch. field=   95.917982372949467     
+ T=   40.000000000000000      Moment at site           3 = -0.77450402090966641      Mom/sat_mom= -0.77450402090966641      Exch. field=  -95.917982371102539     
+ T=   40.000000000000000      Moment at site           4 = -0.77450402091177351      Mom/sat_mom= -0.77450402091177351      Exch. field=  -95.917982371627488     
+ T=   40.000000000000000      Moment at site           5 =  0.77450402090937687      Mom/sat_mom=  0.77450402090937687      Exch. field=   95.917982371030376     
+ T=   40.000000000000000      Moment at site           6 =  0.77450402091131210      Mom/sat_mom=  0.77450402091131210      Exch. field=   95.917982371512551     
+ T=   40.000000000000000      Moment at site           7 = -0.77450402090783854      Mom/sat_mom= -0.77450402090783854      Exch. field=  -95.917982370647209     
+ T=   40.000000000000000      Moment at site           8 = -0.77450402090882586      Mom/sat_mom= -0.77450402090882586      Exch. field=  -95.917982370893114     
+ T=   40.000000000000000      Total moment          M=   1.2618905920191992E-011 mu_B
+ T=   40.000000000000000      Helmholtz energy      A=  -3.3140018883001228E-002 eV
+ T=   40.000000000000000      Internal energy  U_exch=  -1.7200492126890204E-002 eV
+ T=   40.000000000000000      Internal energy U_field=   0.0000000000000000      eV
+ T=   40.000000000000000      Total internal energy U=  -1.7200492126890204E-002 eV
+ T=   40.000000000000000      Entropy               S=   3.9848816890277567E-004 eV/K
+
+ Temperature=   41.000000000000000      External field=   0.0000000000000000      Max SCF iterations=          49
+ Lowest energy configuration found at random iteration           1 of        1000 with A diff (eV)  -3.3549182879542720E-002
+ T=   41.000000000000000      Moment at site           1 =  0.75473694379876333      Mom/sat_mom=  0.75473694379876333      Exch. field=   93.469940654230001     
+ T=   41.000000000000000      Moment at site           2 =  0.75473694380527667      Mom/sat_mom=  0.75473694380527667      Exch. field=   93.469940655764034     
+ T=   41.000000000000000      Moment at site           3 = -0.75473694379292300      Mom/sat_mom= -0.75473694379292300      Exch. field=  -93.469940652854476     
+ T=   41.000000000000000      Moment at site           4 = -0.75473694379645562      Mom/sat_mom= -0.75473694379645562      Exch. field=  -93.469940653686493     
+ T=   41.000000000000000      Moment at site           5 =  0.75473694379239920      Mom/sat_mom=  0.75473694379239920      Exch. field=   93.469940652731026     
+ T=   41.000000000000000      Moment at site           6 =  0.75473694379566603      Mom/sat_mom=  0.75473694379566603      Exch. field=   93.469940653500544     
+ T=   41.000000000000000      Moment at site           7 = -0.75473694378947098      Mom/sat_mom= -0.75473694378947098      Exch. field=  -93.469940652041345     
+ T=   41.000000000000000      Moment at site           8 = -0.75473694379124201      Mom/sat_mom= -0.75473694379124201      Exch. field=  -93.469940652458575     
+ T=   41.000000000000000      Total moment          M=   2.2013502132267604E-011 mu_B
+ T=   41.000000000000000      Helmholtz energy      A=  -3.3549182879542720E-002 eV
+ T=   41.000000000000000      Internal energy  U_exch=  -1.6333706105348678E-002 eV
+ T=   41.000000000000000      Internal energy U_field=   0.0000000000000000      eV
+ T=   41.000000000000000      Total internal energy U=  -1.6333706105348678E-002 eV
+ T=   41.000000000000000      Entropy               S=   4.1988967741936686E-004 eV/K
+
+ Temperature=   42.000000000000000      External field=   0.0000000000000000      Max SCF iterations=          51
+ Lowest energy configuration found at random iteration           1 of        1000 with A diff (eV)  -3.3979895992118793E-002
+ T=   42.000000000000000      Moment at site           1 =  0.73364053133292362      Mom/sat_mom=  0.73364053133292362      Exch. field=   90.857268204057348     
+ T=   42.000000000000000      Moment at site           2 =  0.73364053134473939      Mom/sat_mom=  0.73364053134473939      Exch. field=   90.857268206693320     
+ T=   42.000000000000000      Moment at site           3 = -0.73364053132123319      Mom/sat_mom= -0.73364053132123319      Exch. field=  -90.857268201449529     
+ T=   42.000000000000000      Moment at site           4 = -0.73364053132801266      Mom/sat_mom= -0.73364053132801266      Exch. field=  -90.857268202961961     
+ T=   42.000000000000000      Moment at site           5 =  0.73364053132015672      Mom/sat_mom=  0.73364053132015672      Exch. field=   90.857268201209394     
+ T=   42.000000000000000      Moment at site           6 =  0.73364053132647300      Mom/sat_mom=  0.73364053132647300      Exch. field=   90.857268202618400     
+ T=   42.000000000000000      Moment at site           7 = -0.73364053131390738      Mom/sat_mom= -0.73364053131390738      Exch. field=  -90.857268199815294     
+ T=   42.000000000000000      Moment at site           8 = -0.73364053131753137      Mom/sat_mom= -0.73364053131753137      Exch. field=  -90.857268200623736     
+ T=   42.000000000000000      Total moment          M=   4.3608006095041674E-011 mu_B
+ T=   42.000000000000000      Helmholtz energy      A=  -3.3979895992118793E-002 eV
+ T=   42.000000000000000      Internal energy  U_exch=  -1.5433348129722965E-002 eV
+ T=   42.000000000000000      Internal energy U_field=   0.0000000000000000      eV
+ T=   42.000000000000000      Total internal energy U=  -1.5433348129722965E-002 eV
+ T=   42.000000000000000      Entropy               S=   4.4158447291418645E-004 eV/K
+
+ Temperature=   43.000000000000000      External field=   0.0000000000000000      Max SCF iterations=          66
+ Lowest energy configuration found at random iteration           1 of        1000 with A diff (eV)  -3.4432445844771668E-002
+ T=   43.000000000000000      Moment at site           1 =  0.71109377316882294      Mom/sat_mom=  0.71109377316882294      Exch. field=   88.064978565327095     
+ T=   43.000000000000000      Moment at site           2 =  0.71109377317673639      Mom/sat_mom=  0.71109377317673639      Exch. field=   88.064978567002186     
+ T=   43.000000000000000      Moment at site           3 = -0.71109377316030575      Mom/sat_mom= -0.71109377316030575      Exch. field=  -88.064978563524264     
+ T=   43.000000000000000      Moment at site           4 = -0.71109377316509426      Mom/sat_mom= -0.71109377316509426      Exch. field=  -88.064978564537810     
+ T=   43.000000000000000      Moment at site           5 =  0.71109377315950173      Mom/sat_mom=  0.71109377315950173      Exch. field=   88.064978563354089     
+ T=   43.000000000000000      Moment at site           6 =  0.71109377316399547      Mom/sat_mom=  0.71109377316399547      Exch. field=   88.064978564305221     
+ T=   43.000000000000000      Moment at site           7 = -0.71109377315466571      Mom/sat_mom= -0.71109377315466571      Exch. field=  -88.064978562330424     
+ T=   43.000000000000000      Moment at site           8 = -0.71109377315738431      Mom/sat_mom= -0.71109377315738431      Exch. field=  -88.064978562905907     
+ T=   43.000000000000000      Total moment          M=   3.1606606221146194E-011 mu_B
+ T=   43.000000000000000      Helmholtz energy      A=  -3.4432445844771668E-002 eV
+ T=   43.000000000000000      Internal energy  U_exch=  -1.4499307837874240E-002 eV
+ T=   43.000000000000000      Internal energy U_field=   0.0000000000000000      eV
+ T=   43.000000000000000      Total internal energy U=  -1.4499307837874240E-002 eV
+ T=   43.000000000000000      Entropy               S=   4.6356134899761464E-004 eV/K
+
+ Temperature=   44.000000000000000      External field=   0.0000000000000000      Max SCF iterations=          89
+ Lowest energy configuration found at random iteration           1 of        1000 with A diff (eV)  -3.4907109201300621E-002
+ T=   44.000000000000000      Moment at site           1 =  0.68695117823750196      Mom/sat_mom=  0.68695117823750196      Exch. field=   85.075053487463833     
+ T=   44.000000000000000      Moment at site           2 =  0.68695117824509078      Mom/sat_mom=  0.68695117824509078      Exch. field=   85.075053488990704     
+ T=   44.000000000000000      Moment at site           3 = -0.68695117822871199      Mom/sat_mom= -0.68695117822871199      Exch. field=  -85.075053485695349     
+ T=   44.000000000000000      Moment at site           4 = -0.68695117823354102      Mom/sat_mom= -0.68695117823354102      Exch. field=  -85.075053486666974     
+ T=   44.000000000000000      Moment at site           5 =  0.68695117822786322      Mom/sat_mom=  0.68695117822786322      Exch. field=   85.075053485524606     
+ T=   44.000000000000000      Moment at site           6 =  0.68695117823242591      Mom/sat_mom=  0.68695117823242591      Exch. field=   85.075053486442627     
+ T=   44.000000000000000      Moment at site           7 = -0.68695117822257790      Mom/sat_mom= -0.68695117822257790      Exch. field=  -85.075053484461264     
+ T=   44.000000000000000      Moment at site           8 = -0.68695117822548168      Mom/sat_mom= -0.68695117822548168      Exch. field=  -85.075053485045473     
+ T=   44.000000000000000      Total moment          M=   3.2569169583496205E-011 mu_B
+ T=   44.000000000000000      Helmholtz energy      A=  -3.4907109201300621E-002 eV
+ T=   44.000000000000000      Internal energy  U_exch=  -1.3531478901700212E-002 eV
+ T=   44.000000000000000      Internal energy U_field=   0.0000000000000000      eV
+ T=   44.000000000000000      Total internal energy U=  -1.3531478901700212E-002 eV
+ T=   44.000000000000000      Entropy               S=   4.8580977953637292E-004 eV/K
+
+ Temperature=   45.000000000000000      External field=   0.0000000000000000      Max SCF iterations=         110
+ Lowest energy configuration found at random iteration           1 of        1000 with A diff (eV)  -3.5404152613884701E-002
+ T=   45.000000000000000      Moment at site           1 =  0.66103521910803620      Mom/sat_mom=  0.66103521910803620      Exch. field=   81.865507192995508     
+ T=   45.000000000000000      Moment at site           2 =  0.66103521911822127      Mom/sat_mom=  0.66103521911822127      Exch. field=   81.865507194946488     
+ T=   45.000000000000000      Moment at site           3 = -0.66103521909544838      Mom/sat_mom= -0.66103521909544838      Exch. field=  -81.865507190584466     
+ T=   45.000000000000000      Moment at site           4 = -0.66103521910224861      Mom/sat_mom= -0.66103521910224861      Exch. field=  -81.865507191887005     
+ T=   45.000000000000000      Moment at site           5 =  0.66103521909420648      Mom/sat_mom=  0.66103521909420648      Exch. field=   81.865507190346548     
+ T=   45.000000000000000      Moment at site           6 =  0.66103521910067331      Mom/sat_mom=  0.66103521910067331      Exch. field=   81.865507191585223     
+ T=   45.000000000000000      Moment at site           7 = -0.66103521908621488      Mom/sat_mom= -0.66103521908621488      Exch. field=  -81.865507188815826     
+ T=   45.000000000000000      Moment at site           8 = -0.66103521909053231      Mom/sat_mom= -0.66103521909053231      Exch. field=  -81.865507189642784     
+ T=   45.000000000000000      Total moment          M=   4.6693093835870059E-011 mu_B
+ T=   45.000000000000000      Helmholtz energy      A=  -3.5404152613884701E-002 eV
+ T=   45.000000000000000      Internal energy  U_exch=  -1.2529758969813332E-002 eV
+ T=   45.000000000000000      Internal energy U_field=   0.0000000000000000      eV
+ T=   45.000000000000000      Total internal energy U=  -1.2529758969813332E-002 eV
+ T=   45.000000000000000      Entropy               S=   5.0831985875714159E-004 eV/K
+
+ Temperature=   46.000000000000000      External field=   0.0000000000000000      Max SCF iterations=         149
+ Lowest energy configuration found at random iteration           1 of        1000 with A diff (eV)  -3.5923833016460897E-002
+ T=   46.000000000000000      Moment at site           1 =  0.63312545380566598      Mom/sat_mom=  0.63312545380566598      Exch. field=   78.409039176955531     
+ T=   46.000000000000000      Moment at site           2 =  0.63312545381404395      Mom/sat_mom=  0.63312545381404395      Exch. field=   78.409039178485642     
+ T=   46.000000000000000      Moment at site           3 = -0.63312545379469520      Mom/sat_mom= -0.63312545379469520      Exch. field=  -78.409039174951829     
+ T=   46.000000000000000      Moment at site           4 = -0.63312545380055096      Mom/sat_mom= -0.63312545380055096      Exch. field=  -78.409039176021366     
+ T=   46.000000000000000      Moment at site           5 =  0.63312545379358931      Mom/sat_mom=  0.63312545379358931      Exch. field=   78.409039174749893     
+ T=   46.000000000000000      Moment at site           6 =  0.63312545379919116      Mom/sat_mom=  0.63312545379919116      Exch. field=   78.409039175773032     
+ T=   46.000000000000000      Moment at site           7 = -0.63312545378625307      Mom/sat_mom= -0.63312545378625307      Exch. field=  -78.409039173410079     
+ T=   46.000000000000000      Moment at site           8 = -0.63312545379016871      Mom/sat_mom= -0.63312545379016871      Exch. field=  -78.409039174125198     
+ T=   46.000000000000000      Total moment          M=   4.0822567548559618E-011 mu_B
+ T=   46.000000000000000      Helmholtz energy      A=  -3.5923833016460897E-002 eV
+ T=   46.000000000000000      Internal energy  U_exch=  -1.1494049607763320E-002 eV
+ T=   46.000000000000000      Internal energy U_field=   0.0000000000000000      eV
+ T=   46.000000000000000      Total internal energy U=  -1.1494049607763320E-002 eV
+ T=   46.000000000000000      Entropy               S=   5.3108224801516482E-004 eV/K
+
+ Temperature=   47.000000000000000      External field=   0.0000000000000000      Max SCF iterations=         303
+ Lowest energy configuration found at random iteration           1 of        1000 with A diff (eV)  -3.6466398268401895E-002
+ T=   47.000000000000000      Moment at site           1 =  0.60294233625728566      Mom/sat_mom=  0.60294233625728566      Exch. field=   74.671029227191880     
+ T=   47.000000000000000      Moment at site           2 =  0.60294233626859040      Mom/sat_mom=  0.60294233626859040      Exch. field=   74.671029229163238     
+ T=   47.000000000000000      Moment at site           3 = -0.60294233624168991      Mom/sat_mom= -0.60294233624168991      Exch. field=  -74.671029224472164     
+ T=   47.000000000000000      Moment at site           4 = -0.60294233624994664      Mom/sat_mom= -0.60294233624994664      Exch. field=  -74.671029225912065     
+ T=   47.000000000000000      Moment at site           5 =  0.60294233624008409      Mom/sat_mom=  0.60294233624008409      Exch. field=   74.671029224192154     
+ T=   47.000000000000000      Moment at site           6 =  0.60294233624802773      Mom/sat_mom=  0.60294233624802773      Exch. field=   74.671029225577428     
+ T=   47.000000000000000      Moment at site           7 = -0.60294233622912508      Mom/sat_mom= -0.60294233622912508      Exch. field=  -74.671029222280950     
+ T=   47.000000000000000      Moment at site           8 = -0.60294233623492688      Mom/sat_mom= -0.60294233623492688      Exch. field=  -74.671029223292777     
+ T=   47.000000000000000      Total moment          M=   5.8299365335301445E-011 mu_B
+ T=   47.000000000000000      Helmholtz energy      A=  -3.6466398268401895E-002 eV
+ T=   47.000000000000000      Internal energy  U_exch=  -1.0424256233287290E-002 eV
+ T=   47.000000000000000      Internal energy U_field=   0.0000000000000000      eV
+ T=   47.000000000000000      Total internal energy U=  -1.0424256233287290E-002 eV
+ T=   47.000000000000000      Entropy               S=   5.5408812840669370E-004 eV/K
+
+ Temperature=   48.000000000000000      External field=   0.0000000000000000      Max SCF iterations=         576
+ Lowest energy configuration found at random iteration           1 of        1000 with A diff (eV)  -3.7032087651883226E-002
+ T=   48.000000000000000      Moment at site           1 =  0.57012214102749681      Mom/sat_mom=  0.57012214102749681      Exch. field=   70.606431985516238     
+ T=   48.000000000000000      Moment at site           2 =  0.57012214104067960      Mom/sat_mom=  0.57012214104067960      Exch. field=   70.606431987714402     
+ T=   48.000000000000000      Moment at site           3 = -0.57012214100842762      Mom/sat_mom= -0.57012214100842762      Exch. field=  -70.606431982336588     
+ T=   48.000000000000000      Moment at site           4 = -0.57012214101847225      Mom/sat_mom= -0.57012214101847225      Exch. field=  -70.606431984011479     
+ T=   48.000000000000000      Moment at site           5 =  0.57012214100642233      Mom/sat_mom=  0.57012214100642233      Exch. field=   70.606431982002249     
+ T=   48.000000000000000      Moment at site           6 =  0.57012214101613745      Mom/sat_mom=  0.57012214101613745      Exch. field=   70.606431983622173     
+ T=   48.000000000000000      Moment at site           7 = -0.57012214099236980      Mom/sat_mom= -0.57012214099236980      Exch. field=  -70.606431979659050     
+ T=   48.000000000000000      Moment at site           8 = -0.57012214099977210      Mom/sat_mom= -0.57012214099977210      Exch. field=  -70.606431980893348     
+ T=   48.000000000000000      Total moment          M=   7.1694428172008884E-011 mu_B
+ T=   48.000000000000000      Helmholtz energy      A=  -3.7032087651883226E-002 eV
+ T=   48.000000000000000      Internal energy  U_exch=  -9.3202880348725141E-003 eV
+ T=   48.000000000000000      Internal energy U_field=   0.0000000000000000      eV
+ T=   48.000000000000000      Total internal energy U=  -9.3202880348725141E-003 eV
+ T=   48.000000000000000      Entropy               S=   5.7732915868772313E-004 eV/K
+
+ Temperature=   49.000000000000000      External field=   0.0000000000000000      Max SCF iterations=         134
+ Lowest energy configuration found at random iteration           1 of        1000 with A diff (eV)  -3.7621132331032668E-002
+ T=   49.000000000000000      Moment at site           1 =  0.53417617545982088      Mom/sat_mom=  0.53417617545982088      Exch. field=   66.154725606017507     
+ T=   49.000000000000000      Moment at site           2 =  0.53417617547681728      Mom/sat_mom=  0.53417617547681728      Exch. field=   66.154725608730843     
+ T=   49.000000000000000      Moment at site           3 = -0.53417617543415141      Mom/sat_mom= -0.53417617543415141      Exch. field=  -66.154725601919623     
+ T=   49.000000000000000      Moment at site           4 = -0.53417617544763973      Mom/sat_mom= -0.53417617544763973      Exch. field=  -66.154725604072908     
+ T=   49.000000000000000      Moment at site           5 =  0.53417617543139673      Mom/sat_mom=  0.53417617543139673      Exch. field=   66.154725601479825     
+ T=   49.000000000000000      Moment at site           6 =  0.53417617544450802      Mom/sat_mom=  0.53417617544450802      Exch. field=   66.154725603572999     
+ T=   49.000000000000000      Moment at site           7 = -0.53417617541159457      Mom/sat_mom= -0.53417617541159457      Exch. field=  -66.154725598318578     
+ T=   49.000000000000000      Moment at site           8 = -0.53417617542199891      Mom/sat_mom= -0.53417617542199891      Exch. field=  -66.154725599979656     
+ T=   49.000000000000000      Total moment          M=   9.7158281420206549E-011 mu_B
+ T=   49.000000000000000      Helmholtz energy      A=  -3.7621132331032668E-002 eV
+ T=   49.000000000000000      Internal energy  U_exch=  -8.1820578900091041E-003 eV
+ T=   49.000000000000000      Internal energy U_field=   0.0000000000000000      eV
+ T=   49.000000000000000      Total internal energy U=  -8.1820578900091041E-003 eV
+ T=   49.000000000000000      Entropy               S=   6.0079743757190951E-004 eV/K
+
+ Temperature=   50.000000000000000      External field=   0.0000000000000000      Max SCF iterations=         108
+ Lowest energy configuration found at random iteration           1 of        1000 with A diff (eV)  -3.8233755774157725E-002
+ T=   50.000000000000000      Moment at site           1 =  0.49442020587621505      Mom/sat_mom=  0.49442020587621505      Exch. field=   61.231171579778163     
+ T=   50.000000000000000      Moment at site           2 =  0.49442020588904700      Mom/sat_mom=  0.49442020588904700      Exch. field=   61.231171581741819     
+ T=   50.000000000000000      Moment at site           3 = -0.49442020585605584      Mom/sat_mom= -0.49442020585605584      Exch. field=  -61.231171576693150     
+ T=   50.000000000000000      Moment at site           4 = -0.49442020586664603      Mom/sat_mom= -0.49442020586664603      Exch. field=  -61.231171578313777     
+ T=   50.000000000000000      Moment at site           5 =  0.49442020585384716      Mom/sat_mom=  0.49442020585384716      Exch. field=   61.231171576355194     
+ T=   50.000000000000000      Moment at site           6 =  0.49442020586419178      Mom/sat_mom=  0.49442020586419178      Exch. field=   61.231171577938255     
+ T=   50.000000000000000      Moment at site           7 = -0.49442020583759438      Mom/sat_mom= -0.49442020583759438      Exch. field=  -61.231171573868075     
+ T=   50.000000000000000      Moment at site           8 = -0.49442020584613200      Mom/sat_mom= -0.49442020584613200      Exch. field=  -61.231171575174585     
+ T=   50.000000000000000      Total moment          M=   7.6872730403465539E-011 mu_B
+ T=   50.000000000000000      Helmholtz energy      A=  -3.8233755774157725E-002 eV
+ T=   50.000000000000000      Internal energy  U_exch=  -7.0094822678138709E-003 eV
+ T=   50.000000000000000      Internal energy U_field=   0.0000000000000000      eV
+ T=   50.000000000000000      Total internal energy U=  -7.0094822678138709E-003 eV
+ T=   50.000000000000000      Entropy               S=   6.2448547012687713E-004 eV/K
+
+ Temperature=   51.000000000000000      External field=   0.0000000000000000      Max SCF iterations=         118
+ Lowest energy configuration found at random iteration           1 of        1000 with A diff (eV)  -3.8870174145713192E-002
+ T=   51.000000000000000      Moment at site           1 =  0.44984211156844656      Mom/sat_mom=  0.44984211156844656      Exch. field=   55.710424433521453     
+ T=   51.000000000000000      Moment at site           2 =  0.44984211158486365      Mom/sat_mom=  0.44984211158486365      Exch. field=   55.710424435932538     
+ T=   51.000000000000000      Moment at site           3 = -0.44984211154170062      Mom/sat_mom= -0.44984211154170062      Exch. field=  -55.710424429593473     
+ T=   51.000000000000000      Moment at site           4 = -0.44984211155577269      Mom/sat_mom= -0.44984211155577269      Exch. field=  -55.710424431660137     
+ T=   51.000000000000000      Moment at site           5 =  0.44984211153871256      Mom/sat_mom=  0.44984211153871256      Exch. field=   55.710424429154642     
+ T=   51.000000000000000      Moment at site           6 =  0.44984211155252307      Mom/sat_mom=  0.44984211155252307      Exch. field=   55.710424431182830     
+ T=   51.000000000000000      Moment at site           7 = -0.44984211151621456      Mom/sat_mom= -0.44984211151621456      Exch. field=  -55.710424425850462     
+ T=   51.000000000000000      Moment at site           8 = -0.44984211152805176      Mom/sat_mom= -0.44984211152805176      Exch. field=  -55.710424427588926     
+ T=   51.000000000000000      Total moment          M=   1.0280620799107965E-010 mu_B
+ T=   51.000000000000000      Helmholtz energy      A=  -3.8870174145713192E-002 eV
+ T=   51.000000000000000      Internal energy  U_exch=  -5.8024811381173639E-003 eV
+ T=   51.000000000000000      Internal energy U_field=   0.0000000000000000      eV
+ T=   51.000000000000000      Total internal energy U=  -5.8024811381173639E-003 eV
+ T=   51.000000000000000      Entropy               S=   6.4838613740383975E-004 eV/K
+
+ Temperature=   52.000000000000000      External field=   0.0000000000000000      Max SCF iterations=         146
+ Lowest energy configuration found at random iteration           1 of        1000 with A diff (eV)  -3.9530596667209927E-002
+ T=   52.000000000000000      Moment at site           1 =  0.39882486071514678      Mom/sat_mom=  0.39882486071514678      Exch. field=   49.392223836274916     
+ T=   52.000000000000000      Moment at site           2 =  0.39882486073388490      Mom/sat_mom=  0.39882486073388490      Exch. field=   49.392223838918959     
+ T=   52.000000000000000      Moment at site           3 = -0.39882486068358158      Mom/sat_mom= -0.39882486068358158      Exch. field=  -49.392223831820964     
+ T=   52.000000000000000      Moment at site           4 = -0.39882486070024070      Mom/sat_mom= -0.39882486070024070      Exch. field=  -49.392223834171695     
+ T=   52.000000000000000      Moment at site           5 =  0.39882486067998557      Mom/sat_mom=  0.39882486067998557      Exch. field=   49.392223831313615     
+ T=   52.000000000000000      Moment at site           6 =  0.39882486069640888      Mom/sat_mom=  0.39882486069640888      Exch. field=   49.392223833630950     
+ T=   52.000000000000000      Moment at site           7 = -0.39882486065232059      Mom/sat_mom= -0.39882486065232059      Exch. field=  -49.392223827409957     
+ T=   52.000000000000000      Moment at site           8 = -0.39882486066692135      Mom/sat_mom= -0.39882486066692135      Exch. field=  -49.392223829470247     
+ T=   52.000000000000000      Total moment          M=   1.2236189839143208E-010 mu_B
+ T=   52.000000000000000      Helmholtz energy      A=  -3.9530596667209927E-002 eV

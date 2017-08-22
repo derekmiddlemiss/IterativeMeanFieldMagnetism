@@ -1,0 +1,19 @@
+.f.          !debug logical (extreme detail in output)
+.f.          !Detailed output
+.f.          !Use low x approximation to the Brillouin function
+.t.          !Use preceeding converged moments to initialize subsequent temperature steps
+.f.          !Symmetric updates of moments (recommend .false.)
+.t.          !Random initialisation of site moments
+
+1D-10 0.7 10      !convergence threshold (moment units), damping factor, min number SCF cycles
+100 1D-10
+4.7 2. 605 1 2   !external field (Tesla), start temperature (Kelvin), num_T_steps, T_increment, g-factor
+
+1                !num_sites
+1 4              !max_shell,max_neigh
+1.5          !Site weights
+1            !Exch weights
+
+1.5 1            !*site1* etc
+4 1 1 1 1 7.999579
+

@@ -1,0 +1,73 @@
+.f.          !debug logical (extreme detail in output)
+.f.          !Detailed output
+.f.          !Use low x approximation to the Brillouin function
+.t.          !Use preceeding converged moments to initialize subsequent temperature steps
+.f.          !Symmetric updates of moments (recommend .false.)
+.f.          !Random initialisation of site moments
+
+1D-11 0.8 10     !SCF convergence threshold (moment units), damping factor, min number SCF iterations
+1 1D-10        !number of random initialisation iterations at each T, A threshold for selection of new low A state
+4.7 2. 605 1. 2  !external field (Tesla), start temperature (Kelvin), num_T_steps, T_increment, g-factor
+
+8                !num_sites
+4 4              !max_shell,max_neigh
+0 1 1 1 1 1 1 1  !Site weights
+0 1 1 1 1 1 1 1  !Exch weights
+
+2.5 4 !*site1*, spin, num_shells
+4	3 3 4 4 -7.240758         !shell 1: num_neigh,neigh_list(1:num_neigh),J_shell(Kelvin)
+2	2 2 -2.171499
+2	5 6 -0.300815
+2	7 8 -0.812238
+
+2.5 4 !Site 2
+4	3 3 4 4 -7.240758
+2	1 1 -2.171499
+2	5 6 -0.300815
+2	7 8 -0.812238
+
+2.5 4 !Site 3
+4	1 1 2 2 -7.240758
+2	4 4 -2.171499
+2	7 8 -0.300815
+2	5 6 -0.812238
+
+2.5 4 !Site 4
+4	1 1 2 2 -7.240758		
+2	3 3 -2.171499		
+2	7 8 -0.300815		
+2	5 6 -0.812238		
+
+2.5 4 !Site 5
+4	7 7 8 8 -7.240758		
+2	6 6 -2.171499		
+2	1 2 -0.300815		
+2	3 4 -0.812238		
+
+2.5 4 !Site 6
+4	7 7 8 8 -7.240758		
+2	5 5 -2.171499		
+2	1 2 -0.300815		
+2	3 4 -0.812238	
+
+2.5 4 !Site 7
+4	5 5 6 6 -7.240758		
+2	8 8 -2.171499		
+2	3 4 -0.300815		
+2	1 2 -0.812238		
+
+2.5 4 !Site 8
+4	5 5 6 6 -7.240758		
+2	7 7 -2.171499		
+2	3 4 -0.300815		
+2	1 2 -0.812238		
+
+0.0              !starting guess for site moments (Bohr magnetons)
+5.0
+-5.0
+-5.0
+5.0
+5.0
+-5.0
+-5.0
+

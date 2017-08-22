@@ -1,0 +1,1028 @@
+
+ TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT
+ TTTT Temperature   320.00000000000000      Kelvin TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT
+ TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT
+ Starting moments
+ Site           1 =   5.0000000000000000     
+ Site           2 =   5.0000000000000000     
+ Site           3 =   5.0000000000000000     
+ Site           4 =   5.0000000000000000     
+ Site           5 =   5.0000000000000000     
+ Site           6 =   5.0000000000000000     
+ Site           7 =   5.0000000000000000     
+ Site           8 =   5.0000000000000000     
+
+ ****************************************************************************************************
+ ****Iteration number           1 *******************************************************************
+ ****************************************************************************************************
+ Non-simult. update. Site           1 moment=  -2.0894504946269636      , exchange field=  -242.31709594279016      Tesla
+ Non-simult. update. Site           2 moment=  -1.8205617965726280      , exchange field=  -201.24412165286623      Tesla
+ Non-simult. update. Site           3 moment=   1.1870353008929726      , exchange field=   4.8561537938744195      Tesla
+ Non-simult. update. Site           4 moment=   1.6133627895639346      , exchange field=   26.946695391351358      Tesla
+ Non-simult. update. Site           5 moment=  -1.8644659797444865      , exchange field=  -207.15652995678627      Tesla
+ Non-simult. update. Site           6 moment=  -1.5291229311395824      , exchange field=  -167.38701116068412      Tesla
+ Non-simult. update. Site           7 moment=   1.7793839371383537      , exchange field=   35.785227032557344      Tesla
+ Non-simult. update. Site           8 moment=   2.1168820790850287      , exchange field=   54.443976515029448      Tesla
+ (Max_diff/damping)=   8.8618131182837043     
+
+ ****************************************************************************************************
+ ****Iteration number           2 *******************************************************************
+ ****************************************************************************************************
+ Non-simult. update. Site           1 moment=  -1.1527374752554516      , exchange field=  -42.796225559073825      Tesla
+ Non-simult. update. Site           2 moment=  -1.1709524628370027      , exchange field=  -46.665288640963588      Tesla
+ Non-simult. update. Site           3 moment=  0.97855813293249727      , exchange field=   33.733506959525648      Tesla
+ Non-simult. update. Site           4 moment=   1.1322149281425684      , exchange field=   37.411269482969132      Tesla
+ Non-simult. update. Site           5 moment=  -1.4507848773742926      , exchange field=  -61.629828370510197      Tesla
+ Non-simult. update. Site           6 moment=  -1.3917335290567616      , exchange field=  -62.083682568471389      Tesla
+ Non-simult. update. Site           7 moment=   1.2179249969338730      , exchange field=   40.259265324106025      Tesla
+ Non-simult. update. Site           8 moment=   1.3803372874631783      , exchange field=   45.467403973345910      Tesla
+ (Max_diff/damping)=   1.1708912742143900     
+
+ ****************************************************************************************************
+ ****Iteration number           3 *******************************************************************
+ ****************************************************************************************************
+ Non-simult. update. Site           1 moment= -0.76670969001485900      , exchange field=  -32.292595942616472      Tesla
+ Non-simult. update. Site           2 moment= -0.81502318793768724      , exchange field=  -34.634590294307770      Tesla
+ Non-simult. update. Site           3 moment=  0.75277534467598184      , exchange field=   23.987164468098445      Tesla
+ Non-simult. update. Site           4 moment=  0.82535586311178055      , exchange field=   26.185460692624464      Tesla
+ Non-simult. update. Site           5 moment= -0.95869556259101674      , exchange field=  -39.264502291907213      Tesla
+ Non-simult. update. Site           6 moment= -0.99404497145425519      , exchange field=  -41.773322584352790      Tesla
+ Non-simult. update. Site           7 moment=  0.87449725572363068      , exchange field=   27.872802916985314      Tesla
+ Non-simult. update. Site           8 moment=  0.96228666083357028      , exchange field=   30.803404468431228      Tesla
+ (Max_diff/damping)=  0.61511164347909486     
+
+ ****************************************************************************************************
+ ****Iteration number           4 *******************************************************************
+ ****************************************************************************************************
+ Non-simult. update. Site           1 moment= -0.53981147270893126      , exchange field=  -24.510232233327720      Tesla
+ Non-simult. update. Site           2 moment= -0.58028389554814919      , exchange field=  -26.104680732889648      Tesla
+ Non-simult. update. Site           3 moment=  0.56822204802609233      , exchange field=   16.724767772966292      Tesla
+ Non-simult. update. Site           4 moment=  0.61146194705840662      , exchange field=   18.214481338790446      Tesla
+ Non-simult. update. Site           5 moment= -0.64234219335705278      , exchange field=  -27.833217325067587      Tesla
+ Non-simult. update. Site           6 moment= -0.68858340475956137      , exchange field=  -29.870819417561123      Tesla
+ Non-simult. update. Site           7 moment=  0.63286918131368819      , exchange field=   18.815923871837548      Tesla
+ Non-simult. update. Site           8 moment=  0.68709807894959707      , exchange field=   20.724415323639917      Tesla
+ (Max_diff/damping)=  0.39544171154245494     
+
+ ****************************************************************************************************
+ ****Iteration number           5 *******************************************************************
+ ****************************************************************************************************
+ Non-simult. update. Site           1 moment= -0.37889172532391863      , exchange field=  -18.557657642437341      Tesla
+ Non-simult. update. Site           2 moment= -0.40969050681523389      , exchange field=  -19.724430079325209      Tesla
+ Non-simult. update. Site           3 moment=  0.42947548957119652      , exchange field=   11.466435707729680      Tesla
+ Non-simult. update. Site           4 moment=  0.45859338266603256      , exchange field=   12.520780483132448      Tesla
+ Non-simult. update. Site           5 moment= -0.43253283750817895      , exchange field=  -20.260901126665665      Tesla
+ Non-simult. update. Site           6 moment= -0.47059373189181508      , exchange field=  -21.744338859055087      Tesla
+ Non-simult. update. Site           7 moment=  0.46262214723480166      , exchange field=   12.507758147123219      Tesla
+ Non-simult. update. Site           8 moment=  0.49868411060765488      , exchange field=   13.808267146941500      Tesla
+ (Max_diff/damping)=  0.27248709108468283     
+
+ ****************************************************************************************************
+ ****Iteration number           6 *******************************************************************
+ ****************************************************************************************************
+ Non-simult. update. Site           1 moment= -0.26167047446114128      , exchange field=  -14.197631076916316      Tesla
+ Non-simult. update. Site           2 moment= -0.28457735553404351      , exchange field=  -15.055190204789632      Tesla
+ Non-simult. update. Site           3 moment=  0.32711849688682915      , exchange field=   7.6328998011089340      Tesla
+ Non-simult. update. Site           4 moment=  0.34778676746519999      , exchange field=   8.3946040555462229      Tesla
+ Non-simult. update. Site           5 moment= -0.28874761293242457      , exchange field=  -15.034793797006261      Tesla
+ Non-simult. update. Site           6 moment= -0.31692099909248794      , exchange field=  -16.088325516340806      Tesla
+ Non-simult. update. Site           7 moment=  0.34273209425423762      , exchange field=   8.0938390437271241      Tesla
+ Non-simult. update. Site           8 moment=  0.36754495378874730      , exchange field=   8.9973523926108374      Tesla
+ (Max_diff/damping)=  0.19209091599915895     
+
+ ****************************************************************************************************
+ ****Iteration number           7 *******************************************************************
+ ****************************************************************************************************
+ Non-simult. update. Site           1 moment= -0.17600869978853667      , exchange field=  -11.015352492323712      Tesla
+ Non-simult. update. Site           2 moment= -0.19289549793446878      , exchange field=  -11.644348718407302      Tesla
+ Non-simult. update. Site           3 moment=  0.25211797996869123      , exchange field=   4.8386956181538583      Tesla
+ Non-simult. update. Site           4 moment=  0.26707647175398214      , exchange field=   5.3929560156515706      Tesla
+ Non-simult. update. Site           5 moment= -0.18856420254327710      , exchange field=  -11.380299221208912      Tesla
+ Non-simult. update. Site           6 moment= -0.20874439099010250      , exchange field=  -12.123938718882016      Tesla
+ Non-simult. update. Site           7 moment=  0.25819358388334440      , exchange field=   4.9898717456142281      Tesla
+ Non-simult. update. Site           8 moment=  0.27552763910442962      , exchange field=   5.6234026529950709      Tesla
+ (Max_diff/damping)=  0.13522076012798179     
+
+ ****************************************************************************************************
+ ****Iteration number           8 *******************************************************************
+ ****************************************************************************************************
+ Non-simult. update. Site           1 moment= -0.11344686172778835      , exchange field=  -8.6944910421978392      Tesla
+ Non-simult. update. Site           2 moment= -0.12583678212665106      , exchange field=  -9.1547794375762468      Tesla
+ Non-simult. update. Site           3 moment=  0.19735889894387171      , exchange field=   2.8044819091950024      Tesla
+ Non-simult. update. Site           4 moment=  0.20824858079715816      , exchange field=   3.2083930554475644      Tesla
+ Non-simult. update. Site           5 moment= -0.11819421852812606      , exchange field=  -8.8086954533644217      Tesla
+ Non-simult. update. Site           6 moment= -0.13250173934871096      , exchange field=  -9.3333009793212867      Tesla
+ Non-simult. update. Site           7 moment=  0.19847766813802192      , exchange field=   2.7995548891809743      Tesla
+ Non-simult. update. Site           8 moment=  0.21067304396559999      , exchange field=   3.2459465353235255      Tesla
+ (Max_diff/damping)=  9.53033145517394042E-002
+
+ ****************************************************************************************************
+ ****Iteration number           9 *******************************************************************
+ ****************************************************************************************************
+ Non-simult. update. Site           1 moment= -6.78258415478909388E-002 , exchange field=  -7.0039949114038560      Tesla
+ Non-simult. update. Site           2 moment= -7.68870392110748979E-002 , exchange field=  -7.3400832828131115      Tesla
+ Non-simult. update. Site           3 moment=  0.15747702271898376      , exchange field=   1.3256167022084375      Tesla
+ Non-simult. update. Site           4 moment=  0.16541062692490788      , exchange field=   1.6197634631153230      Tesla
+ Non-simult. update. Site           5 moment= -6.85533380072758380E-002 , exchange field=  -6.9926628858606161      Tesla
+ Non-simult. update. Site           6 moment= -7.86718449668198788E-002 , exchange field=  -7.3631501395862955      Tesla
+ Non-simult. update. Site           7 moment=  0.15622538463334126      , exchange field=   1.2502214743918332      Tesla
+ Non-simult. update. Site           8 moment=  0.16483702494785765      , exchange field=   1.5656658538391959      Tesla
+ (Max_diff/damping)=  6.72873679773638433E-002
+
+ ****************************************************************************************************
+ ****Iteration number          10 *******************************************************************
+ ****************************************************************************************************
+ Non-simult. update. Site           1 moment= -3.46169584572018907E-002 , exchange field=  -5.7745419101403339      Tesla
+ Non-simult. update. Site           2 moment= -4.12268353783876787E-002 , exchange field=  -6.0194350709505624      Tesla
+ Non-simult. update. Site           3 moment=  0.12848799545108802      , exchange field=  0.25202880247116655      Tesla
+ Non-simult. update. Site           4 moment=  0.13426212119608993      , exchange field=  0.46594133270039928      Tesla
+ Non-simult. update. Site           5 moment= -3.34447268937734729E-002 , exchange field=  -5.7072797299551876      Tesla
+ Non-simult. update. Site           6 moment= -4.06017110573628492E-002 , exchange field=  -5.9693045877674340      Tesla
+ Non-simult. update. Site           7 moment=  0.12628589073129817      , exchange field=  0.15232784361066495      Tesla
+ Non-simult. update. Site           8 moment=  0.13238044821282247      , exchange field=  0.37567516026436154      Tesla
+ (Max_diff/damping)=  4.75876673868212835E-002
+
+ ****************************************************************************************************
+ ****Iteration number          11 *******************************************************************
+ ****************************************************************************************************
+ Non-simult. update. Site           1 moment= -1.04851198001474077E-002 , exchange field=  -4.8817982910052091      Tesla
+ Non-simult. update. Site           2 moment= -1.52964226297070509E-002 , exchange field=  -5.0599014732659739      Tesla
+ Non-simult. update. Site           3 moment=  0.10745246093871250      , exchange field= -0.52626685325226075      Tesla
+ Non-simult. update. Site           4 moment=  0.11164852179002530      , exchange field= -0.37094416818556714      Tesla
+ Non-simult. update. Site           5 moment= -8.56975258693576034E-003 , exchange field=  -4.7960004349445313      Tesla
+ Non-simult. update. Site           6 moment= -1.36369298684570518E-002 , exchange field=  -4.9815786835984834      Tesla
+ Non-simult. update. Site           7 moment=  0.10504430763512332      , exchange field= -0.62675981735162589      Tesla
+ Non-simult. update. Site           8 moment=  0.10936426179818455      , exchange field= -0.46838695051455198      Tesla
+ (Max_diff/damping)=  3.37059764861322442E-002
+
+ ****************************************************************************************************
+ ****Iteration number          12 *******************************************************************
+ ****************************************************************************************************
+ Non-simult. update. Site           1 moment=  7.02258723524456716E-003 , exchange field=  -4.2345144300318358      Tesla
+ Non-simult. update. Site           2 moment=  3.52702253558366888E-003 , exchange field=  -4.3638203782226705      Tesla
+ Non-simult. update. Site           3 moment=  9.22109761550919255E-002 , exchange field=  -1.0897638090858068      Tesla
+ Non-simult. update. Site           4 moment=  9.52554786217849475E-002 , exchange field= -0.97715172261621219      Tesla
+ Non-simult. update. Site           5 moment=  9.07874787931189919E-003 , exchange field=  -4.1491157576453075      Tesla
+ Non-simult. update. Site           6 moment=  5.48699104808122659E-003 , exchange field=  -4.2807198148031125      Tesla
+ Non-simult. update. Site           7 moment=  8.99571864623448791E-002 , exchange field=  -1.1802560887334088      Tesla
+ Non-simult. update. Site           8 moment=  9.30230576664442810E-002 , exchange field=  -1.0678205329853745      Tesla
+ (Max_diff/damping)=  2.39049011456728480E-002
+
+ ****************************************************************************************************
+ ****Iteration number          13 *******************************************************************
+ ****************************************************************************************************
+ Non-simult. update. Site           1 moment=  1.97061165386635748E-002 , exchange field=  -3.7658383520679219      Tesla
+ Non-simult. update. Site           2 moment=  1.71706439466997353E-002 , exchange field=  -3.8595724873900323      Tesla
+ Non-simult. update. Site           3 moment=  8.11820666478989122E-002 , exchange field=  -1.4972656780464868      Tesla
+ Non-simult. update. Site           4 moment=  8.33878208629452167E-002 , exchange field=  -1.4157308836907017      Tesla
+ Non-simult. update. Site           5 moment=  2.16143544921942772E-002 , exchange field=  -3.6894256138941235      Tesla
+ Non-simult. update. Site           6 moment=  1.90655234550478128E-002 , exchange field=  -3.7828600464508271      Tesla
+ Non-simult. update. Site           7 moment=  7.92310017891570822E-002 , exchange field=  -1.5738695608891118      Tesla
+ Non-simult. update. Site           8 moment=  8.14091307188223867E-002 , exchange field=  -1.4939648127168321      Tesla
+ (Max_diff/damping)=  1.70545267638950830E-002
+
+ ****************************************************************************************************
+ ****Iteration number          14 *******************************************************************
+ ****************************************************************************************************
+ Non-simult. update. Site           1 moment=  2.88829524705091975E-002 , exchange field=  -3.4268983354481324      Tesla
+ Non-simult. update. Site           2 moment=  2.70465198376287769E-002 , exchange field=  -3.4947539960862417      Tesla
+ Non-simult. update. Site           3 moment=  7.32106069033024720E-002 , exchange field=  -1.7916478800274001      Tesla
+ Non-simult. update. Site           4 moment=  7.48065966179111280E-002 , exchange field=  -1.7326858423314930      Tesla
+ Non-simult. update. Site           5 moment=  3.05269931195271127E-002 , exchange field=  -3.3624595113272910      Tesla
+ Non-simult. update. Site           6 moment=  2.87163658471215298E-002 , exchange field=  -3.4288619284413802      Tesla
+ Non-simult. update. Site           7 moment=  7.15986945885198206E-002 , exchange field=  -1.8540228624473887      Tesla
+ Non-simult. update. Site           8 moment=  7.31475532524223648E-002 , exchange field=  -1.7971857646697478      Tesla
+ (Max_diff/damping)=  1.23448448636612994E-002
+
+ ****************************************************************************************************
+ ****Iteration number          15 *******************************************************************
+ ****************************************************************************************************
+ Non-simult. update. Site           1 moment=  3.55150871783476152E-002 , exchange field=  -3.1820454674114922      Tesla
+ Non-simult. update. Site           2 moment=  3.41866464632693545E-002 , exchange field=  -3.2311084023909311      Tesla
+ Non-simult. update. Site           3 moment=  6.74548335503857704E-002 , exchange field=  -2.0041132081587576      Tesla
+ Non-simult. update. Site           4 moment=  6.86082919518113815E-002 , exchange field=  -1.9615205169922234      Tesla
+ Non-simult. update. Site           5 moment=  3.68691813479850722E-002 , exchange field=  -3.1297086045629410      Tesla
+ Non-simult. update. Site           6 moment=  3.55817433709498324E-002 , exchange field=  -3.1769422204420907      Tesla
+ Non-simult. update. Site           7 moment=  6.61637196547367468E-002 , exchange field=  -2.0535708383035365      Tesla
+ Non-simult. update. Site           8 moment=  6.72660071198031423E-002 , exchange field=  -2.0131097591239517      Tesla
+ (Max_diff/damping)=  8.92515828205071859E-003
+
+ ****************************************************************************************************
+ ****Iteration number          16 *******************************************************************
+ ****************************************************************************************************
+ Non-simult. update. Site           1 moment=  4.03033766525043649E-002 , exchange field=  -3.0053297130191035      Tesla
+ Non-simult. update. Site           2 moment=  3.93434731728804152E-002 , exchange field=  -3.0407671988991809      Tesla
+ Non-simult. update. Site           3 moment=  6.33025837655168400E-002 , exchange field=  -2.1573298041290907      Tesla
+ Non-simult. update. Site           4 moment=  6.41353709792539944E-002 , exchange field=  -2.1265910020046279      Tesla
+ Non-simult. update. Site           5 moment=  4.13856817589426731E-002 , exchange field=  -2.9639057425563640      Tesla
+ Non-simult. update. Site           6 moment=  4.04694820686463050E-002 , exchange field=  -2.9975310584212536      Tesla
+ Non-simult. update. Site           7 moment=  6.22908300480754934E-002 , exchange field=  -2.1957996222386917      Tesla
+ Non-simult. update. Site           8 moment=  6.30758778533400816E-002 , exchange field=  -2.1669757634488231      Tesla
+ (Max_diff/damping)=  6.44603338701382755E-003
+
+ ****************************************************************************************************
+ ****Iteration number          17 *******************************************************************
+ ****************************************************************************************************
+ Non-simult. update. Site           1 moment=  4.37574109477228482E-002 , exchange field=  -2.8778964667242506      Tesla
+ Non-simult. update. Site           2 moment=  4.30644800536674893E-002 , exchange field=  -2.9034687664223484      Tesla
+ Non-simult. update. Site           3 moment=  6.03094636915693649E-002 , exchange field=  -2.2677393909407013      Tesla
+ Non-simult. update. Site           4 moment=  6.09101959311962593E-002 , exchange field=  -2.2455738660129509      Tesla
+ Non-simult. update. Site           5 moment=  4.46042256448983265E-002 , exchange field=  -2.8457183209729937      Tesla
+ Non-simult. update. Site           6 moment=  4.39517238855874348E-002 , exchange field=  -2.8696730995177537      Tesla
+ Non-simult. update. Site           7 moment=  5.95293786141080847E-002 , exchange field=  -2.2972338076293597      Tesla
+ Non-simult. update. Site           8 moment=  6.00888568863617578E-002 , exchange field=  -2.2766870428014498      Tesla
+ (Max_diff/damping)=  4.65125860098384442E-003
+
+ ****************************************************************************************************
+ ****Iteration number          18 *******************************************************************
+ ****************************************************************************************************
+ Non-simult. update. Site           1 moment=  4.62470607608828008E-002 , exchange field=  -2.7860692231572988      Tesla
+ Non-simult. update. Site           2 moment=  4.57472787288982150E-002 , exchange field=  -2.8045076135039317      Tesla
+ Non-simult. update. Site           3 moment=  5.81533741850369101E-002 , exchange field=  -2.3472506022660027      Tesla
+ Non-simult. update. Site           4 moment=  5.85863766222409488E-002 , exchange field=  -2.3312788610446309      Tesla
+ Non-simult. update. Site           5 moment=  4.68992115540022778E-002 , exchange field=  -2.7614237163414037      Tesla
+ Non-simult. update. Site           6 moment=  4.64341974695293702E-002 , exchange field=  -2.7785000871146286      Tesla
+ Non-simult. update. Site           7 moment=  5.75593313850830401E-002 , exchange field=  -2.3696123730625680      Tesla
+ Non-simult. update. Site           8 moment=  5.79582894856248837E-002 , exchange field=  -2.3549574804219509      Tesla
+ (Max_diff/damping)=  3.35349834403840530E-003
+
+ ****************************************************************************************************
+ ****Iteration number          19 *******************************************************************
+ ****************************************************************************************************
+ Non-simult. update. Site           1 moment=  4.80403721901480063E-002 , exchange field=  -2.7199420071071869      Tesla
+ Non-simult. update. Site           2 moment=  4.76801714316312866E-002 , exchange field=  -2.7332271226249110      Tesla
+ Non-simult. update. Site           3 moment=  5.66011753433168438E-002 , exchange field=  -2.4044779470134383      Tesla
+ Non-simult. update. Site           4 moment=  5.69130670468119548E-002 , exchange field=  -2.3929766154008720      Tesla
+ Non-simult. update. Site           5 moment=  4.85365408759654698E-002 , exchange field=  -2.7012715207880662      Tesla
+ Non-simult. update. Site           6 moment=  4.82049426214201868E-002 , exchange field=  -2.7134515193290785      Tesla
+ Non-simult. update. Site           7 moment=  5.61531935375236754E-002 , exchange field=  -2.4212825198276682      Tesla
+ Non-simult. update. Site           8 moment=  5.64378375919117464E-002 , exchange field=  -2.4108246346187374      Tesla
+ (Max_diff/damping)=  2.41611587841634307E-003
+
+ ****************************************************************************************************
+ ****Iteration number          20 *******************************************************************
+ ****************************************************************************************************
+ Non-simult. update. Site           1 moment=  4.93313369695962609E-002 , exchange field=  -2.6723490615469814      Tesla
+ Non-simult. update. Site           2 moment=  4.90719064021892179E-002 , exchange field=  -2.6819151456518986      Tesla
+ Non-simult. update. Site           3 moment=  5.54843190963054192E-002 , exchange field=  -2.4456461163682994      Tesla
+ Non-simult. update. Site           4 moment=  5.57088403964296208E-002 , exchange field=  -2.4373686161752435      Tesla
+ Non-simult. update. Site           5 moment=  4.97052397450930411E-002 , exchange field=  -2.6583274734590150      Tesla
+ Non-simult. update. Site           6 moment=  4.94686520275868374E-002 , exchange field=  -2.6670194962377289      Tesla
+ Non-simult. update. Site           7 moment=  5.51491123870018196E-002 , exchange field=  -2.4581846601529551      Tesla
+ Non-simult. update. Site           8 moment=  5.53522938071915466E-002 , exchange field=  -2.4507183865329956      Tesla
+ (Max_diff/damping)=  1.73966871319741084E-003
+
+ ****************************************************************************************************
+ ****Iteration number          21 *******************************************************************
+ ****************************************************************************************************
+ Non-simult. update. Site           1 moment=  5.02601862632038113E-002 , exchange field=  -2.6381126596480136      Tesla
+ Non-simult. update. Site           2 moment=  5.00734431667408594E-002 , exchange field=  -2.6449969997273581      Tesla
+ Non-simult. update. Site           3 moment=  5.46810814577719170E-002 , exchange field=  -2.4752485785682334      Tesla
+ Non-simult. update. Site           4 moment=  5.48426225435624387E-002 , exchange field=  -2.4692942219512122      Tesla
+ Non-simult. update. Site           5 moment=  5.05397995582424903E-002 , exchange field=  -2.6276561015016240      Tesla
+ Non-simult. update. Site           6 moment=  5.03709184678289637E-002 , exchange field=  -2.6338618314126627      Tesla
+ Non-simult. update. Site           7 moment=  5.44318479943972644E-002 , exchange field=  -2.4845495489759206      Tesla
+ Non-simult. update. Site           8 moment=  5.45769426522757506E-002 , exchange field=  -2.4792169146296028      Tesla
+ (Max_diff/damping)=  1.25192095568955192E-003
+
+ ****************************************************************************************************
+ ****Iteration number          22 *******************************************************************
+ ****************************************************************************************************
+ Non-simult. update. Site           1 moment=  5.09281846209919745E-002 , exchange field=  -2.6134952319359925      Tesla
+ Non-simult. update. Site           2 moment=  5.07938323752488985E-002 , exchange field=  -2.6184472058303863      Tesla
+ Non-simult. update. Site           3 moment=  5.41036349619615706E-002 , exchange field=  -2.4965262907069832      Tesla
+ Non-simult. update. Site           4 moment=  5.42198086051829883E-002 , exchange field=  -2.4922449408389404      Tesla
+ Non-simult. update. Site           5 moment=  5.11359838617817739E-002 , exchange field=  -2.6057420215934126      Tesla
+ Non-simult. update. Site           6 moment=  5.10153813451854274E-002 , exchange field=  -2.6101744541606124      Tesla
+ Non-simult. update. Site           7 moment=  5.39192921474274112E-002 , exchange field=  -2.5033923440920725      Tesla
+ Non-simult. update. Site           8 moment=  5.40229458867629297E-002 , exchange field=  -2.4995822233643992      Tesla
+ (Max_diff/damping)=  9.00486510635047197E-004
+
+ ****************************************************************************************************
+ ****Iteration number          23 *******************************************************************
+ ****************************************************************************************************
+ Non-simult. update. Site           1 moment=  5.14083916895555909E-002 , exchange field=  -2.5958011157767471      Tesla
+ Non-simult. update. Site           2 moment=  5.13117757844470251E-002 , exchange field=  -2.5993615862159274      Tesla
+ Non-simult. update. Site           3 moment=  5.36886603946129318E-002 , exchange field=  -2.5118150631345442      Tesla
+ Non-simult. update. Site           4 moment=  5.37721736360766353E-002 , exchange field=  -2.5087378377821112      Tesla
+ Non-simult. update. Site           5 moment=  5.15620272624712356E-002 , exchange field=  -2.5900797027649682      Tesla
+ Non-simult. update. Site           6 moment=  5.14758687478300905E-002 , exchange field=  -2.5932467146121332      Tesla
+ Non-simult. update. Site           7 moment=  5.35529065940723026E-002 , exchange field=  -2.5168631635192265      Tesla
+ Non-simult. update. Site           8 moment=  5.36269808157766384E-002 , exchange field=  -2.5141399747758157      Tesla
+ (Max_diff/damping)=  6.47429261497661779E-004
+
+ ****************************************************************************************************
+ ****Iteration number          24 *******************************************************************
+ ****************************************************************************************************
+ Non-simult. update. Site           1 moment=  5.17534762539852561E-002 , exchange field=  -2.5830875740017079      Tesla
+ Non-simult. update. Site           2 moment=  5.16840252107539505E-002 , exchange field=  -2.5856465808024383      Tesla
+ Non-simult. update. Site           3 moment=  5.33905399477134709E-002 , exchange field=  -2.5227972365645264      Tesla
+ Non-simult. update. Site           4 moment=  5.34505531977174722E-002 , exchange field=  -2.5205862287181229      Tesla
+ Non-simult. update. Site           5 moment=  5.18665791112612601E-002 , exchange field=  -2.5788823241683581      Tesla
+ Non-simult. update. Site           6 moment=  5.18050063563437815E-002 , exchange field=  -2.5811459180426901      Tesla
+ Non-simult. update. Site           7 moment=  5.32909338239693636E-002 , exchange field=  -2.5264960840578503      Tesla
+ Non-simult. update. Site           8 moment=  5.33438857765869481E-002 , exchange field=  -2.5245491842995174      Tesla
+ (Max_diff/damping)=  4.65311782883656710E-004
+
+ ****************************************************************************************************
+ ****Iteration number          25 *******************************************************************
+ ****************************************************************************************************
+ Non-simult. update. Site           1 moment=  5.20013808786401813E-002 , exchange field=  -2.5739554223354828      Tesla
+ Non-simult. update. Site           2 moment=  5.19514745427258062E-002 , exchange field=  -2.5757940332684077      Tesla
+ Non-simult. update. Site           3 moment=  5.31764290016042210E-002 , exchange field=  -2.5306837907682587      Tesla
+ Non-simult. update. Site           4 moment=  5.32195413205011000E-002 , exchange field=  -2.5290956428479454      Tesla
+ Non-simult. update. Site           5 moment=  5.20843442004687504E-002 , exchange field=  -2.5708749445907477      Tesla
+ Non-simult. update. Site           6 moment=  5.20403281111663715E-002 , exchange field=  -2.5724932979594106      Tesla
+ Non-simult. update. Site           7 moment=  5.31035717991634390E-002 , exchange field=  -2.5333861704634661      Tesla
+ Non-simult. update. Site           8 moment=  5.31414348321992969E-002 , exchange field=  -2.5319939032033019      Tesla
+ (Max_diff/damping)=  3.34311664964823064E-004
+
+ ****************************************************************************************************
+ ****Iteration number          26 *******************************************************************
+ ****************************************************************************************************
+ Non-simult. update. Site           1 moment=  5.21794226469702929E-002 , exchange field=  -2.5673975365595010      Tesla
+ Non-simult. update. Site           2 moment=  5.21435719815300930E-002 , exchange field=  -2.5687181617098092      Tesla
+ Non-simult. update. Site           3 moment=  5.30226924576186337E-002 , exchange field=  -2.5363459632724874      Tesla
+ Non-simult. update. Site           4 moment=  5.30536548246941519E-002 , exchange field=  -2.5352055126423148      Tesla
+ Non-simult. update. Site           5 moment=  5.22400920036550989E-002 , exchange field=  -2.5651474338624558      Tesla
+ Non-simult. update. Site           6 moment=  5.22086179675692458E-002 , exchange field=  -2.5663047728165065      Tesla
+ Non-simult. update. Site           7 moment=  5.29695415247759469E-002 , exchange field=  -2.5383154434487780      Tesla
+ Non-simult. update. Site           8 moment=  5.29966218943827561E-002 , exchange field=  -2.5373195736840115      Tesla
+ (Max_diff/damping)=  2.40121798505354977E-004
+
+ ****************************************************************************************************
+ ****Iteration number          27 *******************************************************************
+ ****************************************************************************************************
+ Non-simult. update. Site           1 moment=  5.23072581492353347E-002 , exchange field=  -2.5626893658535734      Tesla
+ Non-simult. update. Site           2 moment=  5.22815115958448484E-002 , exchange field=  -2.5636376872732476      Tesla
+ Non-simult. update. Site           3 moment=  5.29123305765640470E-002 , exchange field=  -2.5404102805864675      Tesla
+ Non-simult. update. Site           4 moment=  5.29345616080803202E-002 , exchange field=  -2.5395915137138600      Tesla
+ Non-simult. update. Site           5 moment=  5.23515087963711406E-002 , exchange field=  -2.5610498125117780      Tesla
+ Non-simult. update. Site           6 moment=  5.23289975947684310E-002 , exchange field=  -2.5618776554231713      Tesla
+ Non-simult. update. Site           7 moment=  5.28736434915092271E-002 , exchange field=  -2.5418425823709780      Tesla
+ Non-simult. update. Site           8 moment=  5.28930160994497273E-002 , exchange field=  -2.5411301027813020      Tesla
+ (Max_diff/damping)=  1.72424517893440821E-004
+
+ ****************************************************************************************************
+ ****Iteration number          28 *******************************************************************
+ ****************************************************************************************************
+ Non-simult. update. Site           1 moment=  5.23990250001946031E-002 , exchange field=  -2.5593098847998403      Tesla
+ Non-simult. update. Site           2 moment=  5.23805393316069401E-002 , exchange field=  -2.5599907027333657      Tesla
+ Non-simult. update. Site           3 moment=  5.28331213239034217E-002 , exchange field=  -2.5433271119597998      Tesla
+ Non-simult. update. Site           4 moment=  5.28490797555485822E-002 , exchange field=  -2.5427394141985813      Tesla
+ Non-simult. update. Site           5 moment=  5.24312282017165426E-002 , exchange field=  -2.5581177158034709      Tesla
+ Non-simult. update. Site           6 moment=  5.24151240191766121E-002 , exchange field=  -2.5587099923267371      Tesla
+ Non-simult. update. Site           7 moment=  5.28050168725400851E-002 , exchange field=  -2.5443668465754352      Tesla
+ Non-simult. update. Site           8 moment=  5.28188782261260065E-002 , exchange field=  -2.5438570200399182      Tesla
+ (Max_diff/damping)=  1.23784669702614591E-004
+
+ ****************************************************************************************************
+ ****Iteration number          29 *******************************************************************
+ ****************************************************************************************************
+ Non-simult. update. Site           1 moment=  5.24648871517220949E-002 , exchange field=  -2.5568845721594631      Tesla
+ Non-simult. update. Site           2 moment=  5.24516175583298605E-002 , exchange field=  -2.5573732441446371      Tesla
+ Non-simult. update. Site           3 moment=  5.27762808918318047E-002 , exchange field=  -2.5454200843850705      Tesla
+ Non-simult. update. Site           4 moment=  5.27877343568069340E-002 , exchange field=  -2.5449983216744005      Tesla
+ Non-simult. update. Site           5 moment=  5.24882778342069811E-002 , exchange field=  -2.5560192761027278      Tesla
+ Non-simult. update. Site           6 moment=  5.24767549236627578E-002 , exchange field=  -2.5564430952359918      Tesla
+ Non-simult. update. Site           7 moment=  5.27558985794513643E-002 , exchange field=  -2.5461736529713241      Tesla
+ Non-simult. update. Site           8 moment=  5.27658182688112709E-002 , exchange field=  -2.5458087782309451      Tesla
+ (Max_diff/damping)=  8.88477834036505154E-005
+
+ ****************************************************************************************************
+ ****Iteration number          30 *******************************************************************
+ ****************************************************************************************************
+ Non-simult. update. Site           1 moment=  5.25121490781815040E-002 , exchange field=  -2.5551443105148337      Tesla
+ Non-simult. update. Site           2 moment=  5.25026255642921519E-002 , exchange field=  -2.5554950019486027      Tesla
+ Non-simult. update. Site           3 moment=  5.27354985552672406E-002 , exchange field=  -2.5469216777673691      Tesla
+ Non-simult. update. Site           4 moment=  5.27437173727566683E-002 , exchange field=  -2.5466190478618103      Tesla
+ Non-simult. update. Site           5 moment=  5.25291105979916392E-002 , exchange field=  -2.5545172462605614      Tesla
+ Non-simult. update. Site           6 moment=  5.25208642807433387E-002 , exchange field=  -2.5548205706532303      Tesla
+ Non-simult. update. Site           7 moment=  5.27207381447857421E-002 , exchange field=  -2.5474670917525386      Tesla
+ Non-simult. update. Site           8 moment=  5.27278381256709588E-002 , exchange field=  -2.5472059185097753      Tesla
+ (Max_diff/damping)=  6.37600074528676952E-005
+
+ ****************************************************************************************************
+ ****Iteration number          31 *******************************************************************
+ ****************************************************************************************************
+ Non-simult. update. Site           1 moment=  5.25460585398943442E-002 , exchange field=  -2.5538957816227081      Tesla
+ Non-simult. update. Site           2 moment=  5.25392247206166174E-002 , exchange field=  -2.5541474120546570      Tesla
+ Non-simult. update. Site           3 moment=  5.27062416930083669E-002 , exchange field=  -2.5479988498064632      Tesla
+ Non-simult. update. Site           4 moment=  5.27121384883529540E-002 , exchange field=  -2.5477817331721111      Tesla
+ Non-simult. update. Site           5 moment=  5.25583403032791607E-002 , exchange field=  -2.5534419764262744      Tesla
+ Non-simult. update. Site           6 moment=  5.25524379656628696E-002 , exchange field=  -2.5536590950465778      Tesla
+ Non-simult. update. Site           7 moment=  5.26955660787622251E-002 , exchange field=  -2.5483931349383373      Tesla
+ Non-simult. update. Site           8 moment=  5.27006485582905346E-002 , exchange field=  -2.5482061657290918      Tesla
+ (Max_diff/damping)=  4.57489454055853839E-005
+
+ ****************************************************************************************************
+ ****Iteration number          32 *******************************************************************
+ ****************************************************************************************************
+ Non-simult. update. Site           1 moment=  5.25703846062367045E-002 , exchange field=  -2.5530001548842840      Tesla
+ Non-simult. update. Site           2 moment=  5.25654815735034364E-002 , exchange field=  -2.5531806807490063      Tesla
+ Non-simult. update. Site           3 moment=  5.26852556263618030E-002 , exchange field=  -2.5487714736025029      Tesla
+ Non-simult. update. Site           4 moment=  5.26894858622725462E-002 , exchange field=  -2.5486157268206839      Tesla
+ Non-simult. update. Site           5 moment=  5.25792666416124849E-002 , exchange field=  -2.5526721249827715      Tesla
+ Non-simult. update. Site           6 moment=  5.25750414450905298E-002 , exchange field=  -2.5528275578359021      Tesla
+ Non-simult. update. Site           7 moment=  5.26775429070301254E-002 , exchange field=  -2.5490562090183944      Tesla
+ Non-simult. update. Site           8 moment=  5.26811816125567836E-002 , exchange field=  -2.5489223456363326      Tesla
+ (Max_diff/damping)=  3.28210661085237554E-005
+
+ ****************************************************************************************************
+ ****Iteration number          33 *******************************************************************
+ ****************************************************************************************************
+ Non-simult. update. Site           1 moment=  5.25878336276198177E-002 , exchange field=  -2.5523577538175140      Tesla
+ Non-simult. update. Site           2 moment=  5.25843163343653677E-002 , exchange field=  -2.5524872512087073      Tesla
+ Non-simult. update. Site           3 moment=  5.26702038426273209E-002 , exchange field=  -2.5493255976900757      Tesla
+ Non-simult. update. Site           4 moment=  5.26732381639615707E-002 , exchange field=  -2.5492138866487553      Tesla
+ Non-simult. update. Site           5 moment=  5.25942500054066286E-002 , exchange field=  -2.5521208841593306      Tesla
+ Non-simult. update. Site           6 moment=  5.25912250277817128E-002 , exchange field=  -2.5522321696115111      Tesla
+ Non-simult. update. Site           7 moment=  5.26646370745218126E-002 , exchange field=  -2.5495310336862373      Tesla
+ Non-simult. update. Site           8 moment=  5.26672424189799371E-002 , exchange field=  -2.5494351823383981      Tesla
+ (Max_diff/damping)=  2.35434510774124028E-005
+
+ ****************************************************************************************************
+ ****Iteration number          34 *******************************************************************
+ ****************************************************************************************************
+ Non-simult. update. Site           1 moment=  5.26003484402779581E-002 , exchange field=  -2.5518970287767493      Tesla
+ Non-simult. update. Site           2 moment=  5.25978255324171043E-002 , exchange field=  -2.5519899113315336      Tesla
+ Non-simult. update. Site           3 moment=  5.26594093113807796E-002 , exchange field=  -2.5497229785293922      Tesla
+ Non-simult. update. Site           4 moment=  5.26615855819414364E-002 , exchange field=  -2.5496428605982575      Tesla
+ Non-simult. update. Site           5 moment=  5.26049792078611134E-002 , exchange field=  -2.5517261399089848      Tesla
+ Non-simult. update. Site           6 moment=  5.26028132800602510E-002 , exchange field=  -2.5518058252224245      Tesla
+ Non-simult. update. Site           7 moment=  5.26553948061420710E-002 , exchange field=  -2.5498710818405104      Tesla
+ Non-simult. update. Site           8 moment=  5.26572604348252010E-002 , exchange field=  -2.5498024422896939      Tesla
+ (Max_diff/damping)=  1.68864975646706994E-005
+
+ ****************************************************************************************************
+ ****Iteration number          35 *******************************************************************
+ ****************************************************************************************************
+ Non-simult. update. Site           1 moment=  5.26093234916797520E-002 , exchange field=  -2.5515666297959538      Tesla
+ Non-simult. update. Site           2 moment=  5.26075140314846493E-002 , exchange field=  -2.5516332436168048      Tesla
+ Non-simult. update. Site           3 moment=  5.26516685590918618E-002 , exchange field=  -2.5500079308469368      Tesla
+ Non-simult. update. Site           4 moment=  5.26532292744997105E-002 , exchange field=  -2.5499504762353493      Tesla
+ Non-simult. update. Site           5 moment=  5.26126627758268101E-002 , exchange field=  -2.5514434399066461      Tesla
+ Non-simult. update. Site           6 moment=  5.26111117922027499E-002 , exchange field=  -2.5515005032977642      Tesla
+ Non-simult. update. Site           7 moment=  5.26487756188126627E-002 , exchange field=  -2.5501146270024106      Tesla
+ Non-simult. update. Site           8 moment=  5.26501116678299574E-002 , exchange field=  -2.5500654699301943      Tesla
+ (Max_diff/damping)=  1.21106238344312334E-005
+
+ ****************************************************************************************************
+ ****Iteration number          36 *******************************************************************
+ ****************************************************************************************************
+ Non-simult. update. Site           1 moment=  5.26157594536754841E-002 , exchange field=  -2.5513297100309624      Tesla
+ Non-simult. update. Site           2 moment=  5.26144618064688860E-002 , exchange field=  -2.5513774801668725      Tesla
+ Non-simult. update. Site           3 moment=  5.26461180828388525E-002 , exchange field=  -2.5502122489120329      Tesla
+ Non-simult. update. Site           4 moment=  5.26472372595354690E-002 , exchange field=  -2.5501710499795522      Tesla
+ Non-simult. update. Site           5 moment=  5.26181656762442496E-002 , exchange field=  -2.5512409667636788      Tesla
+ Non-simult. update. Site           6 moment=  5.26170549495020567E-002 , exchange field=  -2.5512818336825038      Tesla
+ Non-simult. update. Site           7 moment=  5.26440347209627957E-002 , exchange field=  -2.5502890673609286      Tesla
+ Non-simult. update. Site           8 moment=  5.26449915902815341E-002 , exchange field=  -2.5502538603610878      Tesla
+ (Max_diff/damping)=  8.68471873029935670E-006
+
+ ****************************************************************************************************
+ ****Iteration number          37 *******************************************************************
+ ****************************************************************************************************
+ Non-simult. update. Site           1 moment=  5.26203743081884931E-002 , exchange field=  -2.5511598334607388      Tesla
+ Non-simult. update. Site           2 moment=  5.26194437817505412E-002 , exchange field=  -2.5511940877419841      Tesla
+ Non-simult. update. Site           3 moment=  5.26421383979379098E-002 , exchange field=  -2.5503587409809847      Tesla
+ Non-simult. update. Site           4 moment=  5.26429408920052744E-002 , exchange field=  -2.5503292005516571      Tesla
+ Non-simult. update. Site           5 moment=  5.26221070707594343E-002 , exchange field=  -2.5510959436817351      Tesla
+ Non-simult. update. Site           6 moment=  5.26213115711971074E-002 , exchange field=  -2.5511252133193003      Tesla
+ Non-simult. update. Site           7 moment=  5.26406389137988873E-002 , exchange field=  -2.5504140183390960      Tesla
+ Non-simult. update. Site           8 moment=  5.26413242633958431E-002 , exchange field=  -2.5503888009587929      Tesla
+ (Max_diff/damping)=  6.22746910206722903E-006
+
+ ****************************************************************************************************
+ ****Iteration number          38 *******************************************************************
+ ****************************************************************************************************
+ Non-simult. update. Site           1 moment=  5.26236831363344204E-002 , exchange field=  -2.5510380358657807      Tesla
+ Non-simult. update. Site           2 moment=  5.26230159158813451E-002 , exchange field=  -2.5510625967117817      Tesla
+ Non-simult. update. Site           3 moment=  5.26392851353411836E-002 , exchange field=  -2.5504637671002919      Tesla
+ Non-simult. update. Site           4 moment=  5.26398605181253934E-002 , exchange field=  -2.5504425873488303      Tesla
+ Non-simult. update. Site           5 moment=  5.26249302237770111E-002 , exchange field=  -2.5509920637132675      Tesla
+ Non-simult. update. Site           6 moment=  5.26243604507974361E-002 , exchange field=  -2.5510130285009462      Tesla
+ Non-simult. update. Site           7 moment=  5.26382064353296611E-002 , exchange field=  -2.5505035248756904      Tesla
+ Non-simult. update. Site           8 moment=  5.26386973407521677E-002 , exchange field=  -2.5504854616319879      Tesla
+ (Max_diff/damping)=  4.46516766350324446E-006
+
+ ****************************************************************************************************
+ ****Iteration number          39 *******************************************************************
+ ****************************************************************************************************
+ Non-simult. update. Site           1 moment=  5.26260554126087299E-002 , exchange field=  -2.5509507145937489      Tesla
+ Non-simult. update. Site           2 moment=  5.26255770226151595E-002 , exchange field=  -2.5509683240221572      Tesla
+ Non-simult. update. Site           3 moment=  5.26372395753297029E-002 , exchange field=  -2.5505390608820635      Tesla
+ Non-simult. update. Site           4 moment=  5.26376520969560058E-002 , exchange field=  -2.5505238763601970      Tesla
+ Non-simult. update. Site           5 moment=  5.26269525082465814E-002 , exchange field=  -2.5509176507376510      Tesla
+ Non-simult. update. Site           6 moment=  5.26265443866274843E-002 , exchange field=  -2.5509326679112738      Tesla
+ Non-simult. update. Site           7 moment=  5.26364639227062392E-002 , exchange field=  -2.5505676443236860      Tesla
+ Non-simult. update. Site           8 moment=  5.26368155695902049E-002 , exchange field=  -2.5505547049397315      Tesla
+ (Max_diff/damping)=  3.20138341727144171E-006
+
+ ****************************************************************************************************
+ ****Iteration number          40 *******************************************************************
+ ****************************************************************************************************
+ Non-simult. update. Site           1 moment=  5.26277561372962555E-002 , exchange field=  -2.5508881137532446      Tesla
+ Non-simult. update. Site           2 moment=  5.26274131562341832E-002 , exchange field=  -2.5509007385287950      Tesla
+ Non-simult. update. Site           3 moment=  5.26357731405220977E-002 , exchange field=  -2.5505930370313634      Tesla
+ Non-simult. update. Site           4 moment=  5.26360688835256288E-002 , exchange field=  -2.5505821512328999      Tesla
+ Non-simult. update. Site           5 moment=  5.26284011825818993E-002 , exchange field=  -2.5508643436130325      Tesla
+ Non-simult. update. Site           6 moment=  5.26281088345600320E-002 , exchange field=  -2.5508751010239989      Tesla
+ Non-simult. update. Site           7 moment=  5.26352156156626588E-002 , exchange field=  -2.5506135791908968      Tesla
+ Non-simult. update. Site           8 moment=  5.26354675203418026E-002 , exchange field=  -2.5506043098030111      Tesla
+ (Max_diff/damping)=  2.29516702377613457E-006
+
+ ****************************************************************************************************
+ ****Iteration number          41 *******************************************************************
+ ****************************************************************************************************
+ Non-simult. update. Site           1 moment=  5.26289753597663085E-002 , exchange field=  -2.5508432369954361      Tesla
+ Non-simult. update. Site           2 moment=  5.26287294724831767E-002 , exchange field=  -2.5508522876751125      Tesla
+ Non-simult. update. Site           3 moment=  5.26347219158053506E-002 , exchange field=  -2.5506317296247203      Tesla
+ Non-simult. update. Site           4 moment=  5.26349339288080809E-002 , exchange field=  -2.5506239259210921      Tesla
+ Non-simult. update. Site           5 moment=  5.26294389923594244E-002 , exchange field=  -2.5508261545200117      Tesla
+ Non-simult. update. Site           6 moment=  5.26292295661318493E-002 , exchange field=  -2.5508338608347874      Tesla
+ Non-simult. update. Site           7 moment=  5.26343213152380002E-002 , exchange field=  -2.5506464879053006      Tesla
+ Non-simult. update. Site           8 moment=  5.26345017764261736E-002 , exchange field=  -2.5506398473267686      Tesla
+ (Max_diff/damping)=  1.64539531124358041E-006
+
+ ****************************************************************************************************
+ ****Iteration number          42 *******************************************************************
+ ****************************************************************************************************
+ Non-simult. update. Site           1 moment=  5.26298493657122238E-002 , exchange field=  -2.5508110673628512      Tesla
+ Non-simult. update. Site           2 moment=  5.26296730939311980E-002 , exchange field=  -2.5508175555026358      Tesla
+ Non-simult. update. Site           3 moment=  5.26339683647898682E-002 , exchange field=  -2.5506594653042045      Tesla
+ Non-simult. update. Site           4 moment=  5.26341203471490174E-002 , exchange field=  -2.5506538712759896      Tesla
+ Non-simult. update. Site           5 moment=  5.26301824925704820E-002 , exchange field=  -2.5507987949666120      Tesla
+ Non-simult. update. Site           6 moment=  5.26300324618110896E-002 , exchange field=  -2.5508043157785760      Tesla
+ Non-simult. update. Site           7 moment=  5.26336806071780947E-002 , exchange field=  -2.5506700651623171      Tesla
+ Non-simult. update. Site           8 moment=  5.26338098921830116E-002 , exchange field=  -2.5506653076901498      Tesla
+ (Max_diff/damping)=  1.17952681003008486E-006
+
+ ****************************************************************************************************
+ ****Iteration number          43 *******************************************************************
+ ****************************************************************************************************
+ Non-simult. update. Site           1 moment=  5.26304758789274130E-002 , exchange field=  -2.5507880075415468      Tesla
+ Non-simult. update. Site           2 moment=  5.26303495182131945E-002 , exchange field=  -2.5507926585039220      Tesla
+ Non-simult. update. Site           3 moment=  5.26334282131050435E-002 , exchange field=  -2.5506793462281903      Tesla
+ Non-simult. update. Site           4 moment=  5.26335371583994335E-002 , exchange field=  -2.5506753363258974      Tesla
+ Non-simult. update. Site           5 moment=  5.26307151633701037E-002 , exchange field=  -2.5507791933239163      Tesla
+ Non-simult. update. Site           6 moment=  5.26306076789277780E-002 , exchange field=  -2.5507831485787849      Tesla
+ Non-simult. update. Site           7 moment=  5.26332215679741200E-002 , exchange field=  -2.5506869574327080      Tesla
+ Non-simult. update. Site           8 moment=  5.26333141925159342E-002 , exchange field=  -2.5506835489562505      Tesla
+ (Max_diff/damping)=  8.45530352497347976E-007
+
+ ****************************************************************************************************
+ ****Iteration number          44 *******************************************************************
+ ****************************************************************************************************
+ Non-simult. update. Site           1 moment=  5.26309249677381075E-002 , exchange field=  -2.5507714783144273      Tesla
+ Non-simult. update. Site           2 moment=  5.26308343890439859E-002 , exchange field=  -2.5507748122009617      Tesla
+ Non-simult. update. Site           3 moment=  5.26330410387783748E-002 , exchange field=  -2.5506935964782449      Tesla
+ Non-simult. update. Site           4 moment=  5.26331191313573268E-002 , exchange field=  -2.5506907221922255      Tesla
+ Non-simult. update. Site           5 moment=  5.26310967996968526E-002 , exchange field=  -2.5507651494088064      Tesla
+ Non-simult. update. Site           6 moment=  5.26310197934761470E-002 , exchange field=  -2.5507679831467369      Tesla
+ Non-simult. update. Site           7 moment=  5.26328926775735187E-002 , exchange field=  -2.5506990604537716      Tesla
+ Non-simult. update. Site           8 moment=  5.26329590392883989E-002 , exchange field=  -2.5506966183925135      Tesla
+ (Max_diff/damping)=  6.06088538489257811E-007
+
+ ****************************************************************************************************
+ ****Iteration number          45 *******************************************************************
+ ****************************************************************************************************
+ Non-simult. update. Site           1 moment=  5.26312468684255672E-002 , exchange field=  -2.5507596305145275      Tesla
+ Non-simult. update. Site           2 moment=  5.26311819413355017E-002 , exchange field=  -2.5507620202279546      Tesla
+ Non-simult. update. Site           3 moment=  5.26327635239746475E-002 , exchange field=  -2.5507038105263828      Tesla
+ Non-simult. update. Site           4 moment=  5.26328194995841075E-002 , exchange field=  -2.5507017503028302      Tesla
+ Non-simult. update. Site           5 moment=  5.26313702332508321E-002 , exchange field=  -2.5507550871644602      Tesla
+ Non-simult. update. Site           6 moment=  5.26313150613381547E-002 , exchange field=  -2.5507571174492991      Tesla
+ Non-simult. update. Site           7 moment=  5.26326570301836674E-002 , exchange field=  -2.5507077322558627      Tesla
+ Non-simult. update. Site           8 moment=  5.26327045768060567E-002 , exchange field=  -2.5507059825557685      Tesla
+ (Max_diff/damping)=  4.34440364398269718E-007
+
+ ****************************************************************************************************
+ ****Iteration number          46 *******************************************************************
+ ****************************************************************************************************
+ Non-simult. update. Site           1 moment=  5.26314775967640508E-002 , exchange field=  -2.5507511384709711      Tesla
+ Non-simult. update. Site           2 moment=  5.26314310580969710E-002 , exchange field=  -2.5507528513608242      Tesla
+ Non-simult. update. Site           3 moment=  5.26325646141346457E-002 , exchange field=  -2.5507111314231601      Tesla
+ Non-simult. update. Site           4 moment=  5.26326047356786841E-002 , exchange field=  -2.5507096547355772      Tesla
+ Non-simult. update. Site           5 moment=  5.26315661466399756E-002 , exchange field=  -2.5507478775655037      Tesla
+ Non-simult. update. Site           6 moment=  5.26315266171915805E-002 , exchange field=  -2.5507493322368009      Tesla
+ Non-simult. update. Site           7 moment=  5.26324881869519520E-002 , exchange field=  -2.5507139457173080      Tesla
+ Non-simult. update. Site           8 moment=  5.26325222538839357E-002 , exchange field=  -2.5507126920552761      Tesla
+ (Max_diff/damping)=  3.11395951836657137E-007
+
+ ****************************************************************************************************
+ ****Iteration number          47 *******************************************************************
+ ****************************************************************************************************
+ Non-simult. update. Site           1 moment=  5.26316429718722903E-002 , exchange field=  -2.5507450518287067      Tesla
+ Non-simult. update. Site           2 moment=  5.26316096144557391E-002 , exchange field=  -2.5507462795584233      Tesla
+ Non-simult. update. Site           3 moment=  5.26324220476408616E-002 , exchange field=  -2.5507163785563476      Tesla
+ Non-simult. update. Site           4 moment=  5.26324508047340475E-002 , exchange field=  -2.5507153201469421      Tesla
+ Non-simult. update. Site           5 moment=  5.26317065203520257E-002 , exchange field=  -2.5507427117816159      Tesla
+ Non-simult. update. Site           6 moment=  5.26316781976136905E-002 , exchange field=  -2.5507437540567381      Tesla
+ Non-simult. update. Site           7 moment=  5.26323672073134088E-002 , exchange field=  -2.5507183978239722      Tesla
+ Non-simult. update. Site           8 moment=  5.26323916166369574E-002 , exchange field=  -2.5507174995563546      Tesla
+ (Max_diff/damping)=  2.23195448463553436E-007
+
+ ****************************************************************************************************
+ ****Iteration number          48 *******************************************************************
+ ****************************************************************************************************
+ Non-simult. update. Site           1 moment=  5.26317615025897953E-002 , exchange field=  -2.5507406893307638      Tesla
+ Non-simult. update. Site           2 moment=  5.26317375935955109E-002 , exchange field=  -2.5507415692998712      Tesla
+ Non-simult. update. Site           3 moment=  5.26323198663797079E-002 , exchange field=  -2.5507201392929209      Tesla
+ Non-simult. update. Site           4 moment=  5.26323404776912196E-002 , exchange field=  -2.5507193806970796      Tesla
+ Non-simult. update. Site           5 moment=  5.26318071011773470E-002 , exchange field=  -2.5507390103599379      Tesla
+ Non-simult. update. Site           6 moment=  5.26317868076063566E-002 , exchange field=  -2.5507397571671495      Tesla
+ Non-simult. update. Site           7 moment=  5.26322805214826661E-002 , exchange field=  -2.5507215879251488      Tesla
+ Non-simult. update. Site           8 moment=  5.26322980112745240E-002 , exchange field=  -2.5507209442915668      Tesla
+ (Max_diff/damping)=  1.59973924711287463E-007
+
+ ****************************************************************************************************
+ ****Iteration number          49 *******************************************************************
+ ****************************************************************************************************
+ Non-simult. update. Site           1 moment=  5.26318464565792010E-002 , exchange field=  -2.5507375626381816      Tesla
+ Non-simult. update. Site           2 moment=  5.26318293201758908E-002 , exchange field=  -2.5507381933396069      Tesla
+ Non-simult. update. Site           3 moment=  5.26322466314020840E-002 , exchange field=  -2.5507228346558790      Tesla
+ Non-simult. update. Site           4 moment=  5.26322614041031395E-002 , exchange field=  -2.5507222909541882      Tesla
+ Non-simult. update. Site           5 moment=  5.26318791706640587E-002 , exchange field=  -2.5507363581495763      Tesla
+ Non-simult. update. Site           6 moment=  5.26318646298813142E-002 , exchange field=  -2.5507368932581151      Tesla
+ Non-simult. update. Site           7 moment=  5.26322184073343968E-002 , exchange field=  -2.5507238737824403      Tesla
+ Non-simult. update. Site           8 moment=  5.26322309394173307E-002 , exchange field=  -2.5507234125942859      Tesla
+ (Max_diff/damping)=  1.14658225476571562E-007
+
+ ****************************************************************************************************
+ ****Iteration number          50 *******************************************************************
+ ****************************************************************************************************
+ Non-simult. update. Site           1 moment=  5.26319073443662355E-002 , exchange field=  -2.5507353217035194      Tesla
+ Non-simult. update. Site           2 moment=  5.26318950623304235E-002 , exchange field=  -2.5507357737393388      Tesla
+ Non-simult. update. Site           3 moment=  5.26321941435436771E-002 , exchange field=  -2.5507247664273365      Tesla
+ Non-simult. update. Site           4 moment=  5.26322047313592320E-002 , exchange field=  -2.5507243767509813      Tesla
+ Non-simult. update. Site           5 moment=  5.26319308116290491E-002 , exchange field=  -2.5507344577149884      Tesla
+ Non-simult. update. Site           6 moment=  5.26319203926094575E-002 , exchange field=  -2.5507348411412107      Tesla
+ Non-simult. update. Site           7 moment=  5.26321738992369670E-002 , exchange field=  -2.5507255117270806      Tesla
+ Non-simult. update. Site           8 moment=  5.26321828790389384E-002 , exchange field=  -2.5507251812628420      Tesla
+ (Max_diff/damping)=  8.21776931642093089E-008
+
+ ****************************************************************************************************
+ ****Iteration number          51 *******************************************************************
+ ****************************************************************************************************
+ Non-simult. update. Site           1 moment=  5.26319509829085708E-002 , exchange field=  -2.5507337156244603      Tesla
+ Non-simult. update. Site           2 moment=  5.26319421802747545E-002 , exchange field=  -2.5507340396022453      Tesla
+ Non-simult. update. Site           3 moment=  5.26321565257210564E-002 , exchange field=  -2.5507261509142221      Tesla
+ Non-simult. update. Site           4 moment=  5.26321641139232202E-002 , exchange field=  -2.5507258716332060      Tesla
+ Non-simult. update. Site           5 moment=  5.26319678151311240E-002 , exchange field=  -2.5507330959425820      Tesla
+ Non-simult. update. Site           6 moment=  5.26319603495059921E-002 , exchange field=  -2.5507333706865856      Tesla
+ Non-simult. update. Site           7 moment=  5.26321420065293394E-002 , exchange field=  -2.5507266854207482      Tesla
+ Non-simult. update. Site           8 moment=  5.26321484409695561E-002 , exchange field=  -2.5507264486244638      Tesla
+ (Max_diff/damping)=  5.88974304119305181E-008
+
+ ****************************************************************************************************
+ ****Iteration number          52 *******************************************************************
+ ****************************************************************************************************
+ Non-simult. update. Site           1 moment=  5.26319822585538874E-002 , exchange field=  -2.5507325645590049      Tesla
+ Non-simult. update. Site           2 moment=  5.26319759496441247E-002 , exchange field=  -2.5507327967538878      Tesla
+ Non-simult. update. Site           3 moment=  5.26321295652884200E-002 , exchange field=  -2.5507271431570824      Tesla
+ Non-simult. update. Site           4 moment=  5.26321350038173527E-002 , exchange field=  -2.5507269429983830      Tesla
+ Non-simult. update. Site           5 moment=  5.26319943305111546E-002 , exchange field=  -2.5507321201455997      Tesla
+ Non-simult. update. Site           6 moment=  5.26319889809296407E-002 , exchange field=  -2.5507323170157172      Tesla
+ Non-simult. update. Site           7 moment=  5.26321191532018312E-002 , exchange field=  -2.5507275264566434      Tesla
+ Non-simult. update. Site           8 moment=  5.26321237638666811E-002 , exchange field=  -2.5507273567769579      Tesla
+ (Max_diff/damping)=  4.22117117093723238E-008
+
+ ****************************************************************************************************
+ ****Iteration number          53 *******************************************************************
+ ****************************************************************************************************
+ Non-simult. update. Site           1 moment=  5.26320046734142857E-002 , exchange field=  -2.5507317396058253      Tesla
+ Non-simult. update. Site           2 moment=  5.26320001518612093E-002 , exchange field=  -2.5507319060179716      Tesla
+ Non-simult. update. Site           3 moment=  5.26321102433526186E-002 , exchange field=  -2.5507278542772047      Tesla
+ Non-simult. update. Site           4 moment=  5.26321141410843948E-002 , exchange field=  -2.5507277108266040      Tesla
+ Non-simult. update. Site           5 moment=  5.26320133305489476E-002 , exchange field=  -2.5507314209173786      Tesla
+ Non-simult. update. Site           6 moment=  5.26320094972466818E-002 , exchange field=  -2.5507315619877322      Tesla
+ Non-simult. update. Site           7 moment=  5.26321027770393080E-002 , exchange field=  -2.5507281291233665      Tesla
+ Non-simult. update. Site           8 moment=  5.26321060809115254E-002 , exchange field=  -2.5507280075354632      Tesla
+ (Max_diff/damping)=  3.02527713574862744E-008
+
+ ****************************************************************************************************
+ ****Iteration number          54 *******************************************************************
+ ****************************************************************************************************
+ Non-simult. update. Site           1 moment=  5.26320207377782082E-002 , exchange field=  -2.5507311483818769      Tesla
+ Non-simult. update. Site           2 moment=  5.26320174970893936E-002 , exchange field=  -2.5507312676470923      Tesla
+ Non-simult. update. Site           3 moment=  5.26320963958684454E-002 , exchange field=  -2.5507283639169378      Tesla
+ Non-simult. update. Site           4 moment=  5.26320991891497530E-002 , exchange field=  -2.5507282611094215      Tesla
+ Non-simult. update. Site           5 moment=  5.26320269455106890E-002 , exchange field=  -2.5507309198647188      Tesla
+ Non-simult. update. Site           6 moment=  5.26320241987097426E-002 , exchange field=  -2.5507310209518335      Tesla
+ Non-simult. update. Site           7 moment=  5.26320910421986740E-002 , exchange field=  -2.5507285609842629      Tesla
+ Non-simult. update. Site           8 moment=  5.26320934096967674E-002 , exchange field=  -2.5507284738569647      Tesla
+ (Max_diff/damping)=  2.16815352269139583E-008
+
+ ****************************************************************************************************
+ ****Iteration number          55 *******************************************************************
+ ****************************************************************************************************
+ Non-simult. update. Site           1 moment=  5.26320322506428004E-002 , exchange field=  -2.5507307246672095      Tesla
+ Non-simult. update. Site           2 moment=  5.26320299281252887E-002 , exchange field=  -2.5507308101424266      Tesla
+ Non-simult. update. Site           3 moment=  5.26320864716325817E-002 , exchange field=  -2.5507287291597471      Tesla
+ Non-simult. update. Site           4 moment=  5.26320884736000971E-002 , exchange field=  -2.5507286554803761      Tesla
+ Non-simult. update. Site           5 moment=  5.26320367017108284E-002 , exchange field=  -2.5507305608189936      Tesla
+ Non-simult. update. Site           6 moment=  5.26320347334252175E-002 , exchange field=  -2.5507306332555588      Tesla
+ Non-simult. update. Site           7 moment=  5.26320826331641428E-002 , exchange field=  -2.5507288704493369      Tesla
+ Non-simult. update. Site           8 moment=  5.26320843297636079E-002 , exchange field=  -2.5507288080151262      Tesla
+ (Max_diff/damping)=  1.55387948688745503E-008
+
+ ****************************************************************************************************
+ ****Iteration number          56 *******************************************************************
+ ****************************************************************************************************
+ Non-simult. update. Site           1 moment=  5.26320405015952841E-002 , exchange field=  -2.5507304210039345      Tesla
+ Non-simult. update. Site           2 moment=  5.26320388371840503E-002 , exchange field=  -2.5507304822616952      Tesla
+ Non-simult. update. Site           3 moment=  5.26320793592816583E-002 , exchange field=  -2.5507289909184077      Tesla
+ Non-simult. update. Site           4 moment=  5.26320807939980109E-002 , exchange field=  -2.5507289381142919      Tesla
+ Non-simult. update. Site           5 moment=  5.26320436929441707E-002 , exchange field=  -2.5507303035314703      Tesla
+ Non-simult. update. Site           6 moment=  5.26320422824719733E-002 , exchange field=  -2.5507303554387506      Tesla
+ Non-simult. update. Site           7 moment=  5.26320766073547497E-002 , exchange field=  -2.5507290922119368      Tesla
+ Non-simult. update. Site           8 moment=  5.26320778231433167E-002 , exchange field=  -2.5507290474718958      Tesla
+ (Max_diff/damping)=  1.11363234536754341E-008
+
+ ****************************************************************************************************
+ ****Iteration number          57 *******************************************************************
+ ****************************************************************************************************
+ Non-simult. update. Site           1 moment=  5.26320464147579797E-002 , exchange field=  -2.5507302033782384      Tesla
+ Non-simult. update. Site           2 moment=  5.26320452219200680E-002 , exchange field=  -2.5507302472791729      Tesla
+ Non-simult. update. Site           3 moment=  5.26320742621970844E-002 , exchange field=  -2.5507291785080115      Tesla
+ Non-simult. update. Site           4 moment=  5.26320752904069558E-002 , exchange field=  -2.5507291406657986      Tesla
+ Non-simult. update. Site           5 moment=  5.26320487027374592E-002 , exchange field=  -2.5507301191612237      Tesla
+ Non-simult. update. Site           6 moment=  5.26320476920809147E-002 , exchange field=  -2.5507301563572518      Tesla
+ Non-simult. update. Site           7 moment=  5.26320722893051443E-002 , exchange field=  -2.5507292511256217      Tesla
+ Non-simult. update. Site           8 moment=  5.26320731604689451E-002 , exchange field=  -2.5507292190651403      Tesla
+ (Max_diff/damping)=  7.98092002207706486E-009
+
+ ****************************************************************************************************
+ ****Iteration number          58 *******************************************************************
+ ****************************************************************************************************
+ Non-simult. update. Site           1 moment=  5.26320506524400600E-002 , exchange field=  -2.5507300474168479      Tesla
+ Non-simult. update. Site           2 moment=  5.26320497975477086E-002 , exchange field=  -2.5507300788787521      Tesla
+ Non-simult. update. Site           3 moment=  5.26320706093666782E-002 , exchange field=  -2.5507293129434365      Tesla
+ Non-simult. update. Site           4 moment=  5.26320713461819814E-002 , exchange field=  -2.5507292858236696      Tesla
+ Non-simult. update. Site           5 moment=  5.26320522926917098E-002 , exchange field=  -2.5507299870411373      Tesla
+ Non-simult. update. Site           6 moment=  5.26320515684535958E-002 , exchange field=  -2.5507300136949338      Tesla
+ Non-simult. update. Site           7 moment=  5.26320691949889383E-002 , exchange field=  -2.5507293649996448      Tesla
+ Non-simult. update. Site           8 moment=  5.26320698193078890E-002 , exchange field=  -2.5507293420255004      Tesla
+ (Max_diff/damping)=  5.71953455430485119E-009
+
+ ****************************************************************************************************
+ ****Iteration number          59 *******************************************************************
+ ****************************************************************************************************
+ Non-simult. update. Site           1 moment=  5.26320536894712837E-002 , exchange field=  -2.5507299356458719      Tesla
+ Non-simult. update. Site           2 moment=  5.26320530767910300E-002 , exchange field=  -2.5507299581938647      Tesla
+ Non-simult. update. Site           3 moment=  5.26320679915138270E-002 , exchange field=  -2.5507294092891843      Tesla
+ Non-simult. update. Site           4 moment=  5.26320685195856841E-002 , exchange field=  -2.5507293898537995      Tesla
+ Non-simult. update. Site           5 moment=  5.26320548653127843E-002 , exchange field=  -2.5507298923650144      Tesla
+ Non-simult. update. Site           6 moment=  5.26320543463217813E-002 , exchange field=  -2.5507299114654804      Tesla
+ Non-simult. update. Site           7 moment=  5.26320669776887545E-002 , exchange field=  -2.5507294466053843      Tesla
+ Non-simult. update. Site           8 moment=  5.26320674249399975E-002 , exchange field=  -2.5507294301423666      Tesla
+ (Max_diff/damping)=  4.09905415166278431E-009
+
+ ****************************************************************************************************
+ ****Iteration number          60 *******************************************************************
+ ****************************************************************************************************
+ Non-simult. update. Site           1 moment=  5.26320558659264248E-002 , exchange field=  -2.5507298555458733      Tesla
+ Non-simult. update. Site           2 moment=  5.26320554268293744E-002 , exchange field=  -2.5507298717048248      Tesla
+ Non-simult. update. Site           3 moment=  5.26320661154393715E-002 , exchange field=  -2.5507294783343069      Tesla
+ Non-simult. update. Site           4 moment=  5.26320664938168883E-002 , exchange field=  -2.5507294644058023      Tesla
+ Non-simult. update. Site           5 moment=  5.26320567088361321E-002 , exchange field=  -2.5507298245199581      Tesla
+ Non-simult. update. Site           6 moment=  5.26320563369643696E-002 , exchange field=  -2.5507298382072663      Tesla
+ Non-simult. update. Site           7 moment=  5.26320653886633016E-002 , exchange field=  -2.5507295050836651      Tesla
+ Non-simult. update. Site           8 moment=  5.26320657092104668E-002 , exchange field=  -2.5507294932864264      Tesla
+ (Max_diff/damping)=  2.93754792712874746E-009
+
+ ****************************************************************************************************
+ ****Iteration number          61 *******************************************************************
+ ****************************************************************************************************
+ Non-simult. update. Site           1 moment=  5.26320574257508056E-002 , exchange field=  -2.5507297981406798      Tesla
+ Non-simult. update. Site           2 moment=  5.26320571110124660E-002 , exchange field=  -2.5507298097214997      Tesla
+ Non-simult. update. Site           3 moment=  5.26320647709020775E-002 , exchange field=  -2.5507295278163982      Tesla
+ Non-simult. update. Site           4 moment=  5.26320650421757893E-002 , exchange field=  -2.5507295178346325      Tesla
+ Non-simult. update. Site           5 moment=  5.26320580298670210E-002 , exchange field=  -2.5507297759019254      Tesla
+ Non-simult. update. Site           6 moment=  5.26320577633619113E-002 , exchange field=  -2.5507297857098150      Tesla
+ Non-simult. update. Site           7 moment=  5.26320642499823951E-002 , exchange field=  -2.5507295469877627      Tesla
+ Non-simult. update. Site           8 moment=  5.26320644796482856E-002 , exchange field=  -2.5507295385336746      Tesla
+ (Max_diff/damping)=  2.10522886623376593E-009
+
+ ****************************************************************************************************
+ ****Iteration number          62 *******************************************************************
+ ****************************************************************************************************
+ Non-simult. update. Site           1 moment=  5.26320585434995672E-002 , exchange field=  -2.5507297570025633      Tesla
+ Non-simult. update. Site           2 moment=  5.26320583179797213E-002 , exchange field=  -2.5507297653017265      Tesla
+ Non-simult. update. Site           3 moment=  5.26320638073964620E-002 , exchange field=  -2.5507295632761120      Tesla
+ Non-simult. update. Site           4 moment=  5.26320640017702360E-002 , exchange field=  -2.5507295561223757      Tesla
+ Non-simult. update. Site           5 moment=  5.26320589765921290E-002 , exchange field=  -2.5507297410604126      Tesla
+ Non-simult. update. Site           6 moment=  5.26320587855879235E-002 , exchange field=  -2.5507297480893030      Tesla
+ Non-simult. update. Site           7 moment=  5.26320634340589413E-002 , exchange field=  -2.5507295770182767      Tesla
+ Non-simult. update. Site           8 moment=  5.26320635985674870E-002 , exchange field=  -2.5507295709606188      Tesla
+ (Max_diff/damping)=  1.50870906739930533E-009
+
+ ****************************************************************************************************
+ ****Iteration number          63 *******************************************************************
+ ****************************************************************************************************
+ Non-simult. update. Site           1 moment=  5.26320593445784510E-002 , exchange field=  -2.5507297275208183      Tesla
+ Non-simult. update. Site           2 moment=  5.26320591829454731E-002 , exchange field=  -2.5507297334684536      Tesla
+ Non-simult. update. Site           3 moment=  5.26320631168891023E-002 , exchange field=  -2.5507295886887595      Tesla
+ Non-simult. update. Site           4 moment=  5.26320632561209090E-002 , exchange field=  -2.5507295835621702      Tesla
+ Non-simult. update. Site           5 moment=  5.26320596549895089E-002 , exchange field=  -2.5507297160946711      Tesla
+ Non-simult. update. Site           6 moment=  5.26320595181653320E-002 , exchange field=  -2.5507297211315798      Tesla
+ Non-simult. update. Site           7 moment=  5.26320628492097653E-002 , exchange field=  -2.5507295985388252      Tesla
+ Non-simult. update. Site           8 moment=  5.26320629671776508E-002 , exchange field=  -2.5507295941973958      Tesla
+ (Max_diff/damping)=  1.08120719322091219E-009
+
+ ****************************************************************************************************
+ ****Iteration number          64 *******************************************************************
+ ****************************************************************************************************
+ Non-simult. update. Site           1 moment=  5.26320599187280053E-002 , exchange field=  -2.5507297063914502      Tesla
+ Non-simult. update. Site           2 moment=  5.26320598028131650E-002 , exchange field=  -2.5507297106542315      Tesla
+ Non-simult. update. Site           3 moment=  5.26320626220667526E-002 , exchange field=  -2.5507296069010357      Tesla
+ Non-simult. update. Site           4 moment=  5.26320627218200415E-002 , exchange field=  -2.5507296032276212      Tesla
+ Non-simult. update. Site           5 moment=  5.26320601411939260E-002 , exchange field=  -2.5507296982018088      Tesla
+ Non-simult. update. Site           6 moment=  5.26320600431158733E-002 , exchange field=  -2.5507297018113464      Tesla
+ Non-simult. update. Site           7 moment=  5.26320624301740009E-002 , exchange field=  -2.5507296139616207      Tesla
+ Non-simult. update. Site           8 moment=  5.26320625147605678E-002 , exchange field=  -2.5507296108504720      Tesla
+ (Max_diff/damping)=  7.74834613137542864E-010
+
+ ****************************************************************************************************
+ ****Iteration number          65 *******************************************************************
+ ****************************************************************************************************
+ Non-simult. update. Site           1 moment=  5.26320603300816092E-002 , exchange field=  -2.5507296912511066      Tesla
+ Non-simult. update. Site           2 moment=  5.26320602470709484E-002 , exchange field=  -2.5507296943058551      Tesla
+ Non-simult. update. Site           3 moment=  5.26320622673921643E-002 , exchange field=  -2.5507296199520120      Tesla
+ Non-simult. update. Site           4 moment=  5.26320623389282261E-002 , exchange field=  -2.5507296173192686      Tesla
+ Non-simult. update. Site           5 moment=  5.26320604895406108E-002 , exchange field=  -2.5507296853813086      Tesla
+ Non-simult. update. Site           6 moment=  5.26320604193059385E-002 , exchange field=  -2.5507296879676860      Tesla
+ Non-simult. update. Site           7 moment=  5.26320621299071131E-002 , exchange field=  -2.5507296250126159      Tesla
+ Non-simult. update. Site           8 moment=  5.26320621904517519E-002 , exchange field=  -2.5507296227829541      Tesla
+ (Max_diff/damping)=  5.55322225703758221E-010
+
+ ****************************************************************************************************
+ ****Iteration number          66 *******************************************************************
+ ****************************************************************************************************
+ Non-simult. update. Site           1 moment=  5.26320606249182990E-002 , exchange field=  -2.5507296803998889      Tesla
+ Non-simult. update. Site           2 moment=  5.26320605653993814E-002 , exchange field=  -2.5507296825889609      Tesla
+ Non-simult. update. Site           3 moment=  5.26320620133361727E-002 , exchange field=  -2.5507296293046240      Tesla
+ Non-simult. update. Site           4 moment=  5.26320620645063381E-002 , exchange field=  -2.5507296274182956      Tesla
+ Non-simult. update. Site           5 moment=  5.26320607392614798E-002 , exchange field=  -2.5507296761927369      Tesla
+ Non-simult. update. Site           6 moment=  5.26320606888347545E-002 , exchange field=  -2.5507296780464097      Tesla
+ Non-simult. update. Site           7 moment=  5.26320619146712007E-002 , exchange field=  -2.5507296329321307      Tesla
+ Non-simult. update. Site           8 moment=  5.26320619581008495E-002 , exchange field=  -2.5507296313343866      Tesla
+ (Max_diff/damping)=  3.97910544791546579E-010
+
+ ****************************************************************************************************
+ ****Iteration number          67 *******************************************************************
+ ****************************************************************************************************
+ Non-simult. update. Site           1 moment=  5.26320608361691561E-002 , exchange field=  -2.5507296726248891      Tesla
+ Non-simult. update. Site           2 moment=  5.26320607935415047E-002 , exchange field=  -2.5507296741936032      Tesla
+ Non-simult. update. Site           3 moment=  5.26320618311598293E-002 , exchange field=  -2.5507296360065213      Tesla
+ Non-simult. update. Site           4 moment=  5.26320618679113200E-002 , exchange field=  -2.5507296346546204      Tesla
+ Non-simult. update. Site           5 moment=  5.26320609181833710E-002 , exchange field=  -2.5507296696075001      Tesla
+ Non-simult. update. Site           6 moment=  5.26320608820921576E-002 , exchange field=  -2.5507296709362390      Tesla
+ Non-simult. update. Site           7 moment=  5.26320617605235547E-002 , exchange field=  -2.5507296386089537      Tesla
+ Non-simult. update. Site           8 moment=  5.26320617916342173E-002 , exchange field=  -2.5507296374642827      Tesla
+ (Max_diff/damping)=  2.85177652326051856E-010
+
+ ****************************************************************************************************
+ ****Iteration number          68 *******************************************************************
+ ****************************************************************************************************
+ Non-simult. update. Site           1 moment=  5.26320609875871107E-002 , exchange field=  -2.5507296670527402      Tesla
+ Non-simult. update. Site           2 moment=  5.26320609570631801E-002 , exchange field=  -2.5507296681769493      Tesla
+ Non-simult. update. Site           3 moment=  5.26320617006202848E-002 , exchange field=  -2.5507296408110407      Tesla
+ Non-simult. update. Site           4 moment=  5.26320617269562807E-002 , exchange field=  -2.5507296398418347      Tesla
+ Non-simult. update. Site           5 moment=  5.26320610463383021E-002 , exchange field=  -2.5507296648913775      Tesla
+ Non-simult. update. Site           6 moment=  5.26320610205038425E-002 , exchange field=  -2.5507296658429435      Tesla
+ Non-simult. update. Site           7 moment=  5.26320616499427116E-002 , exchange field=  -2.5507296426747956      Tesla
+ Non-simult. update. Site           8 moment=  5.26320616723083765E-002 , exchange field=  -2.5507296418539012      Tesla
+ (Max_diff/damping)=  2.04402092474076369E-010
+
+ ****************************************************************************************************
+ ****Iteration number          69 *******************************************************************
+ ****************************************************************************************************
+ Non-simult. update. Site           1 moment=  5.26320610961156718E-002 , exchange field=  -2.5507296630582221      Tesla
+ Non-simult. update. Site           2 moment=  5.26320610742084111E-002 , exchange field=  -2.5507296638638275      Tesla
+ Non-simult. update. Site           3 moment=  5.26320616070960826E-002 , exchange field=  -2.5507296442527991      Tesla
+ Non-simult. update. Site           4 moment=  5.26320616260341212E-002 , exchange field=  -2.5507296435583848      Tesla
+ Non-simult. update. Site           5 moment=  5.26320611381918685E-002 , exchange field=  -2.5507296615088277      Tesla
+ Non-simult. update. Site           6 moment=  5.26320611197236207E-002 , exchange field=  -2.5507296621906574      Tesla
+ Non-simult. update. Site           7 moment=  5.26320615707841707E-002 , exchange field=  -2.5507296455892150      Tesla
+ Non-simult. update. Site           8 moment=  5.26320615867680933E-002 , exchange field=  -2.5507296450010313      Tesla
+ (Max_diff/damping)=  1.46431540504199350E-010
+
+ ****************************************************************************************************
+ ****Iteration number          70 *******************************************************************
+ ****************************************************************************************************
+ Non-simult. update. Site           1 moment=  5.26320611739258329E-002 , exchange field=  -2.5507296601976330      Tesla
+ Non-simult. update. Site           2 moment=  5.26320611581472808E-002 , exchange field=  -2.5507296607753496      Tesla
+ Non-simult. update. Site           3 moment=  5.26320615401027550E-002 , exchange field=  -2.5507296467204021      Tesla
+ Non-simult. update. Site           4 moment=  5.26320615536105887E-002 , exchange field=  -2.5507296462225559      Tesla
+ Non-simult. update. Site           5 moment=  5.26320612040836813E-002 , exchange field=  -2.5507296590858979      Tesla
+ Non-simult. update. Site           6 moment=  5.26320611907550723E-002 , exchange field=  -2.5507296595746403      Tesla
+ Non-simult. update. Site           7 moment=  5.26320615139967765E-002 , exchange field=  -2.5507296476774659      Tesla
+ Non-simult. update. Site           8 moment=  5.26320615254642840E-002 , exchange field=  -2.5507296472558627      Tesla
+ (Max_diff/damping)=  1.04923583710281334E-010
+
+ ****************************************************************************************************
+ ****Iteration number          71 *******************************************************************
+ ****************************************************************************************************
+ Non-simult. update. Site           1 moment=  5.26320612296193244E-002 , exchange field=  -2.5507296581461847      Tesla
+ Non-simult. update. Site           2 moment=  5.26320612183634254E-002 , exchange field=  -2.5507296585602606      Tesla
+ Non-simult. update. Site           3 moment=  5.26320614920296054E-002 , exchange field=  -2.5507296484880002      Tesla
+ Non-simult. update. Site           4 moment=  5.26320615017797575E-002 , exchange field=  -2.5507296481312287      Tesla
+ Non-simult. update. Site           5 moment=  5.26320612512544070E-002 , exchange field=  -2.5507296573480205      Tesla
+ Non-simult. update. Site           6 moment=  5.26320612417674749E-002 , exchange field=  -2.5507296576985250      Tesla
+ Non-simult. update. Site           7 moment=  5.26320614733649383E-002 , exchange field=  -2.5507296491750138      Tesla
+ Non-simult. update. Site           8 moment=  5.26320614814848944E-002 , exchange field=  -2.5507296488731743      Tesla
+ (Max_diff/damping)=  7.52701789785703568E-011
+
+ ****************************************************************************************************
+ ****Iteration number          72 *******************************************************************
+ ****************************************************************************************************
+ Non-simult. update. Site           1 moment=  5.26320612695492102E-002 , exchange field=  -2.5507296566766531      Tesla
+ Non-simult. update. Site           2 moment=  5.26320612614715813E-002 , exchange field=  -2.5507296569731999      Tesla
+ Non-simult. update. Site           3 moment=  5.26320614576028245E-002 , exchange field=  -2.5507296497548047      Tesla
+ Non-simult. update. Site           4 moment=  5.26320614646119192E-002 , exchange field=  -2.5507296494988636      Tesla
+ Non-simult. update. Site           5 moment=  5.26320612851596467E-002 , exchange field=  -2.5507296561034916      Tesla
+ Non-simult. update. Site           6 moment=  5.26320612782031974E-002 , exchange field=  -2.5507296563548860      Tesla
+ Non-simult. update. Site           7 moment=  5.26320614442065057E-002 , exchange field=  -2.5507296502475145      Tesla
+ Non-simult. update. Site           8 moment=  5.26320614500937548E-002 , exchange field=  -2.5507296500315411      Tesla
+ (Max_diff/damping)=  5.38851949172247657E-011
+
+ ****************************************************************************************************
+ ****Iteration number          73 *******************************************************************
+ ****************************************************************************************************
+ Non-simult. update. Site           1 moment=  5.26320612981693511E-002 , exchange field=  -2.5507296556234316      Tesla
+ Non-simult. update. Site           2 moment=  5.26320612923474110E-002 , exchange field=  -2.5507296558360419      Tesla
+ Non-simult. update. Site           3 moment=  5.26320614329254741E-002 , exchange field=  -2.5507296506623653      Tesla
+ Non-simult. update. Site           4 moment=  5.26320614379368543E-002 , exchange field=  -2.5507296504787891      Tesla
+ Non-simult. update. Site           5 moment=  5.26320613093916242E-002 , exchange field=  -2.5507296552123253      Tesla
+ Non-simult. update. Site           6 moment=  5.26320613043907773E-002 , exchange field=  -2.5507296553930168      Tesla
+ Non-simult. update. Site           7 moment=  5.26320614233397391E-002 , exchange field=  -2.5507296510169377      Tesla
+ Non-simult. update. Site           8 moment=  5.26320614275583090E-002 , exchange field=  -2.5507296508619373      Tesla
+ (Max_diff/damping)=  3.85947870884528754E-011
+
+ ****************************************************************************************************
+ ****Iteration number          74 *******************************************************************
+ ****************************************************************************************************
+ Non-simult. update. Site           1 moment=  5.26320613187010872E-002 , exchange field=  -2.5507296548677472      Tesla
+ Non-simult. update. Site           2 moment=  5.26320613144955762E-002 , exchange field=  -2.5507296550204286      Tesla
+ Non-simult. update. Site           3 moment=  5.26320614153139230E-002 , exchange field=  -2.5507296513133015      Tesla
+ Non-simult. update. Site           4 moment=  5.26320614188457297E-002 , exchange field=  -2.5507296511822348      Tesla
+ Non-simult. update. Site           5 moment=  5.26320613266867271E-002 , exchange field=  -2.5507296545742166      Tesla
+ Non-simult. update. Site           6 moment=  5.26320613231001863E-002 , exchange field=  -2.5507296547033893      Tesla
+ Non-simult. update. Site           7 moment=  5.26320614083377117E-002 , exchange field=  -2.5507296515660638      Tesla
+ Non-simult. update. Site           8 moment=  5.26320614114267407E-002 , exchange field=  -2.5507296514547089      Tesla
+ (Max_diff/damping)=  2.76852082925493903E-011
+
+ ****************************************************************************************************
+ ****Iteration number          75 *******************************************************************
+ ****************************************************************************************************
+ Non-simult. update. Site           1 moment=  5.26320613333518886E-002 , exchange field=  -2.5507296543278244      Tesla
+ Non-simult. update. Site           2 moment=  5.26320613303791623E-002 , exchange field=  -2.5507296544370690      Tesla
+ Non-simult. update. Site           3 moment=  5.26320614025829817E-002 , exchange field=  -2.5507296517786968      Tesla
+ Non-simult. update. Site           4 moment=  5.26320614051367514E-002 , exchange field=  -2.5507296516844780      Tesla
+ Non-simult. update. Site           5 moment=  5.26320613390985903E-002 , exchange field=  -2.5507296541156901      Tesla
+ Non-simult. update. Site           6 moment=  5.26320613366191362E-002 , exchange field=  -2.5507296542083773      Tesla
+ Non-simult. update. Site           7 moment=  5.26320613976634447E-002 , exchange field=  -2.5507296519616736      Tesla
+ Non-simult. update. Site           8 moment=  5.26320613998728648E-002 , exchange field=  -2.5507296518819356      Tesla
+ (Max_diff/damping)=  1.98544791718546776E-011
+
+ ****************************************************************************************************
+ ****Iteration number          76 *******************************************************************
+ ****************************************************************************************************
+ Non-simult. update. Site           1 moment=  5.26320613438706481E-002 , exchange field=  -2.5507296539388791      Tesla
+ Non-simult. update. Site           2 moment=  5.26320613417981739E-002 , exchange field=  -2.5507296540170423      Tesla
+ Non-simult. update. Site           3 moment=  5.26320613935850612E-002 , exchange field=  -2.5507296521134410      Tesla
+ Non-simult. update. Site           4 moment=  5.26320613953463745E-002 , exchange field=  -2.5507296520465159      Tesla
+ Non-simult. update. Site           5 moment=  5.26320613480611085E-002 , exchange field=  -2.5507296537896398      Tesla
+ Non-simult. update. Site           6 moment=  5.26320613462294001E-002 , exchange field=  -2.5507296538559290      Tesla
+ Non-simult. update. Site           7 moment=  5.26320613899863565E-002 , exchange field=  -2.5507296522453844      Tesla
+ Non-simult. update. Site           8 moment=  5.26320613915366858E-002 , exchange field=  -2.5507296521881067      Tesla
+ (Max_diff/damping)=  1.42737627273348266E-011
+
+ ****************************************************************************************************
+ ****Iteration number          77 *******************************************************************
+ ****************************************************************************************************
+ Non-simult. update. Site           1 moment=  5.26320613514313640E-002 , exchange field=  -2.5507296536629966      Tesla
+ Non-simult. update. Site           2 moment=  5.26320613498515791E-002 , exchange field=  -2.5507296537188067      Tesla
+ Non-simult. update. Site           3 moment=  5.26320613870674761E-002 , exchange field=  -2.5507296523514817      Tesla
+ Non-simult. update. Site           4 moment=  5.26320613883292307E-002 , exchange field=  -2.5507296523035179      Tesla
+ Non-simult. update. Site           5 moment=  5.26320613544010857E-002 , exchange field=  -2.5507296535537369      Tesla
+ Non-simult. update. Site           6 moment=  5.26320613530684087E-002 , exchange field=  -2.5507296536010799      Tesla
+ Non-simult. update. Site           7 moment=  5.26320613845003213E-002 , exchange field=  -2.5507296524457193      Tesla
+ Non-simult. update. Site           8 moment=  5.26320613856061936E-002 , exchange field=  -2.5507296524049536      Tesla
+ (Max_diff/damping)=  1.00667599256532014E-011
+
+ ****************************************************************************************************
+ ****Iteration number          78 *******************************************************************
+ ****************************************************************************************************
+ Non-simult. update. Site           1 moment=  5.26320613568088611E-002 , exchange field=  -2.5507296534632293      Tesla
+ Non-simult. update. Site           2 moment=  5.26320613557539410E-002 , exchange field=  -2.5507296535035358      Tesla
+ Non-simult. update. Site           3 moment=  5.26320613823817729E-002 , exchange field=  -2.5507296525234686      Tesla
+ Non-simult. update. Site           4 moment=  5.26320613833730910E-002 , exchange field=  -2.5507296524890122      Tesla
+ Non-simult. update. Site           5 moment=  5.26320613589944253E-002 , exchange field=  -2.5507296533857047      Tesla
+ Non-simult. update. Site           6 moment=  5.26320613580173458E-002 , exchange field=  -2.5507296534200372      Tesla
+ Non-simult. update. Site           7 moment=  5.26320613805325230E-002 , exchange field=  -2.5507296525915506      Tesla
+ Non-simult. update. Site           8 moment=  5.26320613813789778E-002 , exchange field=  -2.5507296525621563      Tesla
+ (Max_diff/damping)=  7.37795241567695825E-012
+ (Max_diff/damping) converged to within tolerance  9.99999999999999939E-012

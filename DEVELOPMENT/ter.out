@@ -1,0 +1,111 @@
+
+ TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT
+ TTTT Temperature  0.94999999999999996      Kelvin TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT
+ TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT
+ Starting moments
+ Site           1 =  -5.0000000000000000     
+ Site           2 =  -5.0000000000000000     
+ Site           3 =   5.0000000000000000     
+ Site           4 =   5.0000000000000000     
+ Site           5 =  -5.0000000000000000     
+ Site           6 =  -5.0000000000000000     
+ Site           7 =   5.0000000000000000     
+ Site           8 =   5.0000000000000000     
+
+ ****************************************************************************************************
+ ****Iteration number           1 *******************************************************************
+ ****************************************************************************************************
+ Nonsymm. update. Site           1 moment=  -5.0000000000000000      , exchange field=  -154.80549451831064      Tesla
+ Nonsymm. update. Site           2 moment=  -5.0000000000000000      , exchange field=  -154.80549451831064      Tesla
+ Nonsymm. update. Site           3 moment=   5.0000000000000000      , exchange field=   154.80549451831064      Tesla
+ Nonsymm. update. Site           4 moment=   5.0000000000000000      , exchange field=   154.80549451831064      Tesla
+ Nonsymm. update. Site           5 moment=  -5.0000000000000000      , exchange field=  -154.80549451831064      Tesla
+ Nonsymm. update. Site           6 moment=  -5.0000000000000000      , exchange field=  -154.80549451831064      Tesla
+ Nonsymm. update. Site           7 moment=   5.0000000000000000      , exchange field=   154.80549451831064      Tesla
+ Nonsymm. update. Site           8 moment=   5.0000000000000000      , exchange field=   154.80549451831064      Tesla
+ Max_diff=   0.0000000000000000     
+ Max_diff converged to within tolerance  1.00000000000000004E-010
+
+ TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT
+ TTTT Temperature   1.9500000000000000      Kelvin TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT
+ TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT
+ Keepmom active, initialising from converged moments at last temperature step.
+ Starting moments
+ Site           1 =  -5.0000000000000000     
+ Site           2 =  -5.0000000000000000     
+ Site           3 =   5.0000000000000000     
+ Site           4 =   5.0000000000000000     
+ Site           5 =  -5.0000000000000000     
+ Site           6 =  -5.0000000000000000     
+ Site           7 =   5.0000000000000000     
+ Site           8 =   5.0000000000000000     
+
+ ****************************************************************************************************
+ ****Iteration number           1 *******************************************************************
+ ****************************************************************************************************
+ Nonsymm. update. Site           1 moment=  -5.0000000000000000      , exchange field=  -154.80549451831064      Tesla
+ Nonsymm. update. Site           2 moment=  -5.0000000000000000      , exchange field=  -154.80549451831064      Tesla
+ Nonsymm. update. Site           3 moment=   5.0000000000000000      , exchange field=   154.80549451831064      Tesla
+ Nonsymm. update. Site           4 moment=   5.0000000000000000      , exchange field=   154.80549451831064      Tesla
+ Nonsymm. update. Site           5 moment=  -5.0000000000000000      , exchange field=  -154.80549451831064      Tesla
+ Nonsymm. update. Site           6 moment=  -5.0000000000000000      , exchange field=  -154.80549451831064      Tesla
+ Nonsymm. update. Site           7 moment=   5.0000000000000000      , exchange field=   154.80549451831064      Tesla
+ Nonsymm. update. Site           8 moment=   5.0000000000000000      , exchange field=   154.80549451831064      Tesla
+ Max_diff=   0.0000000000000000     
+ Max_diff converged to within tolerance  1.00000000000000004E-010
+
+ TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT
+ TTTT Temperature   2.9500000000000002      Kelvin TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT
+ TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT
+ Keepmom active, initialising from converged moments at last temperature step.
+ Starting moments
+ Site           1 =  -5.0000000000000000     
+ Site           2 =  -5.0000000000000000     
+ Site           3 =   5.0000000000000000     
+ Site           4 =   5.0000000000000000     
+ Site           5 =  -5.0000000000000000     
+ Site           6 =  -5.0000000000000000     
+ Site           7 =   5.0000000000000000     
+ Site           8 =   5.0000000000000000     
+
+ ****************************************************************************************************
+ ****Iteration number           1 *******************************************************************
+ ****************************************************************************************************
+ Nonsymm. update. Site           1 moment=  -5.0000000000000000      , exchange field=  -154.80549451831064      Tesla
+ Nonsymm. update. Site           2 moment=  -5.0000000000000000      , exchange field=  -154.80549451831064      Tesla
+ Nonsymm. update. Site           3 moment=   5.0000000000000000      , exchange field=   154.80549451831064      Tesla
+ Nonsymm. update. Site           4 moment=   5.0000000000000000      , exchange field=   154.80549451831064      Tesla
+ Nonsymm. update. Site           5 moment=  -5.0000000000000000      , exchange field=  -154.80549451831064      Tesla
+ Nonsymm. update. Site           6 moment=  -5.0000000000000000      , exchange field=  -154.80549451831064      Tesla
+ Nonsymm. update. Site           7 moment=   5.0000000000000000      , exchange field=   154.80549451831064      Tesla
+ Nonsymm. update. Site           8 moment=   5.0000000000000000      , exchange field=   154.80549451831064      Tesla
+ Max_diff=   0.0000000000000000     
+ Max_diff converged to within tolerance  1.00000000000000004E-010
+
+ TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT
+ TTTT Temperature   3.9500000000000002      Kelvin TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT
+ TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT
+ Keepmom active, initialising from converged moments at last temperature step.
+ Starting moments
+ Site           1 =  -5.0000000000000000     
+ Site           2 =  -5.0000000000000000     
+ Site           3 =   5.0000000000000000     
+ Site           4 =   5.0000000000000000     
+ Site           5 =  -5.0000000000000000     
+ Site           6 =  -5.0000000000000000     
+ Site           7 =   5.0000000000000000     
+ Site           8 =   5.0000000000000000     
+
+ ****************************************************************************************************
+ ****Iteration number           1 *******************************************************************
+ ****************************************************************************************************
+ Nonsymm. update. Site           1 moment=  -5.0000000000000000      , exchange field=  -154.80549451831064      Tesla
+ Nonsymm. update. Site           2 moment=  -5.0000000000000000      , exchange field=  -154.80549451831064      Tesla
+ Nonsymm. update. Site           3 moment=   5.0000000000000000      , exchange field=   154.80549451831064      Tesla
+ Nonsymm. update. Site           4 moment=   5.0000000000000000      , exchange field=   154.80549451831064      Tesla
+ Nonsymm. update. Site           5 moment=  -5.0000000000000000      , exchange field=  -154.80549451831064      Tesla
+ Nonsymm. update. Site           6 moment=  -5.0000000000000000      , exchange field=  -154.80549451831064      Tesla
+ Nonsymm. update. Site           7 moment=   5.0000000000000000      , exchange field=   154.80549451831064      Tesla
+ Nonsymm. update. Site           8 moment=   5.0000000000000000      , exchange field=   154.80549451831064      Tesla
+ Max_diff=   0.0000000000000000     
+ Max_diff converged to within tolerance  1.00000000000000004E-010

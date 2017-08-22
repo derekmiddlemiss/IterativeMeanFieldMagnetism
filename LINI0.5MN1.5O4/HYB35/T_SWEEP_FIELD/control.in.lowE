@@ -1,0 +1,25 @@
+.false.          !Debug logical (extra detail in output)
+.false.          !Detailed output
+.false.          !Use low x approximation to the Brillouin function
+.true.           !Use preceeding converged moments to initialize the next temperature step
+.false.          !Simultaneous updates of site moments at end of each num_sites loop (recommend .false.)
+.false.
+
+1D-10 0.7 10       !convergence threshold (moment units), damping factor
+1 1D-10
+4.7 2. 605 1 2  !external field (Tesla), start temperature (Kelvin), num_T_steps, T_increment, g-factor
+
+2                !num_sites
+2 6              !max_shell,max_neigh
+0.5 1.5          !Site weights
+1   1            !Exch weights
+
+1 1              !*site1*, spin, num_shells
+6 2 2 2 2 2 2 -14.9429 !shell 1: num_neigh,neigh_list(1:num_neigh),J_shell(Kelvin)
+
+1.5 2            !*site2* etc
+2 1 1 -14.9429
+4 2 2 2 2 0.1179 
+
+-2.0              !starting guess for site moments (Bohr magnetons)
+3.0

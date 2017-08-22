@@ -1,0 +1,1300 @@
+ Temperature=   270.00000000000000      External field=   4.7000000000000002      Iterations=         143
+ Moment at site           1 =  0.13636998359574548      Weight=   0.0000000000000000     
+ Moment at site           2 =  2.61074151826699852E-002 Weight=   1.0000000000000000     
+ Moment at site           3 =  9.51072637217342115E-002 Weight=   1.0000000000000000     
+ Moment at site           4 =  9.51072637217342115E-002 Weight=   1.0000000000000000     
+ Moment at site           5 =  4.47179695574404859E-002 Weight=   1.0000000000000000     
+ Moment at site           6 =  4.47179695574404859E-002 Weight=   1.0000000000000000     
+ Moment at site           7 =  6.88486424850476841E-002 Weight=   1.0000000000000000     
+ Moment at site           8 =  6.88486424850476841E-002 Weight=   1.0000000000000000     
+ Total moment     M=  0.44345516671111479      mu_B
+ Helmholtz energy A= -0.29185169837625641      eV
+ Internal energy  U= -6.43280002133301925E-005 eV
+ Entropy          S=  1.08069396435571505E-003 eV/K
+ Temperature=   271.00000000000000      External field=   4.7000000000000002      Iterations=         111
+ Moment at site           1 =  0.13586711065793011      Weight=   0.0000000000000000     
+ Moment at site           2 =  2.65515112162962412E-002 Weight=   1.0000000000000000     
+ Moment at site           3 =  9.46140524351497952E-002 Weight=   1.0000000000000000     
+ Moment at site           4 =  9.46140524351497952E-002 Weight=   1.0000000000000000     
+ Moment at site           5 =  4.50408933573549428E-002 Weight=   1.0000000000000000     
+ Moment at site           6 =  4.50408933573549428E-002 Weight=   1.0000000000000000     
+ Moment at site           7 =  6.83607876725473435E-002 Weight=   1.0000000000000000     
+ Moment at site           8 =  6.83607876725473435E-002 Weight=   1.0000000000000000     
+ Total moment     M=  0.44258297814640041      mu_B
+ Helmholtz energy A= -0.29293239060623810      eV
+ Internal energy  U= -6.40863587805767907E-005 eV
+ Entropy          S=  1.08069484962161448E-003 eV/K
+ Temperature=   272.00000000000000      External field=   4.7000000000000002      Iterations=         109
+ Moment at site           1 =  0.13536793161746274      Weight=   0.0000000000000000     
+ Moment at site           2 =  2.69808393959383233E-002 Weight=   1.0000000000000000     
+ Moment at site           3 =  9.41311435648827799E-002 Weight=   1.0000000000000000     
+ Moment at site           4 =  9.41311435648827799E-002 Weight=   1.0000000000000000     
+ Moment at site           5 =  4.53416307838324997E-002 Weight=   1.0000000000000000     
+ Moment at site           6 =  4.53416307838324997E-002 Weight=   1.0000000000000000     
+ Moment at site           7 =  6.78953950193192379E-002 Weight=   1.0000000000000000     
+ Moment at site           8 =  6.78953950193192379E-002 Weight=   1.0000000000000000     
+ Total moment     M=  0.44171717813200739      mu_B
+ Helmholtz energy A= -0.29401308899900835      eV
+ Internal energy  U= -6.38570399875565149E-005 eV
+ Entropy          S=  1.08069570573169401E-003 eV/K
+ Temperature=   273.00000000000000      External field=   4.7000000000000002      Iterations=         106
+ Moment at site           1 =  0.13487240593585526      Weight=   0.0000000000000000     
+ Moment at site           2 =  2.73961071095820061E-002 Weight=   1.0000000000000000     
+ Moment at site           3 =  9.36580714198089609E-002 Weight=   1.0000000000000000     
+ Moment at site           4 =  9.36580714198089609E-002 Weight=   1.0000000000000000     
+ Moment at site           5 =  4.56218973692627330E-002 Weight=   1.0000000000000000     
+ Moment at site           6 =  4.56218973692627330E-002 Weight=   1.0000000000000000     
+ Moment at site           7 =  6.74507583567807850E-002 Weight=   1.0000000000000000     
+ Moment at site           8 =  6.74507583567807850E-002 Weight=   1.0000000000000000     
+ Total moment     M=  0.44085756140128696      mu_B
+ Helmholtz energy A= -0.29509379305060851      eV
+ Internal energy  U= -6.36390361505107584E-005 eV
+ Entropy          S=  1.08069653485149439E-003 eV/K
+ Temperature=   274.00000000000000      External field=   4.7000000000000002      Iterations=         103
+ Moment at site           1 =  0.13438049366548910      Weight=   0.0000000000000000     
+ Moment at site           2 =  2.77979699302024659E-002 Weight=   1.0000000000000000     
+ Moment at site           3 =  9.31944044972264074E-002 Weight=   1.0000000000000000     
+ Moment at site           4 =  9.31944044972264074E-002 Weight=   1.0000000000000000     
+ Moment at site           5 =  4.58832420877896413E-002 Weight=   1.0000000000000000     
+ Moment at site           6 =  4.58832420877896413E-002 Weight=   1.0000000000000000     
+ Moment at site           7 =  6.70253372049842561E-002 Weight=   1.0000000000000000     
+ Moment at site           8 =  6.70253372049842561E-002 Weight=   1.0000000000000000     
+ Total moment     M=  0.44000393751020311      mu_B
+ Helmholtz energy A= -0.29617450231184467      eV
+ Internal energy  U= -6.34314490821319784E-005 eV
+ Entropy          S=  1.08069733891519174E-003 eV/K
+ Temperature=   275.00000000000000      External field=   4.7000000000000002      Iterations=         101
+ Moment at site           1 =  0.13389215543893940      Weight=   0.0000000000000000     
+ Moment at site           2 =  2.81870365649904142E-002 Weight=   1.0000000000000000     
+ Moment at site           3 =  9.27397422006961542E-002 Weight=   1.0000000000000000     
+ Moment at site           4 =  9.27397422006961542E-002 Weight=   1.0000000000000000     
+ Moment at site           5 =  4.61270655358911527E-002 Weight=   1.0000000000000000     
+ Moment at site           6 =  4.61270655358911527E-002 Weight=   1.0000000000000000     
+ Moment at site           7 =  6.66177386815968858E-002 Weight=   1.0000000000000000     
+ Moment at site           8 =  6.66177386815968858E-002 Weight=   1.0000000000000000     
+ Total moment     M=  0.43915612940135873      mu_B
+ Helmholtz energy A= -0.29725521638114388      eV
+ Internal energy  U= -6.32334758170242456E-005 eV
+ Entropy          S=  1.08069811965573405E-003 eV/K
+ Temperature=   276.00000000000000      External field=   4.7000000000000002      Iterations=          99
+ Moment at site           1 =  0.13340735245821023      Weight=   0.0000000000000000     
+ Moment at site           2 =  2.85638734956431516E-002 Weight=   1.0000000000000000     
+ Moment at site           3 =  9.22937117599948870E-002 Weight=   1.0000000000000000     
+ Moment at site           4 =  9.22937117599948870E-002 Weight=   1.0000000000000000     
+ Moment at site           5 =  4.63546369769238728E-002 Weight=   1.0000000000000000     
+ Moment at site           6 =  4.63546369769238728E-002 Weight=   1.0000000000000000     
+ Moment at site           7 =  6.62267005371328515E-002 Weight=   1.0000000000000000     
+ Moment at site           8 =  6.62267005371328515E-002 Weight=   1.0000000000000000     
+ Total moment     M=  0.43831397204374639      mu_B
+ Helmholtz energy A= -0.29833593489833893      eV
+ Internal energy  U= -6.30443961827992558E-005 eV
+ Entropy          S=  1.08069887863100058E-003 eV/K
+ Temperature=   277.00000000000000      External field=   4.7000000000000002      Iterations=          97
+ Moment at site           1 =  0.13292604648487583      Weight=   0.0000000000000000     
+ Moment at site           2 =  2.89290091396360236E-002 Weight=   1.0000000000000000     
+ Moment at site           3 =  9.18559654715794677E-002 Weight=   1.0000000000000000     
+ Moment at site           4 =  9.18559654715794677E-002 Weight=   1.0000000000000000     
+ Moment at site           5 =  4.65671095106749700E-002 Weight=   1.0000000000000000     
+ Moment at site           6 =  4.65671095106749700E-002 Weight=   1.0000000000000000     
+ Moment at site           7 =  6.58510760587277394E-002 Weight=   1.0000000000000000     
+ Moment at site           8 =  6.58510760587277394E-002 Weight=   1.0000000000000000     
+ Total moment     M=  0.43747731122160038      mu_B
+ Helmholtz energy A= -0.29941665753934865      eV
+ Internal energy  U= -6.28635621640457806E-005 eV
+ Entropy          S=  1.08069961724615378E-003 eV/K
+ Temperature=   278.00000000000000      External field=   4.7000000000000002      Iterations=          94
+ Moment at site           1 =  0.13244819982961786      Weight=   0.0000000000000000     
+ Moment at site           2 =  2.92829373935235941E-002 Weight=   1.0000000000000000     
+ Moment at site           3 =  9.14261783501437303E-002 Weight=   1.0000000000000000     
+ Moment at site           4 =  9.14261783501437303E-002 Weight=   1.0000000000000000     
+ Moment at site           5 =  4.67655328062236003E-002 Weight=   1.0000000000000000     
+ Moment at site           6 =  4.67655328062236003E-002 Weight=   1.0000000000000000     
+ Moment at site           7 =  6.54898213970222104E-002 Weight=   1.0000000000000000     
+ Moment at site           8 =  6.54898213970222104E-002 Weight=   1.0000000000000000     
+ Total moment     M=  0.43664600250030261      mu_B
+ Helmholtz energy A= -0.30049738401170778      eV
+ Internal energy  U= -6.26903889629704456E-005 eV
+ Entropy          S=  1.08070033677246341E-003 eV/K
+ Temperature=   279.00000000000000      External field=   4.7000000000000002      Iterations=          92
+ Moment at site           1 =  0.13197377534279298      Weight=   0.0000000000000000     
+ Moment at site           2 =  2.96261208734059783E-002 Weight=   1.0000000000000000     
+ Moment at site           3 =  9.10040459809464408E-002 Weight=   1.0000000000000000     
+ Moment at site           4 =  9.10040459809464408E-002 Weight=   1.0000000000000000     
+ Moment at site           5 =  4.69508646839149266E-002 Weight=   1.0000000000000000     
+ Moment at site           6 =  4.69508646839149266E-002 Weight=   1.0000000000000000     
+ Moment at site           7 =  6.51419840418617641E-002 Weight=   1.0000000000000000     
+ Moment at site           8 =  6.51419840418617641E-002 Weight=   1.0000000000000000     
+ Total moment     M=  0.43581991028685224      mu_B
+ Helmholtz energy A= -0.30157811405068868      eV
+ Internal energy  U= -6.25243472443406218E-005 eV
+ Entropy          S=  1.08070103836359972E-003 eV/K
+ Temperature=   280.00000000000000      External field=   4.7000000000000002      Iterations=          91
+ Moment at site           1 =  0.13150273640441412      Weight=   0.0000000000000000     
+ Moment at site           2 =  2.99589935988997837E-002 Weight=   1.0000000000000000     
+ Moment at site           3 =  9.05892827436694248E-002 Weight=   1.0000000000000000     
+ Moment at site           4 =  9.05892827436694248E-002 Weight=   1.0000000000000000     
+ Moment at site           5 =  4.71239804862515071E-002 Weight=   1.0000000000000000     
+ Moment at site           6 =  4.71239804862515071E-002 Weight=   1.0000000000000000     
+ Moment at site           7 =  6.48066934960991464E-002 Weight=   1.0000000000000000     
+ Moment at site           8 =  6.48066934960991464E-002 Weight=   1.0000000000000000     
+ Total moment     M=  0.43499890705093991      mu_B
+ Helmholtz energy A= -0.30265884741606469      eV
+ Internal energy  U= -6.23649566634367701E-005 eV
+ Entropy          S=  1.08070172306929009E-003 eV/K
+ Temperature=   281.00000000000000      External field=   4.7000000000000002      Iterations=          89
+ Moment at site           1 =  0.13103504691521550      Weight=   0.0000000000000000     
+ Moment at site           2 =  3.02819634628011536E-002 Weight=   1.0000000000000000     
+ Moment at site           3 =  9.01816201783058741E-002 Weight=   1.0000000000000000     
+ Moment at site           4 =  9.01816201783058741E-002 Weight=   1.0000000000000000     
+ Moment at site           5 =  4.72856816616765221E-002 Weight=   1.0000000000000000     
+ Moment at site           6 =  4.72856816616765221E-002 Weight=   1.0000000000000000     
+ Moment at site           7 =  6.44831527354056550E-002 Weight=   1.0000000000000000     
+ Moment at site           8 =  6.44831527354056550E-002 Weight=   1.0000000000000000     
+ Total moment     M=  0.43418287261357730      mu_B
+ Helmholtz energy A= -0.30373958388927691      eV
+ Internal energy  U= -6.22117802037388049E-005 eV
+ Entropy          S=  1.08070239184723544E-003 eV/K
+ Temperature=   282.00000000000000      External field=   4.7000000000000002      Iterations=          87
+ Moment at site           1 =  0.13057067128691813      Weight=   0.0000000000000000     
+ Moment at site           2 =  3.05954145303863542E-002 Weight=   1.0000000000000000     
+ Moment at site           3 =  8.97808054634517128E-002 Weight=   1.0000000000000000     
+ Moment at site           4 =  8.97808054634517128E-002 Weight=   1.0000000000000000     
+ Moment at site           5 =  4.74367037301618236E-002 Weight=   1.0000000000000000     
+ Moment at site           6 =  4.74367037301618236E-002 Weight=   1.0000000000000000     
+ Moment at site           7 =  6.41706302809700452E-002 Weight=   1.0000000000000000     
+ Moment at site           8 =  6.41706302809700452E-002 Weight=   1.0000000000000000     
+ Total moment     M=  0.43337169347955351      mu_B
+ Helmholtz energy A= -0.30482032327094222      eV
+ Internal energy  U= -6.20644191899372589E-005 eV
+ Entropy          S=  1.08070304557358952E-003 eV/K
+ Temperature=   283.00000000000000      External field=   4.7000000000000002      Iterations=          85
+ Moment at site           1 =  0.13010957443372106      Weight=   0.0000000000000000     
+ Moment at site           2 =  3.08997089136647633E-002 Weight=   1.0000000000000000     
+ Moment at site           3 =  8.93866001785049158E-002 Weight=   1.0000000000000000     
+ Moment at site           4 =  8.93866001785049158E-002 Weight=   1.0000000000000000     
+ Moment at site           5 =  4.75777225687940147E-002 Weight=   1.0000000000000000     
+ Moment at site           6 =  4.75777225687940147E-002 Weight=   1.0000000000000000     
+ Moment at site           7 =  6.38684539464420553E-002 Weight=   1.0000000000000000     
+ Moment at site           8 =  6.38684539464420553E-002 Weight=   1.0000000000000000     
+ Total moment     M=  0.43256526230114667      mu_B
+ Helmholtz energy A= -0.30590106537877509      eV
+ Internal energy  U= -6.19225091351497650E-005 eV
+ Entropy          S=  1.08070368505173119E-003 eV/K
+ Temperature=   284.00000000000000      External field=   4.7000000000000002      Iterations=          84
+ Moment at site           1 =  0.12965172176306439      Weight=   0.0000000000000000     
+ Moment at site           2 =  3.11951885648662497E-002 Weight=   1.0000000000000000     
+ Moment at site           3 =  8.89987791187737409E-002 Weight=   1.0000000000000000     
+ Moment at site           4 =  8.89987791187737409E-002 Weight=   1.0000000000000000     
+ Moment at site           5 =  4.77093604401925345E-002 Weight=   1.0000000000000000     
+ Moment at site           6 =  4.77093604401925345E-002 Weight=   1.0000000000000000     
+ Moment at site           7 =  6.35760048395277444E-002 Weight=   1.0000000000000000     
+ Moment at site           8 =  6.35760048395277444E-002 Weight=   1.0000000000000000     
+ Total moment     M=  0.43176347736185428      mu_B
+ Helmholtz energy A= -0.30698181004572778      eV
+ Internal energy  U= -6.17857160200241477E-005 eV
+ Entropy          S=  1.08070431102009774E-003 eV/K
+ Temperature=   285.00000000000000      External field=   4.7000000000000002      Iterations=          82
+ Moment at site           1 =  0.12919707916720924      Weight=   0.0000000000000000     
+ Moment at site           2 =  3.14821767616771872E-002 Weight=   1.0000000000000000     
+ Moment at site           3 =  8.86171293149955325E-002 Weight=   1.0000000000000000     
+ Moment at site           4 =  8.86171293149955325E-002 Weight=   1.0000000000000000     
+ Moment at site           5 =  4.78321908215042293E-002 Weight=   1.0000000000000000     
+ Moment at site           6 =  4.78321908215042293E-002 Weight=   1.0000000000000000     
+ Moment at site           7 =  6.32927125582318645E-002 Weight=   1.0000000000000000     
+ Moment at site           8 =  6.32927125582318645E-002 Weight=   1.0000000000000000     
+ Total moment     M=  0.43096624215114049      mu_B
+ Helmholtz energy A= -0.30806255711842073      eV
+ Internal energy  U= -6.16537331578009769E-005 eV
+ Entropy          S=  1.08070492415881722E-003 eV/K
+ Temperature=   286.00000000000000      External field=   4.7000000000000002      Iterations=          81
+ Moment at site           1 =  0.12874561301472909      Weight=   0.0000000000000000     
+ Moment at site           2 =  3.17609796654253901E-002 Weight=   1.0000000000000000     
+ Moment at site           3 =  8.82414490053696349E-002 Weight=   1.0000000000000000     
+ Moment at site           4 =  8.82414490053696349E-002 Weight=   1.0000000000000000     
+ Moment at site           5 =  4.79467436016560652E-002 Weight=   1.0000000000000000     
+ Moment at site           6 =  4.79467436016560652E-002 Weight=   1.0000000000000000     
+ Moment at site           7 =  6.30180500204778893E-002 Weight=   1.0000000000000000     
+ Moment at site           8 =  6.30180500204778893E-002 Weight=   1.0000000000000000     
+ Total moment     M=  0.43017346492043257      mu_B
+ Helmholtz energy A= -0.30914330645567584      eV
+ Internal energy  U= -6.15262782566450815E-005 eV
+ Entropy          S=  1.08070552509587125E-003 eV/K
+ Temperature=   287.00000000000000      External field=   4.7000000000000002      Iterations=          79
+ Moment at site           1 =  0.12829729014224966      Weight=   0.0000000000000000     
+ Moment at site           2 =  3.20318874296652428E-002 Weight=   1.0000000000000000     
+ Moment at site           3 =  8.78715469049240888E-002 Weight=   1.0000000000000000     
+ Moment at site           4 =  8.78715469049240888E-002 Weight=   1.0000000000000000     
+ Moment at site           5 =  4.80535084804516247E-002 Weight=   1.0000000000000000     
+ Moment at site           6 =  4.80535084804516247E-002 Weight=   1.0000000000000000     
+ Moment at site           7 =  6.27515300830263772E-002 Weight=   1.0000000000000000     
+ Moment at site           8 =  6.27515300830263772E-002 Weight=   1.0000000000000000     
+ Total moment     M=  0.42938505836646945      mu_B
+ Helmholtz energy A= -0.31022405792735425      eV
+ Internal energy  U= -6.14030911007241678E-005 eV
+ Entropy          S=  1.08070611441203309E-003 eV/K
+ Temperature=   288.00000000000000      External field=   4.7000000000000002      Iterations=          78
+ Moment at site           1 =  0.12785207784622443      Weight=   0.0000000000000000     
+ Moment at site           2 =  3.22951755146368147E-002 Weight=   1.0000000000000000     
+ Moment at site           3 =  8.75072413387635306E-002 Weight=   1.0000000000000000     
+ Moment at site           4 =  8.75072413387635306E-002 Weight=   1.0000000000000000     
+ Moment at site           5 =  4.81529392859521357E-002 Weight=   1.0000000000000000     
+ Moment at site           6 =  4.81529392859521357E-002 Weight=   1.0000000000000000     
+ Moment at site           7 =  6.24927012461225437E-002 Weight=   1.0000000000000000     
+ Moment at site           8 =  6.24927012461225437E-002 Weight=   1.0000000000000000     
+ Total moment     M=  0.42860093925631326      mu_B
+ Helmholtz energy A= -0.31130481141320360      eV
+ Internal energy  U= -6.12839312404784501E-005 eV
+ Entropy          S=  1.08070669264570540E-003 eV/K
+ Temperature=   289.00000000000000      External field=   4.7000000000000002      Iterations=          77
+ Moment at site           1 =  0.12740994387520743      Weight=   0.0000000000000000     
+ Moment at site           2 =  3.25511055875861086E-002 Weight=   1.0000000000000000     
+ Moment at site           3 =  8.71483596501970159E-002 Weight=   1.0000000000000000     
+ Moment at site           4 =  8.71483596501970159E-002 Weight=   1.0000000000000000     
+ Moment at site           5 =  4.82454566270770491E-002 Weight=   1.0000000000000000     
+ Moment at site           6 =  4.82454566270770491E-002 Weight=   1.0000000000000000     
+ Moment at site           7 =  6.22411450164036123E-002 Weight=   1.0000000000000000     
+ Moment at site           8 =  6.22411450164036123E-002 Weight=   1.0000000000000000     
+ Total moment     M=  0.42782102817494139      mu_B
+ Helmholtz energy A= -0.31238556680196133      eV
+ Internal energy  U= -6.11685762033801426E-005 eV
+ Entropy          S=  1.08070726029674030E-003 eV/K
+ Temperature=   290.00000000000000      External field=   4.7000000000000002      Iterations=          75
+ Moment at site           1 =  0.12697085642182415      Weight=   0.0000000000000000     
+ Moment at site           2 =  3.27999265328067988E-002 Weight=   1.0000000000000000     
+ Moment at site           3 =  8.67947375355851564E-002 Weight=   1.0000000000000000     
+ Moment at site           4 =  8.67947375355851564E-002 Weight=   1.0000000000000000     
+ Moment at site           5 =  4.83314510621805360E-002 Weight=   1.0000000000000000     
+ Moment at site           6 =  4.83314510621805360E-002 Weight=   1.0000000000000000     
+ Moment at site           7 =  6.19964727550144923E-002 Weight=   1.0000000000000000     
+ Moment at site           8 =  6.19964727550144923E-002 Weight=   1.0000000000000000     
+ Total moment     M=  0.42704524923836717      mu_B
+ Helmholtz energy A= -0.31346632399048202      eV
+ Internal energy  U= -6.10568197475381533E-005 eV
+ Entropy          S=  1.08070781783011893E-003 eV/K
+ Temperature=   291.00000000000000      External field=   4.7000000000000002      Iterations=          74
+ Moment at site           1 =  0.12653478411538188      Weight=   0.0000000000000000     
+ Moment at site           2 =  3.30418753724550165E-002 Weight=   1.0000000000000000     
+ Moment at site           3 =  8.64462184382809307E-002 Weight=   1.0000000000000000     
+ Moment at site           4 =  8.64462184382809307E-002 Weight=   1.0000000000000000     
+ Moment at site           5 =  4.84112859465107848E-002 Weight=   1.0000000000000000     
+ Moment at site           6 =  4.84112859465107848E-002 Weight=   1.0000000000000000     
+ Moment at site           7 =  6.17583228455403643E-002 Weight=   1.0000000000000000     
+ Moment at site           8 =  6.17583228455403643E-002 Weight=   1.0000000000000000     
+ Total moment     M=  0.42627352983311917      mu_B
+ Helmholtz energy A= -0.31454708288296424      eV
+ Internal energy  U= -6.09484703146241327E-005 eV
+ Entropy          S=  1.08070836567920837E-003 eV/K
+ Temperature=   292.00000000000000      External field=   4.7000000000000002      Iterations=          73
+ Moment at site           1 =  0.12610169601417809      Weight=   0.0000000000000000     
+ Moment at site           2 =  3.32771779338634915E-002 Weight=   1.0000000000000000     
+ Moment at site           3 =  8.61026531109919113E-002 Weight=   1.0000000000000000     
+ Moment at site           4 =  8.61026531109919113E-002 Weight=   1.0000000000000000     
+ Moment at site           5 =  4.84852992727089552E-002 Weight=   1.0000000000000000     
+ Moment at site           6 =  4.84852992727089552E-002 Weight=   1.0000000000000000     
+ Moment at site           7 =  6.15263588635224720E-002 Weight=   1.0000000000000000     
+ Moment at site           8 =  6.15263588635224720E-002 Weight=   1.0000000000000000     
+ Total moment     M=  0.42550580042831015      mu_B
+ Helmholtz energy A= -0.31562784339033129      eV
+ Internal energy  U= -6.08433497936789532E-005 eV
+ Entropy          S=  1.08070890424841670E-003 eV/K
+ Temperature=   293.00000000000000      External field=   4.7000000000000002      Iterations=          72
+ Moment at site           1 =  0.12567156159844828      Weight=   0.0000000000000000     
+ Moment at site           2 =  3.35060496487220652E-002 Weight=   1.0000000000000000     
+ Moment at site           3 =  8.57638990903590581E-002 Weight=   1.0000000000000000     
+ Moment at site           4 =  8.57638990903590581E-002 Weight=   1.0000000000000000     
+ Moment at site           5 =  4.85538061149071234E-002 Weight=   1.0000000000000000     
+ Moment at site           6 =  4.85538061149071234E-002 Weight=   1.0000000000000000     
+ Moment at site           7 =  6.13002671479008013E-002 Weight=   1.0000000000000000     
+ Moment at site           8 =  6.13002671479008013E-002 Weight=   1.0000000000000000     
+ Total moment     M=  0.42474199435505605      mu_B
+ Helmholtz energy A= -0.31670860542960511      eV
+ Internal energy  U= -6.07412922680852625E-005 eV
+ Entropy          S=  1.08070943391582602E-003 eV/K
+ Temperature=   294.00000000000000      External field=   4.7000000000000002      Iterations=          71
+ Moment at site           1 =  0.12524435076301188      Weight=   0.0000000000000000     
+ Moment at site           2 =  3.37286961930433060E-002 Weight=   1.0000000000000000     
+ Moment at site           3 =  8.54298202765235576E-002 Weight=   1.0000000000000000     
+ Moment at site           4 =  8.54298202765235576E-002 Weight=   1.0000000000000000     
+ Moment at site           5 =  4.86171004412054297E-002 Weight=   1.0000000000000000     
+ Moment at site           6 =  4.86171004412054297E-002 Weight=   1.0000000000000000     
+ Moment at site           7 =  6.10797549959105970E-002 Weight=   1.0000000000000000     
+ Moment at site           8 =  6.10797549959105970E-002 Weight=   1.0000000000000000     
+ Total moment     M=  0.42398204762032249      mu_B
+ Helmholtz energy A= -0.31778936892338228      eV
+ Internal energy  U= -6.06421429677405852E-005 eV
+ Entropy          S=  1.08070995503542358E-003 eV/K
+ Temperature=   295.00000000000000      External field=   4.7000000000000002      Iterations=          70
+ Moment at site           1 =  0.12482003381022011      Weight=   0.0000000000000000     
+ Moment at site           2 =  3.39453140908543352E-002 Weight=   1.0000000000000000     
+ Moment at site           3 =  8.51002865380665746E-002 Weight=   1.0000000000000000     
+ Moment at site           4 =  8.51002865380665746E-002 Weight=   1.0000000000000000     
+ Moment at site           5 =  4.86754568293388951E-002 Weight=   1.0000000000000000     
+ Moment at site           6 =  4.86754568293388951E-002 Weight=   1.0000000000000000     
+ Moment at site           7 =  6.08645489604798043E-002 Weight=   1.0000000000000000     
+ Moment at site           8 =  6.08645489604798043E-002 Weight=   1.0000000000000000     
+ Total moment     M=  0.42322589874662492      mu_B
+ Helmholtz energy A= -0.31887013379936024      eV
+ Internal energy  U= -6.05457573220948098E-005 eV
+ Entropy          S=  1.08071046793911251E-003 eV/K
+ Temperature=   296.00000000000000      External field=   4.7000000000000002      Iterations=          69
+ Moment at site           1 =  0.12439858144331239      Weight=   0.0000000000000000     
+ Moment at site           2 =  3.41560912703158318E-002 Weight=   1.0000000000000000     
+ Moment at site           3 =  8.47751733462681206E-002 Weight=   1.0000000000000000     
+ Moment at site           4 =  8.47751733462681206E-002 Weight=   1.0000000000000000     
+ Moment at site           5 =  4.87291320172227940E-002 Weight=   1.0000000000000000     
+ Moment at site           6 =  4.87291320172227940E-002 Weight=   1.0000000000000000     
+ Moment at site           7 =  6.06543933065756755E-002 Weight=   1.0000000000000000     
+ Moment at site           8 =  6.06543933065756755E-002 Weight=   1.0000000000000000     
+ Total moment     M=  0.42247348861044903      mu_B
+ Helmholtz energy A= -0.31995089998990950      eV
+ Internal energy  U= -6.04520001049970690E-005 eV
+ Entropy          S=  1.08071097293852871E-003 eV/K
+ Temperature=   297.00000000000000      External field=   4.7000000000000002      Iterations=          68
+ Moment at site           1 =  0.12397996475952411      Weight=   0.0000000000000000     
+ Moment at site           2 =  3.43612075764032632E-002 Weight=   1.0000000000000000     
+ Moment at site           3 =  8.44543614403037574E-002 Weight=   1.0000000000000000     
+ Moment at site           4 =  8.44543614403037574E-002 Weight=   1.0000000000000000     
+ Moment at site           5 =  4.87783663084545294E-002 Weight=   1.0000000000000000     
+ Moment at site           6 =  4.87783663084545294E-002 Weight=   1.0000000000000000     
+ Moment at site           7 =  6.04490486156659054E-002 Weight=   1.0000000000000000     
+ Moment at site           8 =  6.04490486156659054E-002 Weight=   1.0000000000000000     
+ Total moment     M=  0.42172476030525163      mu_B
+ Helmholtz energy A= -0.32103166743169209      eV
+ Internal energy  U= -6.03607446704318022E-005 eV
+ Entropy          S=  1.08071147032667218E-003 eV/K
+ Temperature=   298.00000000000000      External field=   4.7000000000000002      Iterations=          67
+ Moment at site           1 =  0.12356415524344300      Weight=   0.0000000000000000     
+ Moment at site           2 =  3.45608352425272880E-002 Weight=   1.0000000000000000     
+ Moment at site           3 =  8.41377365171614156E-002 Weight=   1.0000000000000000     
+ Moment at site           4 =  8.41377365171614156E-002 Weight=   1.0000000000000000     
+ Moment at site           5 =  4.88233848475614005E-002 Weight=   1.0000000000000000     
+ Moment at site           6 =  4.88233848475614005E-002 Weight=   1.0000000000000000     
+ Moment at site           7 =  6.02482905160047141E-002 Weight=   1.0000000000000000     
+ Moment at site           8 =  6.02482905160047141E-002 Weight=   1.0000000000000000     
+ Total moment     M=  0.42097965900398232      mu_B
+ Helmholtz energy A= -0.32211243606531414      eV
+ Internal energy  U= -6.02718722597252770E-005 eV
+ Entropy          S=  1.08071196037937719E-003 eV/K
+ Temperature=   299.00000000000000      External field=   4.7000000000000002      Iterations=          66
+ Moment at site           1 =  0.12315112476064982      Weight=   0.0000000000000000     
+ Moment at site           2 =  3.47551393279453558E-002 Weight=   1.0000000000000000     
+ Moment at site           3 =  8.38251889463828420E-002 Weight=   1.0000000000000000     
+ Moment at site           4 =  8.38251889463828420E-002 Weight=   1.0000000000000000     
+ Moment at site           5 =  4.88643987798211901E-002 Weight=   1.0000000000000000     
+ Moment at site           6 =  4.88643987798211901E-002 Weight=   1.0000000000000000     
+ Moment at site           7 =  6.00519085327485685E-002 Weight=   1.0000000000000000     
+ Moment at site           8 =  6.00519085327485685E-002 Weight=   1.0000000000000000     
+ Total moment     M=  0.42023813184585052      mu_B
+ Helmholtz energy A= -0.32319320583501654      eV
+ Internal energy  U= -6.01852713811502118E-005 eV
+ Entropy          S=  1.08071244335663998E-003 eV/K
+ Temperature=   300.00000000000000      External field=   4.7000000000000002      Iterations=          65
+ Moment at site           1 =  0.12274084555127018      Weight=   0.0000000000000000     
+ Moment at site           2 =  3.49442781217828777E-002 Weight=   1.0000000000000000     
+ Moment at site           3 =  8.35166135057025250E-002 Weight=   1.0000000000000000     
+ Moment at site           4 =  8.35166135057025250E-002 Weight=   1.0000000000000000     
+ Moment at site           5 =  4.89016063055039904E-002 Weight=   1.0000000000000000     
+ Moment at site           6 =  4.89016063055039904E-002 Weight=   1.0000000000000000     
+ Moment at site           7 =  5.98597050375595657E-002 Weight=   1.0000000000000000     
+ Moment at site           8 =  5.98597050375595657E-002 Weight=   1.0000000000000000     
+ Total moment     M=  0.41950012781931501      mu_B
+ Helmholtz energy A= -0.32427397668839109      eV
+ Internal energy  U= -6.01008372442826284E-005 eV
+ Entropy          S=  1.08071291950382286E-003 eV/K
+ Temperature=   301.00000000000000      External field=   4.7000000000000002      Iterations=          64
+ Moment at site           1 =  0.12233329022391715      Weight=   0.0000000000000000     
+ Moment at site           2 =  3.51284035166989708E-002 Weight=   1.0000000000000000     
+ Moment at site           3 =  8.32119091358891616E-002 Weight=   1.0000000000000000     
+ Moment at site           4 =  8.32119091358891616E-002 Weight=   1.0000000000000000     
+ Moment at site           5 =  4.89351936421684661E-002 Weight=   1.0000000000000000     
+ Moment at site           6 =  4.89351936421684661E-002 Weight=   1.0000000000000000     
+ Moment at site           7 =  5.96714942946469026E-002 Weight=   1.0000000000000000     
+ Moment at site           8 =  5.96714942946469026E-002 Weight=   1.0000000000000000     
+ Total moment     M=  0.41876559766210802      mu_B
+ Helmholtz energy A= -0.32535474857612717      eV
+ Internal energy  U= -6.00184712514233349E-005 eV
+ Entropy          S=  1.08071338905274344E-003 eV/K
+ Temperature=   302.00000000000000      External field=   4.7000000000000002      Iterations=          63
+ Moment at site           1 =  0.12192843174950951      Weight=   0.0000000000000000     
+ Moment at site           2 =  3.53076613581515333E-002 Weight=   1.0000000000000000     
+ Moment at site           3 =  8.29109787135387521E-002 Weight=   1.0000000000000000     
+ Moment at site           4 =  8.29109787135387521E-002 Weight=   1.0000000000000000     
+ Moment at site           5 =  4.89653359010023478E-002 Weight=   1.0000000000000000     
+ Moment at site           6 =  4.89653359010023478E-002 Weight=   1.0000000000000000     
+ Moment at site           7 =  5.94871015875485937E-002 Weight=   1.0000000000000000     
+ Moment at site           8 =  5.94871015875485937E-002 Weight=   1.0000000000000000     
+ Total moment     M=  0.41803449376233093      mu_B
+ Helmholtz energy A= -0.32643552145177823      eV
+ Internal energy  U= -5.99380805324368265E-005 eV
+ Entropy          S=  1.08071385222266816E-003 eV/K
+ Temperature=   303.00000000000000      External field=   4.7000000000000002      Iterations=          62
+ Moment at site           1 =  0.12152624345524998      Weight=   0.0000000000000000     
+ Moment at site           2 =  3.54821917668831227E-002 Weight=   1.0000000000000000     
+ Moment at site           3 =  8.26137288403684528E-002 Weight=   1.0000000000000000     
+ Moment at site           4 =  8.26137288403684528E-002 Weight=   1.0000000000000000     
+ Moment at site           5 =  4.89921978913688064E-002 Weight=   1.0000000000000000     
+ Moment at site           6 =  4.89921978913688064E-002 Weight=   1.0000000000000000     
+ Moment at site           7 =  5.93063624230362740E-002 Weight=   1.0000000000000000     
+ Moment at site           8 =  5.93063624230362740E-002 Weight=   1.0000000000000000     
+ Total moment     M=  0.41730677007643019      mu_B
+ Helmholtz energy A= -0.32751629527155313      eV
+ Internal energy  U= -5.98595775262163478E-005 eV
+ Entropy          S=  1.08071430922121090E-003 eV/K
+ Temperature=   304.00000000000000      External field=   4.7000000000000002      Iterations=          61
+ Moment at site           1 =  0.12112669901878093      Weight=   0.0000000000000000     
+ Moment at site           2 =  3.56521294394234467E-002 Weight=   1.0000000000000000     
+ Moment at site           3 =  8.23200696459881198E-002 Weight=   1.0000000000000000     
+ Moment at site           4 =  8.23200696459881198E-002 Weight=   1.0000000000000000     
+ Moment at site           5 =  4.90159348521399252E-002 Weight=   1.0000000000000000     
+ Moment at site           6 =  4.90159348521399252E-002 Weight=   1.0000000000000000     
+ Moment at site           7 =  5.91291218004548549E-002 Weight=   1.0000000000000000     
+ Moment at site           8 =  5.91291218004548549E-002 Weight=   1.0000000000000000     
+ Total moment     M=  0.41658238203658926      mu_B
+ Helmholtz energy A= -0.32859706999412203      eV
+ Internal energy  U= -5.97828795938210085E-005 eV
+ Entropy          S=  1.08071476024515847E-003 eV/K
+ Temperature=   305.00000000000000      External field=   4.7000000000000002      Iterations=          61
+ Moment at site           1 =  0.12072977246264216      Weight=   0.0000000000000000     
+ Moment at site           2 =  3.58176039493820902E-002 Weight=   1.0000000000000000     
+ Moment at site           3 =  8.20299145929239970E-002 Weight=   1.0000000000000000     
+ Moment at site           4 =  8.20299145929239970E-002 Weight=   1.0000000000000000     
+ Moment at site           5 =  4.90366932081290896E-002 Weight=   1.0000000000000000     
+ Moment at site           6 =  4.90366932081290896E-002 Weight=   1.0000000000000000     
+ Moment at site           7 =  5.89552334643173373E-002 Weight=   1.0000000000000000     
+ Moment at site           8 =  5.89552334643173373E-002 Weight=   1.0000000000000000     
+ Total moment     M=  0.41586128648012299      mu_B
+ Helmholtz energy A= -0.32967784558043778      eV
+ Internal energy  U= -5.97079086594275499E-005 eV
+ Entropy          S=  1.08071520548124042E-003 eV/K
+ Temperature=   306.00000000000000      External field=   4.7000000000000002      Iterations=          60
+ Moment at site           1 =  0.12033543814840897      Weight=   0.0000000000000000     
+ Moment at site           2 =  3.59787399307520336E-002 Weight=   1.0000000000000000     
+ Moment at site           3 =  8.17431803565589338E-002 Weight=   1.0000000000000000     
+ Moment at site           4 =  8.17431803565589338E-002 Weight=   1.0000000000000000     
+ Moment at site           5 =  4.90546108643799481E-002 Weight=   1.0000000000000000     
+ Moment at site           6 =  4.90546108643799481E-002 Weight=   1.0000000000000000     
+ Moment at site           7 =  5.87845596104720966E-002 Weight=   1.0000000000000000     
+ Moment at site           8 =  5.87845596104720966E-002 Weight=   1.0000000000000000     
+ Total moment     M=  0.41514344159357397      mu_B
+ Helmholtz energy A= -0.33075862199359962      eV
+ Internal energy  U= -5.96345909402910774E-005 eV
+ Entropy          S=  1.08071564510672986E-003 eV/K
+ Temperature=   307.00000000000000      External field=   4.7000000000000002      Iterations=          59
+ Moment at site           1 =  0.11994367077127421      Weight=   0.0000000000000000     
+ Moment at site           2 =  3.61356574380006790E-002 Weight=   1.0000000000000000     
+ Moment at site           3 =  8.14597865893822853E-002 Weight=   1.0000000000000000     
+ Moment at site           4 =  8.14597865893822853E-002 Weight=   1.0000000000000000     
+ Moment at site           5 =  4.90698182493527965E-002 Weight=   1.0000000000000000     
+ Moment at site           6 =  4.90698182493527965E-002 Weight=   1.0000000000000000     
+ Moment at site           7 =  5.86169698477485915E-002 Weight=   1.0000000000000000     
+ Moment at site           8 =  5.86169698477485915E-002 Weight=   1.0000000000000000     
+ Total moment     M=  0.41442880681096805      mu_B
+ Helmholtz energy A= -0.33183939919866884      eV
+ Internal energy  U= -5.95628565766620615E-005 eV
+ Entropy          S=  1.08071607929020245E-003 eV/K
+ Temperature=   308.00000000000000      External field=   4.7000000000000002      Iterations=          58
+ Moment at site           1 =  0.11955444535461268      Weight=   0.0000000000000000     
+ Moment at site           2 =  3.62884720986865195E-002 Weight=   1.0000000000000000     
+ Moment at site           3 =  8.11796558233585375E-002 Weight=   1.0000000000000000     
+ Moment at site           4 =  8.11796558233585375E-002 Weight=   1.0000000000000000     
+ Moment at site           5 =  4.90824385233829749E-002 Weight=   1.0000000000000000     
+ Moment at site           6 =  4.90824385233829749E-002 Weight=   1.0000000000000000     
+ Moment at site           7 =  5.84523409955502449E-002 Weight=   1.0000000000000000     
+ Moment at site           8 =  5.84523409955502449E-002 Weight=   1.0000000000000000     
+ Total moment     M=  0.41371734278327005      mu_B
+ Helmholtz energy A= -0.33292017716256250      eV
+ Internal energy  U= -5.94926394182792624E-005 eV
+ Entropy          S=  1.08071650819202667E-003 eV/K
+ Temperature=   309.00000000000000      External field=   4.7000000000000002      Iterations=          58
+ Moment at site           1 =  0.11916773724479413      Weight=   0.0000000000000000     
+ Moment at site           2 =  3.64372953668142263E-002 Weight=   1.0000000000000000     
+ Moment at site           3 =  8.09027133031022805E-002 Weight=   1.0000000000000000     
+ Moment at site           4 =  8.09027133031022805E-002 Weight=   1.0000000000000000     
+ Moment at site           5 =  4.90925882157367266E-002 Weight=   1.0000000000000000     
+ Moment at site           6 =  4.90925882157367266E-002 Weight=   1.0000000000000000     
+ Moment at site           7 =  5.82905564467140827E-002 Weight=   1.0000000000000000     
+ Moment at site           8 =  5.82905564467140827E-002 Weight=   1.0000000000000000     
+ Total moment     M=  0.41300901129792045      mu_B
+ Helmholtz energy A= -0.33400095585391459      eV
+ Internal energy  U= -5.94238767490467120E-005 eV
+ Entropy          S=  1.08071693196493709E-003 eV/K
+ Temperature=   310.00000000000000      External field=   4.7000000000000002      Iterations=          57
+ Moment at site           1 =  0.11878352210580090      Weight=   0.0000000000000000     
+ Moment at site           2 =  3.65822346456261063E-002 Weight=   1.0000000000000000     
+ Moment at site           3 =  8.06288869081980275E-002 Weight=   1.0000000000000000     
+ Moment at site           4 =  8.06288869081980275E-002 Weight=   1.0000000000000000     
+ Moment at site           5 =  4.91003773477402816E-002 Weight=   1.0000000000000000     
+ Moment at site           6 =  4.91003773477402816E-002 Weight=   1.0000000000000000     
+ Moment at site           7 =  5.81315060489662749E-002 Weight=   1.0000000000000000     
+ Moment at site           8 =  5.81315060489662749E-002 Weight=   1.0000000000000000     
+ Total moment     M=  0.41230377525543527      mu_B
+ Helmholtz energy A= -0.33508173524299034      eV
+ Internal energy  U= -5.93565091143774046E-005 eV
+ Entropy          S=  1.08071735075443843E-003 eV/K
+ Temperature=   311.00000000000000      External field=   4.7000000000000002      Iterations=          56
+ Moment at site           1 =  0.11840177591423640      Weight=   0.0000000000000000     
+ Moment at site           2 =  3.67233935912190876E-002 Weight=   1.0000000000000000     
+ Moment at site           3 =  8.03581069537631365E-002 Weight=   1.0000000000000000     
+ Moment at site           4 =  8.03581069537631365E-002 Weight=   1.0000000000000000     
+ Moment at site           5 =  4.91059103133466360E-002 Weight=   1.0000000000000000     
+ Moment at site           6 =  4.91059103133466360E-002 Weight=   1.0000000000000000     
+ Moment at site           7 =  5.79750852283597573E-002 Weight=   1.0000000000000000     
+ Moment at site           8 =  5.79750852283597573E-002 Weight=   1.0000000000000000     
+ Total moment     M=  0.41160159858215817      mu_B
+ Helmholtz energy A= -0.33616251530154467      eV
+ Internal energy  U= -5.92904800384394016E-005 eV
+ Entropy          S=  1.08071776469937709E-003 eV/K
+ Temperature=   312.00000000000000      External field=   4.7000000000000002      Iterations=          56
+ Moment at site           1 =  0.11802247495429796      Weight=   0.0000000000000000     
+ Moment at site           2 =  3.68608722333876593E-002 Weight=   1.0000000000000000     
+ Moment at site           3 =  8.00903061119773718E-002 Weight=   1.0000000000000000     
+ Moment at site           4 =  8.00903061119773718E-002 Weight=   1.0000000000000000     
+ Moment at site           5 =  4.91092860260382985E-002 Weight=   1.0000000000000000     
+ Moment at site           6 =  4.91092860260382985E-002 Weight=   1.0000000000000000     
+ Moment at site           7 =  5.78211948435365455E-002 Weight=   1.0000000000000000     
+ Moment at site           8 =  5.78211948435365455E-002 Weight=   1.0000000000000000     
+ Total moment     M=  0.41090244619649208      mu_B
+ Helmholtz energy A= -0.33724329600274450      eV
+ Internal energy  U= -5.92257358678784486E-005 eV
+ Entropy          S=  1.08071817393229678E-003 eV/K
+ Temperature=   313.00000000000000      External field=   4.7000000000000002      Iterations=          55
+ Moment at site           1 =  0.11764559581296297      Weight=   0.0000000000000000     
+ Moment at site           2 =  3.69947670850163460E-002 Weight=   1.0000000000000000     
+ Moment at site           3 =  7.98254193428929726E-002 Weight=   1.0000000000000000     
+ Moment at site           4 =  7.98254193428929726E-002 Weight=   1.0000000000000000     
+ Moment at site           5 =  4.91105980270738762E-002 Weight=   1.0000000000000000     
+ Moment at site           6 =  4.91105980270738762E-002 Weight=   1.0000000000000000     
+ Moment at site           7 =  5.76697410802533630E-002 Weight=   1.0000000000000000     
+ Moment at site           8 =  5.76697410802533630E-002 Weight=   1.0000000000000000     
+ Total moment     M=  0.41020628398545678      mu_B
+ Helmholtz energy A= -0.33832407732109815      eV
+ Internal energy  U= -5.91622256329410695E-005 eV
+ Entropy          S=  1.08071857857976097E-003 eV/K
+ Temperature=   314.00000000000000      External field=   4.7000000000000002      Iterations=          54
+ Moment at site           1 =  0.11727111537490842      Weight=   0.0000000000000000     
+ Moment at site           2 =  3.71251714112542097E-002 Weight=   1.0000000000000000     
+ Moment at site           3 =  7.95633837176270009E-002 Weight=   1.0000000000000000     
+ Moment at site           4 =  7.95633837176270009E-002 Weight=   1.0000000000000000     
+ Moment at site           5 =  4.91099352741538042E-002 Weight=   1.0000000000000000     
+ Moment at site           6 =  4.91099352741538042E-002 Weight=   1.0000000000000000     
+ Moment at site           7 =  5.75206346672843608E-002 Weight=   1.0000000000000000     
+ Moment at site           8 =  5.75206346672843608E-002 Weight=   1.0000000000000000     
+ Total moment     M=  0.40951307872938453      mu_B
+ Helmholtz energy A= -0.33940485923233960      eV
+ Internal energy  U= -5.90999008135148301E-005 eV
+ Entropy          S=  1.08071897876282214E-003 eV/K
+ Temperature=   315.00000000000000      External field=   4.7000000000000002      Iterations=          54
+ Moment at site           1 =  0.11689901081821219      Weight=   0.0000000000000000     
+ Moment at site           2 =  3.72521753227866917E-002 Weight=   1.0000000000000000     
+ Moment at site           3 =  7.93041383574407260E-002 Weight=   1.0000000000000000     
+ Moment at site           4 =  7.93041383574407260E-002 Weight=   1.0000000000000000     
+ Moment at site           5 =  4.91073822164542276E-002 Weight=   1.0000000000000000     
+ Moment at site           6 =  4.91073822164542276E-002 Weight=   1.0000000000000000     
+ Moment at site           7 =  5.73737908001247174E-002 Weight=   1.0000000000000000     
+ Moment at site           8 =  5.73737908001247174E-002 Weight=   1.0000000000000000     
+ Total moment     M=  0.40882279807082605      mu_B
+ Helmholtz energy A= -0.34048564171336831      eV
+ Internal energy  U= -5.90387152200784064E-005 eV
+ Entropy          S=  1.08071937459729606E-003 eV/K
+ Temperature=   316.00000000000000      External field=   4.7000000000000002      Iterations=          53
+ Moment at site           1 =  0.11652925960925486      Weight=   0.0000000000000000     
+ Moment at site           2 =  3.73758658562877363E-002 Weight=   1.0000000000000000     
+ Moment at site           3 =  7.90476243841629483E-002 Weight=   1.0000000000000000     
+ Moment at site           4 =  7.90476243841629483E-002 Weight=   1.0000000000000000     
+ Moment at site           5 =  4.91030188245248911E-002 Weight=   1.0000000000000000     
+ Moment at site           6 =  4.91030188245248911E-002 Weight=   1.0000000000000000     
+ Moment at site           7 =  5.72291291157831228E-002 Weight=   1.0000000000000000     
+ Moment at site           8 =  5.72291291157831228E-002 Weight=   1.0000000000000000     
+ Total moment     M=  0.40813541050522972      mu_B
+ Helmholtz energy A= -0.34156642474219889      eV
+ Internal energy  U= -5.89786248931966804E-005 eV
+ Entropy          S=  1.08071976619400533E-003 eV/K
+ Temperature=   317.00000000000000      External field=   4.7000000000000002      Iterations=          53
+ Moment at site           1 =  0.11616183949856307      Weight=   0.0000000000000000     
+ Moment at site           2 =  3.74963272396335104E-002 Weight=   1.0000000000000000     
+ Moment at site           3 =  7.87937847452801210E-002 Weight=   1.0000000000000000     
+ Moment at site           4 =  7.87937847452801210E-002 Weight=   1.0000000000000000     
+ Moment at site           5 =  4.90969214006301558E-002 Weight=   1.0000000000000000     
+ Moment at site           6 =  4.90969214006301558E-002 Weight=   1.0000000000000000     
+ Moment at site           7 =  5.70865728850442691E-002 Weight=   1.0000000000000000     
+ Moment at site           8 =  5.70865728850442691E-002 Weight=   1.0000000000000000     
+ Total moment     M=  0.40745088530154261      mu_B
+ Helmholtz energy A= -0.34264720829785528      eV
+ Internal energy  U= -5.89195878914169674E-005 eV
+ Entropy          S=  1.08072015365919200E-003 eV/K
+ Temperature=   318.00000000000000      External field=   4.7000000000000002      Iterations=          52
+ Moment at site           1 =  0.11579672851611988      Weight=   0.0000000000000000     
+ Moment at site           2 =  3.76136408656709345E-002 Weight=   1.0000000000000000     
+ Moment at site           3 =  7.85425642327194640E-002 Weight=   1.0000000000000000     
+ Moment at site           4 =  7.85425642327194640E-002 Weight=   1.0000000000000000     
+ Moment at site           5 =  4.90891621968911618E-002 Weight=   1.0000000000000000     
+ Moment at site           6 =  4.90891621968911618E-002 Weight=   1.0000000000000000     
+ Moment at site           7 =  5.69460493931612383E-002 Weight=   1.0000000000000000     
+ Moment at site           8 =  5.69460493931612383E-002 Weight=   1.0000000000000000     
+ Total moment     M=  0.40676919251121463      mu_B
+ Helmholtz energy A= -0.34372799236035534      eV
+ Internal energy  U= -5.88615642607409398E-005 eV
+ Entropy          S=  1.08072053709463707E-003 eV/K
+ Temperature=   319.00000000000000      External field=   4.7000000000000002      Iterations=          51
+ Moment at site           1 =  0.11543390496704831      Weight=   0.0000000000000000     
+ Moment at site           2 =  3.77278855380344669E-002 Weight=   1.0000000000000000     
+ Moment at site           3 =  7.82939093221699939E-002 Weight=   1.0000000000000000     
+ Moment at site           4 =  7.82939093221699939E-002 Weight=   1.0000000000000000     
+ Moment at site           5 =  4.90798101669851425E-002 Weight=   1.0000000000000000     
+ Moment at site           6 =  4.90798101669851425E-002 Weight=   1.0000000000000000     
+ Moment at site           7 =  5.68074891924531394E-002 Weight=   1.0000000000000000     
+ Moment at site           8 =  5.68074891924531394E-002 Weight=   1.0000000000000000     
+ Total moment     M=  0.40609030290125103      mu_B
+ Helmholtz energy A= -0.34480877691061684      eV
+ Internal energy  U= -5.88045158466655283E-005 eV
+ Entropy          S=  1.08072091659802564E-003 eV/K
+ Temperature=   320.00000000000000      External field=   4.7000000000000002      Iterations=          51
+ Moment at site           1 =  0.11507334742733022      Weight=   0.0000000000000000     
+ Moment at site           2 =  3.78391375315725725E-002 Weight=   1.0000000000000000     
+ Moment at site           3 =  7.80477681343054591E-002 Weight=   1.0000000000000000     
+ Moment at site           4 =  7.80477681343054591E-002 Weight=   1.0000000000000000     
+ Moment at site           5 =  4.90689309644147115E-002 Weight=   1.0000000000000000     
+ Moment at site           6 =  4.90689309644147115E-002 Weight=   1.0000000000000000     
+ Moment at site           7 =  5.66708261060604526E-002 Weight=   1.0000000000000000     
+ Moment at site           8 =  5.66708261060604526E-002 Weight=   1.0000000000000000     
+ Total moment     M=  0.40541418794113382      mu_B
+ Helmholtz energy A= -0.34588956193042192      eV
+ Internal energy  U= -5.87484062220132084E-005 eV
+ Entropy          S=  1.08072129226312471E-003 eV/K
+ Temperature=   321.00000000000000      External field=   4.7000000000000002      Iterations=          50
+ Moment at site           1 =  0.11471503473961420      Weight=   0.0000000000000000     
+ Moment at site           2 =  3.79474706346805205E-002 Weight=   1.0000000000000000     
+ Moment at site           3 =  7.78040904090304131E-002 Weight=   1.0000000000000000     
+ Moment at site           4 =  7.78040904090304131E-002 Weight=   1.0000000000000000     
+ Moment at site           5 =  4.90565868699751953E-002 Weight=   1.0000000000000000     
+ Moment at site           6 =  4.90565868699751953E-002 Weight=   1.0000000000000000     
+ Moment at site           7 =  5.65359972996621260E-002 Weight=   1.0000000000000000     
+ Moment at site           8 =  5.65359972996621260E-002 Weight=   1.0000000000000000     
+ Total moment     M=  0.40474081979201598      mu_B
+ Helmholtz energy A= -0.34697034740238514      eV
+ Internal energy  U= -5.86932006257820960E-005 eV
+ Entropy          S=  1.08072166417993564E-003 eV/K
+ Temperature=   322.00000000000000      External field=   4.7000000000000002      Iterations=          50
+ Moment at site           1 =  0.11435894600909435      Weight=   0.0000000000000000     
+ Moment at site           2 =  3.80529563866407183E-002 Weight=   1.0000000000000000     
+ Moment at site           3 =  7.75628273481685920E-002 Weight=   1.0000000000000000     
+ Moment at site           4 =  7.75628273481685920E-002 Weight=   1.0000000000000000     
+ Moment at site           5 =  4.90428375464699723E-002 Weight=   1.0000000000000000     
+ Moment at site           6 =  4.90428375464699723E-002 Weight=   1.0000000000000000     
+ Moment at site           7 =  5.64029425307892920E-002 Weight=   1.0000000000000000     
+ Moment at site           8 =  5.64029425307892920E-002 Weight=   1.0000000000000000     
+ Total moment     M=  0.40407017123749650      mu_B
+ Helmholtz energy A= -0.34805113330986959      eV
+ Internal energy  U= -5.86388657921381679E-005 eV
+ Entropy          S=  1.08072203243502309E-003 eV/K
+ Temperature=   323.00000000000000      External field=   4.7000000000000002      Iterations=          49
+ Moment at site           1 =  0.11400506059933591      Weight=   0.0000000000000000     
+ Moment at site           2 =  3.81556640160970462E-002 Weight=   1.0000000000000000     
+ Moment at site           3 =  7.73239316592066461E-002 Weight=   1.0000000000000000     
+ Moment at site           4 =  7.73239316592066461E-002 Weight=   1.0000000000000000     
+ Moment at site           5 =  4.90277395561341742E-002 Weight=   1.0000000000000000     
+ Moment at site           6 =  4.90277395561341742E-002 Weight=   1.0000000000000000     
+ Moment at site           7 =  5.62716046305407613E-002 Weight=   1.0000000000000000     
+ Moment at site           8 =  5.62716046305407613E-002 Weight=   1.0000000000000000     
+ Total moment     M=  0.40340221570786022      mu_B
+ Helmholtz energy A= -0.34913191963698936      eV
+ Internal energy  U= -5.85853699578742270E-005 eV
+ Entropy          S=  1.08072239711155273E-003 eV/K
+ Temperature=   324.00000000000000      External field=   4.7000000000000002      Iterations=          49
+ Moment at site           1 =  0.11365335812847377      Weight=   0.0000000000000000     
+ Moment at site           2 =  3.82556606867401200E-002 Weight=   1.0000000000000000     
+ Moment at site           3 =  7.70873573930151434E-002 Weight=   1.0000000000000000     
+ Moment at site           4 =  7.70873573930151434E-002 Weight=   1.0000000000000000     
+ Moment at site           5 =  4.90113471628826555E-002 Weight=   1.0000000000000000     
+ Moment at site           6 =  4.90113471628826555E-002 Weight=   1.0000000000000000     
+ Moment at site           7 =  5.61419287059716568E-002 Weight=   1.0000000000000000     
+ Moment at site           8 =  5.61419287059716568E-002 Weight=   1.0000000000000000     
+ Total moment     M=  0.40273692721047910      mu_B
+ Helmholtz energy A= -0.35021270636852647      eV
+ Internal energy  U= -5.85326826948959911E-005 eV
+ Entropy          S=  1.08072275828960352E-003 eV/K
+ Temperature=   325.00000000000000      External field=   4.7000000000000002      Iterations=          48
+ Moment at site           1 =  0.11330381846505588      Weight=   0.0000000000000000     
+ Moment at site           2 =  3.83530114264617888E-002 Weight=   1.0000000000000000     
+ Moment at site           3 =  7.68530599924885927E-002 Weight=   1.0000000000000000     
+ Moment at site           4 =  7.68530599924885927E-002 Weight=   1.0000000000000000     
+ Moment at site           5 =  4.89937118331975757E-002 Weight=   1.0000000000000000     
+ Moment at site           6 =  4.89937118331975757E-002 Weight=   1.0000000000000000     
+ Moment at site           7 =  5.60138626365043329E-002 Weight=   1.0000000000000000     
+ Moment at site           8 =  5.60138626365043329E-002 Weight=   1.0000000000000000     
+ Total moment     M=  0.40207428035084275      mu_B
+ Helmholtz energy A= -0.35129349348993766      eV
+ Internal energy  U= -5.84807749240785353E-005 eV
+ Entropy          S=  1.08072311604619545E-003 eV/K
+ Temperature=   326.00000000000000      External field=   4.7000000000000002      Iterations=          48
+ Moment at site           1 =  0.11295642172456155      Weight=   0.0000000000000000     
+ Moment at site           2 =  3.84477793635719378E-002 Weight=   1.0000000000000000     
+ Moment at site           3 =  7.66209961363030073E-002 Weight=   1.0000000000000000     
+ Moment at site           4 =  7.66209961363030073E-002 Weight=   1.0000000000000000     
+ Moment at site           5 =  4.89748830157280060E-002 Weight=   1.0000000000000000     
+ Moment at site           6 =  4.89748830157280060E-002 Weight=   1.0000000000000000     
+ Moment at site           7 =  5.58873562980102337E-002 Weight=   1.0000000000000000     
+ Moment at site           8 =  5.58873562980102337E-002 Weight=   1.0000000000000000     
+ Total moment     M=  0.40141425026365440      mu_B
+ Helmholtz energy A= -0.35237428098727608      eV
+ Internal energy  U= -5.84296187588873272E-005 eV
+ Entropy          S=  1.08072347045557425E-003 eV/K
+ Temperature=   327.00000000000000      External field=   4.7000000000000002      Iterations=          47
+ Moment at site           1 =  0.11261114826522700      Weight=   0.0000000000000000     
+ Moment at site           2 =  3.85400256486838483E-002 Weight=   1.0000000000000000     
+ Moment at site           3 =  7.63911237933675019E-002 Weight=   1.0000000000000000     
+ Moment at site           4 =  7.63911237933675019E-002 Weight=   1.0000000000000000     
+ Moment at site           5 =  4.89549076246576995E-002 Weight=   1.0000000000000000     
+ Moment at site           6 =  4.89549076246576995E-002 Weight=   1.0000000000000000     
+ Moment at site           7 =  5.57623620799893860E-002 Weight=   1.0000000000000000     
+ Moment at site           8 =  5.57623620799893860E-002 Weight=   1.0000000000000000     
+ Total moment     M=  0.40075681264471308      mu_B
+ Helmholtz energy A= -0.35345506884720318      eV
+ Internal energy  U= -5.83791875299748163E-005 eV
+ Entropy          S=  1.08072382158921486E-003 eV/K
+ Temperature=   328.00000000000000      External field=   4.7000000000000002      Iterations=          47
+ Moment at site           1 =  0.11226797868467031      Weight=   0.0000000000000000     
+ Moment at site           2 =  3.86298096839664956E-002 Weight=   1.0000000000000000     
+ Moment at site           3 =  7.61634020713553017E-002 Weight=   1.0000000000000000     
+ Moment at site           4 =  7.61634020713553017E-002 Weight=   1.0000000000000000     
+ Moment at site           5 =  4.89338308066789365E-002 Weight=   1.0000000000000000     
+ Moment at site           6 =  4.89338308066789365E-002 Weight=   1.0000000000000000     
+ Moment at site           7 =  5.56388341211110776E-002 Weight=   1.0000000000000000     
+ Moment at site           8 =  5.56388341211110776E-002 Weight=   1.0000000000000000     
+ Total moment     M=  0.40010194368225716      mu_B
+ Helmholtz energy A= -0.35453585705691615      eV
+ Internal energy  U= -5.83294556376278304E-005 eV
+ Entropy          S=  1.08072416951609292E-003 eV/K
+ Temperature=   329.00000000000000      External field=   4.7000000000000002      Iterations=          47
+ Moment at site           1 =  0.11192689381600118      Weight=   0.0000000000000000     
+ Moment at site           2 =  3.87171890534609847E-002 Weight=   1.0000000000000000     
+ Moment at site           3 =  7.59377912632392266E-002 Weight=   1.0000000000000000     
+ Moment at site           4 =  7.59377912632392266E-002 Weight=   1.0000000000000000     
+ Moment at site           5 =  4.89116954770931339E-002 Weight=   1.0000000000000000     
+ Moment at site           6 =  4.89116954770931339E-002 Weight=   1.0000000000000000     
+ Moment at site           7 =  5.55167287706540627E-002 Weight=   1.0000000000000000     
+ Moment at site           8 =  5.55167287706540627E-002 Weight=   1.0000000000000000     
+ Total moment     M=  0.39944962007543378      mu_B
+ Helmholtz energy A= -0.35561664560415585      eV
+ Internal energy  U= -5.82803985701181780E-005 eV
+ Entropy          S=  1.08072451430269215E-003 eV/K
+ Temperature=   330.00000000000000      External field=   4.7000000000000002      Iterations=          46
+ Moment at site           1 =  0.11158787472464127      Weight=   0.0000000000000000     
+ Moment at site           2 =  3.88022196545215123E-002 Weight=   1.0000000000000000     
+ Moment at site           3 =  7.57142527627561041E-002 Weight=   1.0000000000000000     
+ Moment at site           4 =  7.57142527627561041E-002 Weight=   1.0000000000000000     
+ Moment at site           5 =  4.88885426916224886E-002 Weight=   1.0000000000000000     
+ Moment at site           6 =  4.88885426916224886E-002 Weight=   1.0000000000000000     
+ Moment at site           7 =  5.53960042211051121E-002 Weight=   1.0000000000000000     
+ Moment at site           8 =  5.53960042211051121E-002 Weight=   1.0000000000000000     
+ Total moment     M=  0.39879981900548894      mu_B
+ Helmholtz energy A= -0.35669743447716407      eV
+ Internal energy  U= -5.82319928177582746E-005 eV
+ Entropy          S=  1.08072485601317064E-003 eV/K
+ Temperature=   331.00000000000000      External field=   4.7000000000000002      Iterations=          46
+ Moment at site           1 =  0.11125090270425630      Weight=   0.0000000000000000     
+ Moment at site           2 =  3.88849558089537084E-002 Weight=   1.0000000000000000     
+ Moment at site           3 =  7.54927489902092741E-002 Weight=   1.0000000000000000     
+ Moment at site           4 =  7.54927489902092741E-002 Weight=   1.0000000000000000     
+ Moment at site           5 =  4.88644119460246579E-002 Weight=   1.0000000000000000     
+ Moment at site           6 =  4.88644119460246579E-002 Weight=   1.0000000000000000     
+ Moment at site           7 =  5.52766202078387794E-002 Weight=   1.0000000000000000     
+ Moment at site           8 =  5.52766202078387794E-002 Weight=   1.0000000000000000     
+ Total moment     M=  0.39815251809709917      mu_B
+ Helmholtz energy A= -0.35777822366464523      eV
+ Internal energy  U= -5.81842157948153028E-005 eV
+ Entropy          S=  1.08072519470951787E-003 eV/K
+ Temperature=   332.00000000000000      External field=   4.7000000000000002      Iterations=          45
+ Moment at site           1 =  0.11091595927382514      Weight=   0.0000000000000000     
+ Moment at site           2 =  3.89654501982824517E-002 Weight=   1.0000000000000000     
+ Moment at site           3 =  7.52732434376384429E-002 Weight=   1.0000000000000000     
+ Moment at site           4 =  7.52732434376384429E-002 Weight=   1.0000000000000000     
+ Moment at site           5 =  4.88393407487188458E-002 Weight=   1.0000000000000000     
+ Moment at site           6 =  4.88393407487188458E-002 Weight=   1.0000000000000000     
+ Moment at site           7 =  5.51585384371984649E-002 Weight=   1.0000000000000000     
+ Moment at site           8 =  5.51585384371984649E-002 Weight=   1.0000000000000000     
+ Total moment     M=  0.39750769544539399      mu_B
+ Helmholtz energy A= -0.35885901315577645      eV
+ Internal energy  U= -5.81370458619308937E-005 eV
+ Entropy          S=  1.08072553045154970E-003 eV/K
+ Temperature=   333.00000000000000      External field=   4.7000000000000002      Iterations=          45
+ Moment at site           1 =  0.11058302617408700      Weight=   0.0000000000000000     
+ Moment at site           2 =  3.90437540680445908E-002 Weight=   1.0000000000000000     
+ Moment at site           3 =  7.50557005337739724E-002 Weight=   1.0000000000000000     
+ Moment at site           4 =  7.50557005337739724E-002 Weight=   1.0000000000000000     
+ Moment at site           5 =  4.88133653158498854E-002 Weight=   1.0000000000000000     
+ Moment at site           6 =  4.88133653158498854E-002 Weight=   1.0000000000000000     
+ Moment at site           7 =  5.50417218944606115E-002 Weight=   1.0000000000000000     
+ Moment at site           8 =  5.50417218944606115E-002 Weight=   1.0000000000000000     
+ Total moment     M=  0.39686532955621351      mu_B
+ Helmholtz energy A= -0.35993980294014755      eV
+ Internal energy  U= -5.80904622035357068E-005 eV
+ Entropy          S=  1.08072586329712914E-003 eV/K
+ Temperature=   334.00000000000000      External field=   4.7000000000000002      Iterations=          45
+ Moment at site           1 =  0.11025208536416642      Weight=   0.0000000000000000     
+ Moment at site           2 =  3.91199171506536741E-002 Weight=   1.0000000000000000     
+ Moment at site           3 =  7.48400856958354871E-002 Weight=   1.0000000000000000     
+ Moment at site           4 =  7.48400856958354871E-002 Weight=   1.0000000000000000     
+ Moment at site           5 =  4.87865201077830393E-002 Weight=   1.0000000000000000     
+ Moment at site           6 =  4.87865201077830393E-002 Weight=   1.0000000000000000     
+ Moment at site           7 =  5.49261353047232476E-002 Weight=   1.0000000000000000     
+ Moment at site           8 =  5.49261353047232476E-002 Weight=   1.0000000000000000     
+ Total moment     M=  0.39622539936733719      mu_B
+ Helmholtz energy A= -0.36102059300777328      eV
+ Internal energy  U= -5.80444448549932035E-005 eV
+ Entropy          S=  1.08072619330215050E-003 eV/K
+ Temperature=   335.00000000000000      External field=   4.7000000000000002      Iterations=          44
+ Moment at site           1 =  0.10992311901837581      Weight=   0.0000000000000000     
+ Moment at site           2 =  3.91939877792398944E-002 Weight=   1.0000000000000000     
+ Moment at site           3 =  7.46263652560374968E-002 Weight=   1.0000000000000000     
+ Moment at site           4 =  7.46263652560374968E-002 Weight=   1.0000000000000000     
+ Moment at site           5 =  4.87588381559297540E-002 Weight=   1.0000000000000000     
+ Moment at site           6 =  4.87588381559297540E-002 Weight=   1.0000000000000000     
+ Moment at site           7 =  5.48117448093056181E-002 Weight=   1.0000000000000000     
+ Moment at site           8 =  5.48117448093056181E-002 Weight=   1.0000000000000000     
+ Total moment     M=  0.39558788422178559      mu_B
+ Helmholtz energy A= -0.36210138334905917      eV
+ Internal energy  U= -5.79989746327523755E-005 eV
+ Entropy          S=  1.08072652052067599E-003 eV/K
+ Temperature=   336.00000000000000      External field=   4.7000000000000002      Iterations=          44
+ Moment at site           1 =  0.10959610952291143      Weight=   0.0000000000000000     
+ Moment at site           2 =  3.92660129844366601E-002 Weight=   1.0000000000000000     
+ Moment at site           3 =  7.44145063961155345E-002 Weight=   1.0000000000000000     
+ Moment at site           4 =  7.44145063961155345E-002 Weight=   1.0000000000000000     
+ Moment at site           5 =  4.87303513363248966E-002 Weight=   1.0000000000000000     
+ Moment at site           6 =  4.87303513363248966E-002 Weight=   1.0000000000000000     
+ Moment at site           7 =  5.46985176920672111E-002 Weight=   1.0000000000000000     
+ Moment at site           8 =  5.46985176920672111E-002 Weight=   1.0000000000000000     
+ Total moment     M=  0.39495276383345201      mu_B
+ Helmholtz energy A= -0.36318217395477026      eV
+ Internal energy  U= -5.79540330710901519E-005 eV
+ Entropy          S=  1.08072684500505720E-003 eV/K
+ Temperature=   337.00000000000000      External field=   4.7000000000000002      Iterations=          43
+ Moment at site           1 =  0.10927103947294015      Weight=   0.0000000000000000     
+ Moment at site           2 =  3.93360384207297881E-002 Weight=   1.0000000000000000     
+ Moment at site           3 =  7.42044771994273128E-002 Weight=   1.0000000000000000     
+ Moment at site           4 =  7.42044771994273128E-002 Weight=   1.0000000000000000     
+ Moment at site           5 =  4.87010899258036034E-002 Weight=   1.0000000000000000     
+ Moment at site           6 =  4.87010899258036034E-002 Weight=   1.0000000000000000     
+ Moment at site           7 =  5.45864228238540292E-002 Weight=   1.0000000000000000     
+ Moment at site           8 =  5.45864228238540292E-002 Weight=   1.0000000000000000     
+ Total moment     M=  0.39432001831889962      mu_B
+ Helmholtz energy A= -0.36426296481604536      eV
+ Internal energy  U= -5.79096024530762878E-005 eV
+ Entropy          S=  1.08072716680591161E-003 eV/K
+ Temperature=   338.00000000000000      External field=   4.7000000000000002      Iterations=          43
+ Moment at site           1 =  0.10894789166943752      Weight=   0.0000000000000000     
+ Moment at site           2 =  3.94041085567414309E-002 Weight=   1.0000000000000000     
+ Moment at site           3 =  7.39962465242069295E-002 Weight=   1.0000000000000000     
+ Moment at site           4 =  7.39962465242069295E-002 Weight=   1.0000000000000000     
+ Moment at site           5 =  4.86710832697516138E-002 Weight=   1.0000000000000000     
+ Moment at site           6 =  4.86710832697516138E-002 Weight=   1.0000000000000000     
+ Moment at site           7 =  5.44754299966286742E-002 Weight=   1.0000000000000000     
+ Moment at site           8 =  5.44754299966286742E-002 Weight=   1.0000000000000000     
+ Total moment     M=  0.39368962813791591      mu_B
+ Helmholtz energy A= -0.36534375592434415      eV
+ Internal energy  U= -5.78656657021745668E-005 eV
+ Entropy          S=  1.08072748597231347E-003 eV/K
+ Temperature=   339.00000000000000      External field=   4.7000000000000002      Iterations=          43
+ Moment at site           1 =  0.10862664911579500      Weight=   0.0000000000000000     
+ Moment at site           2 =  3.94702665876050518E-002 Weight=   1.0000000000000000     
+ Moment at site           3 =  7.37897840626934448E-002 Weight=   1.0000000000000000     
+ Moment at site           4 =  7.37897840626934448E-002 Weight=   1.0000000000000000     
+ Moment at site           5 =  4.86403592968100221E-002 Weight=   1.0000000000000000     
+ Moment at site           6 =  4.86403592968100221E-002 Weight=   1.0000000000000000     
+ Moment at site           7 =  5.43655104073721071E-002 Weight=   1.0000000000000000     
+ Moment at site           8 =  5.43655104073721071E-002 Weight=   1.0000000000000000     
+ Total moment     M=  0.39306157412135617      mu_B
+ Helmholtz energy A= -0.36642454727146412      eV
+ Internal energy  U= -5.78222064180950357E-005 eV
+ Entropy          S=  1.08072780255175842E-003 eV/K
+ Temperature=   340.00000000000000      External field=   4.7000000000000002      Iterations=          42
+ Moment at site           1 =  0.10830729501542180      Weight=   0.0000000000000000     
+ Moment at site           2 =  3.95345545367949136E-002 Weight=   1.0000000000000000     
+ Moment at site           3 =  7.35850602744562016E-002 Weight=   1.0000000000000000     
+ Moment at site           4 =  7.35850602744562016E-002 Weight=   1.0000000000000000     
+ Moment at site           5 =  4.86089448241935271E-002 Weight=   1.0000000000000000     
+ Moment at site           6 =  4.86089448241935271E-002 Weight=   1.0000000000000000     
+ Moment at site           7 =  5.42566363542299757E-002 Weight=   1.0000000000000000     
+ Moment at site           8 =  5.42566363542299757E-002 Weight=   1.0000000000000000     
+ Total moment     M=  0.39243583744255428      mu_B
+ Helmholtz energy A= -0.36750533884951098      eV
+ Internal energy  U= -5.77792088173059796E-005 eV
+ Entropy          S=  1.08072811659027561E-003 eV/K
+ Temperature=   341.00000000000000      External field=   4.7000000000000002      Iterations=          42
+ Moment at site           1 =  0.10798981276851194      Weight=   0.0000000000000000     
+ Moment at site           2 =  3.95970133473972086E-002 Weight=   1.0000000000000000     
+ Moment at site           3 =  7.33820463257455757E-002 Weight=   1.0000000000000000     
+ Moment at site           4 =  7.33820463257455757E-002 Weight=   1.0000000000000000     
+ Moment at site           5 =  4.85768658241365822E-002 Weight=   1.0000000000000000     
+ Moment at site           6 =  4.85768658241365822E-002 Weight=   1.0000000000000000     
+ Moment at site           7 =  5.41487809713720042E-002 Weight=   1.0000000000000000     
+ Moment at site           8 =  5.41487809713720042E-002 Weight=   1.0000000000000000     
+ Total moment     M=  0.39181239958990549      mu_B
+ Helmholtz energy A= -0.36858613065087303      eV
+ Internal energy  U= -5.77366576791562023E-005 eV
+ Entropy          S=  1.08072842813253353E-003 eV/K
+ Temperature=   342.00000000000000      External field=   4.7000000000000002      Iterations=          42
+ Moment at site           1 =  0.10767418596913103      Weight=   0.0000000000000000     
+ Moment at site           2 =  3.96576828113030175E-002 Weight=   1.0000000000000000     
+ Moment at site           3 =  7.31807141385530657E-002 Weight=   1.0000000000000000     
+ Moment at site           4 =  7.31807141385530657E-002 Weight=   1.0000000000000000     
+ Moment at site           5 =  4.85441470199953623E-002 Weight=   1.0000000000000000     
+ Moment at site           6 =  4.85441470199953623E-002 Weight=   1.0000000000000000     
+ Moment at site           7 =  5.40419186321767844E-002 Weight=   1.0000000000000000     
+ Moment at site           8 =  5.40419186321767844E-002 Weight=   1.0000000000000000     
+ Total moment     M=  0.39119124239275344      mu_B
+ Helmholtz energy A= -0.36966692266823392      eV
+ Internal energy  U= -5.76945383758750770E-005 eV
+ Entropy          S=  1.08072873722180724E-003 eV/K
+ Temperature=   343.00000000000000      External field=   4.7000000000000002      Iterations=          41
+ Moment at site           1 =  0.10736039840253397      Weight=   0.0000000000000000     
+ Moment at site           2 =  3.97166016629994373E-002 Weight=   1.0000000000000000     
+ Moment at site           3 =  7.29810363280588570E-002 Weight=   1.0000000000000000     
+ Moment at site           4 =  7.29810363280588570E-002 Weight=   1.0000000000000000     
+ Moment at site           5 =  4.85108121736545148E-002 Weight=   1.0000000000000000     
+ Moment at site           6 =  4.85108121736545148E-002 Weight=   1.0000000000000000     
+ Moment at site           7 =  5.39360246633481533E-002 Weight=   1.0000000000000000     
+ Moment at site           8 =  5.39360246633481533E-002 Weight=   1.0000000000000000     
+ Total moment     M=  0.39057234799312246      mu_B
+ Helmholtz energy A= -0.37074771489454678      eV
+ Internal energy  U= -5.76528368177483245E-005 eV
+ Entropy          S=  1.08072904390008463E-003 eV/K
+ Temperature=   344.00000000000000      External field=   4.7000000000000002      Iterations=          41
+ Moment at site           1 =  0.10704843404221620      Weight=   0.0000000000000000     
+ Moment at site           2 =  3.97738076670883026E-002 Weight=   1.0000000000000000     
+ Moment at site           3 =  7.27829861454155069E-002 Weight=   1.0000000000000000     
+ Moment at site           4 =  7.27829861454155069E-002 Weight=   1.0000000000000000     
+ Moment at site           5 =  4.84768843434590577E-002 Weight=   1.0000000000000000     
+ Moment at site           6 =  4.84768843434590577E-002 Weight=   1.0000000000000000     
+ Moment at site           7 =  5.38310750879227445E-002 Weight=   1.0000000000000000     
+ Moment at site           8 =  5.38310750879227445E-002 Weight=   1.0000000000000000     
+ Total moment     M=  0.38995569882068287      mu_B
+ Helmholtz energy A= -0.37182850732301032      eV
+ Internal energy  U= -5.76115394053364858E-005 eV
+ Entropy          S=  1.08072934820815404E-003 eV/K
+ Temperature=   345.00000000000000      External field=   4.7000000000000002      Iterations=          41
+ Moment at site           1 =  0.10673827704740901      Weight=   0.0000000000000000     
+ Moment at site           2 =  3.98293375430784913E-002 Weight=   1.0000000000000000     
+ Moment at site           3 =  7.25865375284849429E-002 Weight=   1.0000000000000000     
+ Moment at site           4 =  7.25865375284849429E-002 Weight=   1.0000000000000000     
+ Moment at site           5 =  4.84423854765672277E-002 Weight=   1.0000000000000000     
+ Moment at site           6 =  4.84423854765672277E-002 Weight=   1.0000000000000000     
+ Moment at site           7 =  5.37270470315971554E-002 Weight=   1.0000000000000000     
+ Moment at site           8 =  5.37270470315971554E-002 Weight=   1.0000000000000000     
+ Total moment     M=  0.38934127761637710      mu_B
+ Helmholtz energy A= -0.37290929994708316      eV
+ Internal energy  U= -5.75706330596801637E-005 eV
+ Entropy          S=  1.08072965018557541E-003 eV/K
+ Temperature=   346.00000000000000      External field=   4.7000000000000002      Iterations=          40
+ Moment at site           1 =  0.10642991176023742      Weight=   0.0000000000000000     
+ Moment at site           2 =  3.98832270541487274E-002 Weight=   1.0000000000000000     
+ Moment at site           3 =  7.23916650430623254E-002 Weight=   1.0000000000000000     
+ Moment at site           4 =  7.23916650430623254E-002 Weight=   1.0000000000000000     
+ Moment at site           5 =  4.84073366849194706E-002 Weight=   1.0000000000000000     
+ Moment at site           6 =  4.84073366849194706E-002 Weight=   1.0000000000000000     
+ Moment at site           7 =  5.36239184481127479E-002 Weight=   1.0000000000000000     
+ Moment at site           8 =  5.36239184481127479E-002 Weight=   1.0000000000000000     
+ Total moment     M=  0.38872906740633784      mu_B
+ Helmholtz energy A= -0.37399009276045969      eV
+ Internal energy  U= -5.75301051736834218E-005 eV
+ Entropy          S=  1.08072994987076874E-003 eV/K
+ Temperature=   347.00000000000000      External field=   4.7000000000000002      Iterations=          40
+ Moment at site           1 =  0.10612332270312663      Weight=   0.0000000000000000     
+ Moment at site           2 =  3.99355110910551772E-002 Weight=   1.0000000000000000     
+ Moment at site           3 =  7.21983438277533779E-002 Weight=   1.0000000000000000     
+ Moment at site           4 =  7.21983438277533779E-002 Weight=   1.0000000000000000     
+ Moment at site           5 =  4.83717584992357647E-002 Weight=   1.0000000000000000     
+ Moment at site           6 =  4.83717584992357647E-002 Weight=   1.0000000000000000     
+ Moment at site           7 =  5.35216678661752446E-002 Weight=   1.0000000000000000     
+ Moment at site           8 =  5.35216678661752446E-002 Weight=   1.0000000000000000     
+ Total moment     M=  0.38811905147738390      mu_B
+ Helmholtz energy A= -0.37507088575704817      eV
+ Internal energy  U= -5.74899435663835871E-005 eV
+ Entropy          S=  1.08073024730110040E-003 eV/K
+ Temperature=   348.00000000000000      External field=   4.7000000000000002      Iterations=          40
+ Moment at site           1 =  0.10581849457624415      Weight=   0.0000000000000000     
+ Moment at site           2 =  3.99862235926384466E-002 Weight=   1.0000000000000000     
+ Moment at site           3 =  7.20065496481326478E-002 Weight=   1.0000000000000000     
+ Moment at site           4 =  7.20065496481326478E-002 Weight=   1.0000000000000000     
+ Moment at site           5 =  4.83356704532035344E-002 Weight=   1.0000000000000000     
+ Moment at site           6 =  4.83356704532035344E-002 Weight=   1.0000000000000000     
+ Moment at site           7 =  5.34202748053662774E-002 Weight=   1.0000000000000000     
+ Moment at site           8 =  5.34202748053662774E-002 Weight=   1.0000000000000000     
+ Total moment     M=  0.38751121340604333      mu_B
+ Helmholtz energy A= -0.37615167893098694      eV
+ Internal energy  U= -5.74501365183127750E-005 eV
+ Entropy          S=  1.08073054251284087E-003 eV/K
+ Temperature=   349.00000000000000      External field=   4.7000000000000002      Iterations=          40
+ Moment at site           1 =  0.10551541225488847      Weight=   0.0000000000000000     
+ Moment at site           2 =  4.00353976489839641E-002 Weight=   1.0000000000000000     
+ Moment at site           3 =  7.18162588276683167E-002 Weight=   1.0000000000000000     
+ Moment at site           4 =  7.18162588276683167E-002 Weight=   1.0000000000000000     
+ Moment at site           5 =  4.82990914257015042E-002 Weight=   1.0000000000000000     
+ Moment at site           6 =  4.82990914257015042E-002 Weight=   1.0000000000000000     
+ Moment at site           7 =  5.33197194341610281E-002 Weight=   1.0000000000000000     
+ Moment at site           8 =  5.33197194341610281E-002 Weight=   1.0000000000000000     
+ Total moment     M=  0.38690553702404562      mu_B
+ Helmholtz energy A= -0.37723247227661766      eV
+ Internal energy  U= -5.74106727158450324E-005 eV
+ Entropy          S=  1.08073083554126597E-003 eV/K
+ Temperature=   350.00000000000000      External field=   4.7000000000000002      Iterations=          39
+ Moment at site           1 =  0.10521406078717987      Weight=   0.0000000000000000     
+ Moment at site           2 =  4.00830654935246389E-002 Weight=   1.0000000000000000     
+ Moment at site           3 =  7.16274482543492602E-002 Weight=   1.0000000000000000     
+ Moment at site           4 =  7.16274482543492602E-002 Weight=   1.0000000000000000     
+ Moment at site           5 =  4.82620395276141256E-002 Weight=   1.0000000000000000     
+ Moment at site           6 =  4.82620395276141256E-002 Weight=   1.0000000000000000     
+ Moment at site           7 =  5.32199826826452796E-002 Weight=   1.0000000000000000     
+ Moment at site           8 =  5.32199826826452796E-002 Weight=   1.0000000000000000     
+ Total moment     M=  0.38630200642274193      mu_B
+ Helmholtz energy A= -0.37831326578848473      eV
+ Internal energy  U= -5.73715412512779244E-005 eV
+ Entropy          S=  1.08073112642066726E-003 eV/K
+ Temperature=   351.00000000000000      External field=   4.7000000000000002      Iterations=          39
+ Moment at site           1 =  0.10491442539120044      Weight=   0.0000000000000000     
+ Moment at site           2 =  4.01292585964365886E-002 Weight=   1.0000000000000000     
+ Moment at site           3 =  7.14400953184653048E-002 Weight=   1.0000000000000000     
+ Moment at site           4 =  7.14400953184653048E-002 Weight=   1.0000000000000000     
+ Moment at site           5 =  4.82245324075225926E-002 Weight=   1.0000000000000000     
+ Moment at site           6 =  4.82245324075225926E-002 Weight=   1.0000000000000000     
+ Moment at site           7 =  5.31210459406339514E-002 Weight=   1.0000000000000000     
+ Moment at site           8 =  5.31210459406339514E-002 Weight=   1.0000000000000000     
+ Total moment     M=  0.38570060592968025      mu_B
+ Helmholtz energy A= -0.37939405946131299      eV
+ Internal energy  U= -5.73327315763656211E-005 eV
+ Entropy          S=  1.08073141518443493E-003 eV/K
+ Temperature=   352.00000000000000      External field=   4.7000000000000002      Iterations=          39
+ Moment at site           1 =  0.10461649145311114      Weight=   0.0000000000000000     
+ Moment at site           2 =  4.01740075876797567E-002 Weight=   1.0000000000000000     
+ Moment at site           3 =  7.12541779648561274E-002 Weight=   1.0000000000000000     
+ Moment at site           4 =  7.12541779648561274E-002 Weight=   1.0000000000000000     
+ Moment at site           5 =  4.81865868582977280E-002 Weight=   1.0000000000000000     
+ Moment at site           6 =  4.81865868582977280E-002 Weight=   1.0000000000000000     
+ Moment at site           7 =  5.30228914463239109E-002 Weight=   1.0000000000000000     
+ Moment at site           8 =  5.30228914463239109E-002 Weight=   1.0000000000000000     
+ Total moment     M=  0.38510132012663534      mu_B
+ Helmholtz energy A= -0.38047485329002156      eV
+ Internal energy  U= -5.72942335329418290E-005 eV
+ Entropy          S=  1.08073170186502457E-003 eV/K
+ Temperature=   353.00000000000000      External field=   4.7000000000000002      Iterations=          38
+ Moment at site           1 =  0.10432024452430966      Weight=   0.0000000000000000     
+ Moment at site           2 =  4.02173423341657191E-002 Weight=   1.0000000000000000     
+ Moment at site           3 =  7.10696746414618691E-002 Weight=   1.0000000000000000     
+ Moment at site           4 =  7.10696746414618691E-002 Weight=   1.0000000000000000     
+ Moment at site           5 =  4.81482190636057239E-002 Weight=   1.0000000000000000     
+ Moment at site           6 =  4.81482190636057239E-002 Weight=   1.0000000000000000     
+ Moment at site           7 =  5.29255020438293700E-002 Weight=   1.0000000000000000     
+ Moment at site           8 =  5.29255020438293700E-002 Weight=   1.0000000000000000     
+ Total moment     M=  0.38450413383195969      mu_B
+ Helmholtz energy A= -0.38155564726970581      eV
+ Internal energy  U= -5.72560373146848117E-005 eV
+ Entropy          S=  1.08073198649402593E-003 eV/K
+ Temperature=   354.00000000000000      External field=   4.7000000000000002      Iterations=          38
+ Moment at site           1 =  0.10402567031949417      Weight=   0.0000000000000000     
+ Moment at site           2 =  4.02592920148830830E-002 Weight=   1.0000000000000000     
+ Moment at site           3 =  7.08865642498434367E-002 Weight=   1.0000000000000000     
+ Moment at site           4 =  7.08865642498434367E-002 Weight=   1.0000000000000000     
+ Moment at site           5 =  4.81094448356478577E-002 Weight=   1.0000000000000000     
+ Moment at site           6 =  4.81094448356478577E-002 Weight=   1.0000000000000000     
+ Moment at site           7 =  5.28288609444033039E-002 Weight=   1.0000000000000000     
+ Moment at site           8 =  5.28288609444033039E-002 Weight=   1.0000000000000000     
+ Total moment     M=  0.38390903207467231      mu_B
+ Helmholtz energy A= -0.38263644139561798      eV
+ Internal energy  U= -5.72181334280420323E-005 eV
+ Entropy          S=  1.08073226910223143E-003 eV/K
+ Temperature=   355.00000000000000      External field=   4.7000000000000002      Iterations=          38
+ Moment at site           1 =  0.10373275471389221      Weight=   0.0000000000000000     
+ Moment at site           2 =  4.02998850377387849E-002 Weight=   1.0000000000000000     
+ Moment at site           3 =  7.07048262020084639E-002 Weight=   1.0000000000000000     
+ Moment at site           4 =  7.07048262020084639E-002 Weight=   1.0000000000000000     
+ Moment at site           5 =  4.80702792021841518E-002 Weight=   1.0000000000000000     
+ Moment at site           6 =  4.80702792021841518E-002 Weight=   1.0000000000000000     
+ Moment at site           7 =  5.27329521399918788E-002 Weight=   1.0000000000000000     
+ Moment at site           8 =  5.27329521399918788E-002 Weight=   1.0000000000000000     
+ Total moment     M=  0.38331600012610778      mu_B
+ Helmholtz energy A= -0.38371723566318489      eV
+ Internal energy  U= -5.71805127297620881E-005 eV
+ Entropy          S=  1.08073254971959173E-003 eV/K
+ Temperature=   356.00000000000000      External field=   4.7000000000000002      Iterations=          38
+ Moment at site           1 =  0.10344148374159090      Weight=   0.0000000000000000     
+ Moment at site           2 =  4.03391491329052748E-002 Weight=   1.0000000000000000     
+ Moment at site           3 =  7.05244403570876865E-002 Weight=   1.0000000000000000     
+ Moment at site           4 =  7.05244403570876865E-002 Weight=   1.0000000000000000     
+ Moment at site           5 =  4.80307367293080628E-002 Weight=   1.0000000000000000     
+ Moment at site           6 =  4.80307367293080628E-002 Weight=   1.0000000000000000     
+ Moment at site           7 =  5.26377600809412247E-002 Weight=   1.0000000000000000     
+ Moment at site           8 =  5.26377600809412247E-002 Weight=   1.0000000000000000     
+ Total moment     M=  0.38272502346757925      mu_B
+ Helmholtz energy A= -0.38479803006798496      eV
+ Internal energy  U= -5.71431663793314733E-005 eV
+ Entropy          S=  1.08073282837529679E-003 eV/K
+ Temperature=   357.00000000000000      External field=   4.7000000000000002      Iterations=          37
+ Moment at site           1 =  0.10315184359273033      Weight=   0.0000000000000000     
+ Moment at site           2 =  4.03771113397249359E-002 Weight=   1.0000000000000000     
+ Moment at site           3 =  7.03453870317783253E-002 Weight=   1.0000000000000000     
+ Moment at site           4 =  7.03453870317783253E-002 Weight=   1.0000000000000000     
+ Moment at site           5 =  4.79908313986453644E-002 Weight=   1.0000000000000000     
+ Moment at site           6 =  4.79908313986453644E-002 Weight=   1.0000000000000000     
+ Moment at site           7 =  5.25432697977927105E-002 Weight=   1.0000000000000000     
+ Moment at site           8 =  5.25432697977927105E-002 Weight=   1.0000000000000000     
+ Total moment     M=  0.38213608779615776      mu_B
+ Helmholtz energy A= -0.38587882460574963      eV
+ Internal energy  U= -5.71060858425924186E-005 eV
+ Entropy          S=  1.08073310509777874E-003 eV/K
+ Temperature=   358.00000000000000      External field=   4.7000000000000002      Iterations=          37
+ Moment at site           1 =  0.10286382061165611      Weight=   0.0000000000000000     
+ Moment at site           2 =  4.04137980939073618E-002 Weight=   1.0000000000000000     
+ Moment at site           3 =  7.01676469421407129E-002 Weight=   1.0000000000000000     
+ Moment at site           4 =  7.01676469421407129E-002 Weight=   1.0000000000000000     
+ Moment at site           5 =  4.79505769082037292E-002 Weight=   1.0000000000000000     
+ Moment at site           6 =  4.79505769082037292E-002 Weight=   1.0000000000000000     
+ Moment at site           7 =  5.24494666039874366E-002 Weight=   1.0000000000000000     
+ Moment at site           8 =  5.24494666039874366E-002 Weight=   1.0000000000000000     
+ Total moment     M=  0.38154917900257107      mu_B
+ Helmholtz energy A= -0.38695961927234424      eV
+ Internal energy  U= -5.70692628514882409E-005 eV
+ Entropy          S=  1.08073337991478405E-003 eV/K
+ Temperature=   359.00000000000000      External field=   4.7000000000000002      Iterations=          37
+ Moment at site           1 =  0.10257740129496540      Weight=   0.0000000000000000     
+ Moment at site           2 =  4.04492351439478606E-002 Weight=   1.0000000000000000     
+ Moment at site           3 =  6.99912012596796834E-002 Weight=   1.0000000000000000     
+ Moment at site           4 =  6.99912012596796834E-002 Weight=   1.0000000000000000     
+ Moment at site           5 =  4.79099862653463784E-002 Weight=   1.0000000000000000     
+ Moment at site           6 =  4.79099862653463784E-002 Weight=   1.0000000000000000     
+ Moment at site           7 =  5.23563364987684951E-002 Weight=   1.0000000000000000     
+ Moment at site           8 =  5.23563364987684951E-002 Weight=   1.0000000000000000     
+ Total moment     M=  0.38096428319153691      mu_B
+ Helmholtz energy A= -0.38804041406378292      eV
+ Internal energy  U= -5.70326894372253599E-005 eV
+ Entropy          S=  1.08073365285333081E-003 eV/K
+ Temperature=   360.00000000000000      External field=   4.7000000000000002      Iterations=          37
+ Moment at site           1 =  0.10229257228891342      Weight=   0.0000000000000000     
+ Moment at site           2 =  4.04834476397918502E-002 Weight=   1.0000000000000000     
+ Moment at site           3 =  6.98160315524204156E-002 Weight=   1.0000000000000000     
+ Moment at site           4 =  6.98160315524204156E-002 Weight=   1.0000000000000000     
+ Moment at site           5 =  4.78690720973165423E-002 Weight=   1.0000000000000000     
+ Moment at site           6 =  4.78690720973165423E-002 Weight=   1.0000000000000000     
+ Moment at site           7 =  5.22638658598693351E-002 Weight=   1.0000000000000000     
+ Moment at site           8 =  5.22638658598693351E-002 Weight=   1.0000000000000000     
+ Total moment     M=  0.38038138665900445      mu_B
+ Helmholtz energy A= -0.38912120897620911      eV
+ Internal energy  U= -5.69963578894224242E-005 eV
+ Entropy          S=  1.08073392393977685E-003 eV/K
+ Temperature=   361.00000000000000      External field=   4.7000000000000002      Iterations=          36
+ Moment at site           1 =  0.10200932038760158      Weight=   0.0000000000000000     
+ Moment at site           2 =  4.05164601173837111E-002 Weight=   1.0000000000000000     
+ Moment at site           3 =  6.96421197964408323E-002 Weight=   1.0000000000000000     
+ Moment at site           4 =  6.96421197964408323E-002 Weight=   1.0000000000000000     
+ Moment at site           5 =  4.78278465275090298E-002 Weight=   1.0000000000000000     
+ Moment at site           6 =  4.78278465275090298E-002 Weight=   1.0000000000000000     
+ Moment at site           7 =  5.21720415666173665E-002 Weight=   1.0000000000000000     
+ Moment at site           8 =  5.21720415666173665E-002 Weight=   1.0000000000000000     
+ Total moment     M=  0.37980047589851818      mu_B
+ Helmholtz energy A= -0.39020200400589872      eV
+ Internal energy  U= -5.69602607613509311E-005 eV
+ Entropy          S=  1.08073419319982644E-003 eV/K
+ Temperature=   362.00000000000000      External field=   4.7000000000000002      Iterations=          36
+ Moment at site           1 =  0.10172763253091688      Weight=   0.0000000000000000     
+ Moment at site           2 =  4.05482965823080743E-002 Weight=   1.0000000000000000     
+ Moment at site           3 =  6.94694483189757656E-002 Weight=   1.0000000000000000     
+ Moment at site           4 =  6.94694483189757656E-002 Weight=   1.0000000000000000     
+ Moment at site           5 =  4.77863214692359137E-002 Weight=   1.0000000000000000     
+ Moment at site           6 =  4.77863214692359137E-002 Weight=   1.0000000000000000     
+ Moment at site           7 =  5.20808507062579945E-002 Weight=   1.0000000000000000     
+ Moment at site           8 =  5.20808507062579945E-002 Weight=   1.0000000000000000     
+ Total moment     M=  0.37922153757124744      mu_B
+ Helmholtz energy A= -0.39128279914923875      eV
+ Internal energy  U= -5.69243908293012198E-005 eV
+ Entropy          S=  1.08073446065858969E-003 eV/K
+ Temperature=   363.00000000000000      External field=   4.7000000000000002      Iterations=          36
+ Moment at site           1 =  0.10144749580263124      Weight=   0.0000000000000000     
+ Moment at site           2 =  4.05789804246753302E-002 Weight=   1.0000000000000000     
+ Moment at site           3 =  6.92979998572279543E-002 Weight=   1.0000000000000000     
+ Moment at site           4 =  6.92979998572279543E-002 Weight=   1.0000000000000000     
+ Moment at site           5 =  4.77445082201320772E-002 Weight=   1.0000000000000000     
+ Moment at site           6 =  4.77445082201320772E-002 Weight=   1.0000000000000000     
+ Moment at site           7 =  5.19902809802809882E-002 Weight=   1.0000000000000000     
+ Moment at site           8 =  5.19902809802809882E-002 Weight=   1.0000000000000000     
+ Total moment     M=  0.37864455853995732      mu_B
+ Helmholtz energy A= -0.39236359440274687      eV
+ Internal energy  U= -5.68887411309852039E-005 eV
+ Entropy          S=  1.08073472634053966E-003 eV/K
+ Temperature=   364.00000000000000      External field=   4.7000000000000002      Iterations=          36
+ Moment at site           1 =  0.10116889742823432      Weight=   0.0000000000000000     
+ Moment at site           2 =  4.06085345048622440E-002 Weight=   1.0000000000000000     
+ Moment at site           3 =  6.91277575001898043E-002 Weight=   1.0000000000000000     
+ Moment at site           4 =  6.91277575001898043E-002 Weight=   1.0000000000000000     
+ Moment at site           5 =  4.77024177654855469E-002 Weight=   1.0000000000000000     
+ Moment at site           6 =  4.77024177654855469E-002 Weight=   1.0000000000000000     
+ Moment at site           7 =  5.19003204006410479E-002 Weight=   1.0000000000000000     
+ Moment at site           8 =  5.19003204006410479E-002 Weight=   1.0000000000000000     
+ Total moment     M=  0.37806952583749509      mu_B
+ Helmholtz energy A= -0.39344438976305096      eV
+ Internal energy  U= -5.68533049239117693E-005 eV
+ Entropy          S=  1.08073499026957952E-003 eV/K
+ Temperature=   365.00000000000000      External field=   4.7000000000000002      Iterations=          35
+ Moment at site           1 =  0.10089182477303282      Weight=   0.0000000000000000     
+ Moment at site           2 =  4.06369811348745863E-002 Weight=   1.0000000000000000     
+ Moment at site           3 =  6.89587047022435090E-002 Weight=   1.0000000000000000     
+ Moment at site           4 =  6.89587047022435090E-002 Weight=   1.0000000000000000     
+ Moment at site           5 =  4.76600606513756381E-002 Weight=   1.0000000000000000     
+ Moment at site           6 =  4.76600606513756381E-002 Weight=   1.0000000000000000     
+ Moment at site           7 =  5.18109574167839454E-002 Weight=   1.0000000000000000     
+ Moment at site           8 =  5.18109574167839454E-002 Weight=   1.0000000000000000     
+ Total moment     M=  0.37749642667568073      mu_B
+ Helmholtz energy A= -0.39452518522689212      eV
+ Internal energy  U= -5.68180756927938471E-005 eV
+ Entropy          S=  1.08073525246903937E-003 eV/K
+ Temperature=   366.00000000000000      External field=   4.7000000000000002      Iterations=          35
+ Moment at site           1 =  0.10061626534037416      Weight=   0.0000000000000000     
+ Moment at site           2 =  4.06643421617448250E-002 Weight=   1.0000000000000000     
+ Moment at site           3 =  6.87908252273507770E-002 Weight=   1.0000000000000000     
+ Moment at site           4 =  6.87908252273507770E-002 Weight=   1.0000000000000000     
+ Moment at site           5 =  4.76174472798305201E-002 Weight=   1.0000000000000000     
+ Moment at site           6 =  4.76174472798305201E-002 Weight=   1.0000000000000000     
+ Moment at site           7 =  5.17221806226151326E-002 Weight=   1.0000000000000000     
+ Moment at site           8 =  5.17221806226151326E-002 Weight=   1.0000000000000000     
+ Total moment     M=  0.37692524842133768      mu_B
+ Helmholtz energy A= -0.39560598079110715      eV
+ Internal energy  U= -5.67830471125292590E-005 eV
+ Entropy          S=  1.08073551296173406E-003 eV/K
+ Temperature=   367.00000000000000      External field=   4.7000000000000002      Iterations=          35
+ Moment at site           1 =  0.10034220676962136      Weight=   0.0000000000000000     
+ Moment at site           2 =  4.06906388772569280E-002 Weight=   1.0000000000000000     
+ Moment at site           3 =  6.86241032095404047E-002 Weight=   1.0000000000000000     
+ Moment at site           4 =  6.86241032095404047E-002 Weight=   1.0000000000000000     
+ Moment at site           5 =  4.75745874932541682E-002 Weight=   1.0000000000000000     
+ Moment at site           6 =  4.75745874932541682E-002 Weight=   1.0000000000000000     
+ Moment at site           7 =  5.16339791690734601E-002 Weight=   1.0000000000000000     
+ Moment at site           8 =  5.16339791690734601E-002 Weight=   1.0000000000000000     
+ Total moment     M=  0.37635597862099301      mu_B
+ Helmholtz energy A= -0.39668677645264583      eV
+ Internal energy  U= -5.67482130843570230E-005 eV
+ Entropy          S=  1.08073577176992226E-003 eV/K
+ Temperature=   368.00000000000000      External field=   4.7000000000000002      Iterations=          35
+ Moment at site           1 =  0.10006963683451886      Weight=   0.0000000000000000     
+ Moment at site           2 =  4.07158921037826319E-002 Weight=   1.0000000000000000     
+ Moment at site           3 =  6.84585230963881408E-002 Weight=   1.0000000000000000     
+ Moment at site           4 =  6.84585230963881408E-002 Weight=   1.0000000000000000     
+ Moment at site           5 =  4.75314908799319494E-002 Weight=   1.0000000000000000     
+ Moment at site           6 =  4.75314908799319494E-002 Weight=   1.0000000000000000     
+ Moment at site           7 =  5.15463424607890477E-002 Weight=   1.0000000000000000     
+ Moment at site           8 =  5.15463424607890477E-002 Weight=   1.0000000000000000     
+ Total moment     M=  0.37578860497800087      mu_B
+ Helmholtz energy A= -0.39776757220855197      eV
+ Internal energy  U= -5.67135676985996474E-005 eV
+ Entropy          S=  1.08073602891536240E-003 eV/K
+ Temperature=   369.00000000000000      External field=   4.7000000000000002      Iterations=          35
+ Moment at site           1 =  9.97985434410075811E-002 Weight=   0.0000000000000000     
+ Moment at site           2 =  4.07401221893179399E-002 Weight=   1.0000000000000000     
+ Moment at site           3 =  6.82940696520432933E-002 Weight=   1.0000000000000000     
+ Moment at site           4 =  6.82940696520432933E-002 Weight=   1.0000000000000000     
+ Moment at site           5 =  4.74881667117707240E-002 Weight=   1.0000000000000000     
+ Moment at site           6 =  4.74881667117707240E-002 Weight=   1.0000000000000000     
+ Moment at site           7 =  5.14592602182038714E-002 Weight=   1.0000000000000000     
+ Moment at site           8 =  5.14592602182038714E-002 Weight=   1.0000000000000000     
+ Total moment     M=  0.37522311535335368      mu_B
+ Helmholtz energy A= -0.39884836805596519      eV
+ Internal energy  U= -5.66791052352965958E-005 eV
+ Entropy          S=  1.08073628441932219E-003 eV/K

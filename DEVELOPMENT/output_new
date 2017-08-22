@@ -1,0 +1,12 @@
+ Temperature=  0.10000000000000001      External field=   5.0000000000000000      Iterations=          21
+ Moment at site           1 =   1.9999999999796023     
+ Moment at site           2 =   1.9999999999796023     
+ Helmholtz energy A= -8.05154226907850608E-003 eV
+ Internal energy  U= -8.05154226899638774E-003 eV
+ Entropy          S=  8.21176473249153716E-013 eV/K
+ Temperature=   1.1000000000000001      External field=   5.0000000000000000      Iterations=           1
+ Moment at site           1 =   1.9999999999938807     
+ Moment at site           2 =   1.9999999999938807     
+ Helmholtz energy A= -8.05154226924256061E-003 eV
+ Internal energy  U= -8.05154226921792754E-003 eV
+ Entropy          S=  2.23947615361658307E-014 eV/K
